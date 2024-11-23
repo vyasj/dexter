@@ -1,0 +1,1503 @@
+2024-11-21 23:55:57,452 - DEBUG - making directory: images/1_bulbasaur
+2024-11-21 23:55:57,489 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:57,554 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/bulbasaur.png HTTP/11" 200 2196
+2024-11-21 23:55:57,555 - DEBUG - adding images/1_bulbasaur/bank-normal.png
+2024-11-21 23:55:57,555 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:57,619 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/bulbasaur.png HTTP/11" 200 2193
+2024-11-21 23:55:57,620 - DEBUG - adding images/1_bulbasaur/bank-shiny.png
+2024-11-21 23:55:57,620 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:57,715 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:57,715 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/bulbasaur.png.
+2024-11-21 23:55:57,715 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:57,715 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:57,812 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:57,812 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/bulbasaur.png.
+2024-11-21 23:55:57,812 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:57,812 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:57,876 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/bulbasaur.png HTTP/11" 200 15689
+2024-11-21 23:55:57,877 - DEBUG - adding images/1_bulbasaur/go-normal.png
+2024-11-21 23:55:57,877 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:57,949 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/bulbasaur.png HTTP/11" 200 15240
+2024-11-21 23:55:57,949 - DEBUG - adding images/1_bulbasaur/go-shiny.png
+2024-11-21 23:55:57,949 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,033 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:58,033 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/bulbasaur.png.
+2024-11-21 23:55:58,033 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:58,034 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,109 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:58,110 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/bulbasaur.png.
+2024-11-21 23:55:58,110 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:58,110 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,177 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/bulbasaur.png HTTP/11" 200 1839
+2024-11-21 23:55:58,177 - DEBUG - adding images/1_bulbasaur/x-y-normal.png
+2024-11-21 23:55:58,178 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,258 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/bulbasaur.png HTTP/11" 200 1876
+2024-11-21 23:55:58,258 - DEBUG - adding images/1_bulbasaur/x-y-shiny.png
+2024-11-21 23:55:58,259 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,343 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:58,343 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/bulbasaur.png.
+2024-11-21 23:55:58,343 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:58,344 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,432 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:58,432 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/bulbasaur.png.
+2024-11-21 23:55:58,432 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:58,433 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,493 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/bulbasaur.png HTTP/11" 200 506
+2024-11-21 23:55:58,493 - DEBUG - adding images/1_bulbasaur/black-white-normal.png
+2024-11-21 23:55:58,494 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,559 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/bulbasaur.png HTTP/11" 200 506
+2024-11-21 23:55:58,559 - DEBUG - adding images/1_bulbasaur/black-white-shiny.png
+2024-11-21 23:55:58,560 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,621 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:58,621 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/bulbasaur.png.
+2024-11-21 23:55:58,622 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:58,622 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,707 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/bulbasaur.png HTTP/11" 200 402
+2024-11-21 23:55:58,707 - DEBUG - adding images/1_bulbasaur/black-white-back-shiny.png
+2024-11-21 23:55:58,708 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,779 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/bulbasaur.png HTTP/11" 200 499
+2024-11-21 23:55:58,780 - DEBUG - adding images/1_bulbasaur/heartgold-soulsilver-normal.png
+2024-11-21 23:55:58,780 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,855 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/bulbasaur.png HTTP/11" 200 499
+2024-11-21 23:55:58,856 - DEBUG - adding images/1_bulbasaur/heartgold-soulsilver-shiny.png
+2024-11-21 23:55:58,856 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,921 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:58,922 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/bulbasaur.png.
+2024-11-21 23:55:58,922 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:58,922 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:58,987 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/bulbasaur.png HTTP/11" 200 595
+2024-11-21 23:55:58,988 - DEBUG - adding images/1_bulbasaur/heartgold-soulsilver-back-shiny.png
+2024-11-21 23:55:58,988 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,061 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/bulbasaur.png HTTP/11" 200 520
+2024-11-21 23:55:59,062 - DEBUG - adding images/1_bulbasaur/platinum-normal.png
+2024-11-21 23:55:59,062 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,127 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/bulbasaur.png HTTP/11" 200 520
+2024-11-21 23:55:59,127 - DEBUG - adding images/1_bulbasaur/platinum-shiny.png
+2024-11-21 23:55:59,128 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,191 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:59,192 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/bulbasaur.png.
+2024-11-21 23:55:59,192 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:59,192 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,267 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/bulbasaur.png HTTP/11" 200 582
+2024-11-21 23:55:59,267 - DEBUG - adding images/1_bulbasaur/platinum-back-shiny.png
+2024-11-21 23:55:59,268 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,336 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/bulbasaur.png HTTP/11" 200 533
+2024-11-21 23:55:59,336 - DEBUG - adding images/1_bulbasaur/diamond-pearl-normal.png
+2024-11-21 23:55:59,337 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,406 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/bulbasaur.png HTTP/11" 200 533
+2024-11-21 23:55:59,406 - DEBUG - adding images/1_bulbasaur/diamond-pearl-shiny.png
+2024-11-21 23:55:59,407 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,469 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:59,469 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/bulbasaur.png.
+2024-11-21 23:55:59,469 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:59,470 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,536 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/bulbasaur.png HTTP/11" 200 593
+2024-11-21 23:55:59,536 - DEBUG - adding images/1_bulbasaur/diamond-pearl-back-shiny.png
+2024-11-21 23:55:59,537 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,600 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/bulbasaur.png HTTP/11" 200 478
+2024-11-21 23:55:59,601 - DEBUG - adding images/1_bulbasaur/emerald-normal.png
+2024-11-21 23:55:59,601 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,679 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/bulbasaur.png HTTP/11" 200 478
+2024-11-21 23:55:59,680 - DEBUG - adding images/1_bulbasaur/emerald-shiny.png
+2024-11-21 23:55:59,680 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,746 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:55:59,747 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/bulbasaur.png.
+2024-11-21 23:55:59,747 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:55:59,747 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,808 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/bulbasaur.png HTTP/11" 200 476
+2024-11-21 23:55:59,809 - DEBUG - adding images/1_bulbasaur/emerald-back-shiny.png
+2024-11-21 23:55:59,809 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,873 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/bulbasaur.png HTTP/11" 200 497
+2024-11-21 23:55:59,873 - DEBUG - adding images/1_bulbasaur/firered-leafgreen-normal.png
+2024-11-21 23:55:59,874 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:55:59,942 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/bulbasaur.png HTTP/11" 200 497
+2024-11-21 23:55:59,943 - DEBUG - adding images/1_bulbasaur/firered-leafgreen-shiny.png
+2024-11-21 23:55:59,943 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,017 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:00,017 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/bulbasaur.png.
+2024-11-21 23:56:00,017 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:00,018 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,091 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/bulbasaur.png HTTP/11" 200 487
+2024-11-21 23:56:00,091 - DEBUG - adding images/1_bulbasaur/firered-leafgreen-back-shiny.png
+2024-11-21 23:56:00,092 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,166 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/bulbasaur.png HTTP/11" 200 478
+2024-11-21 23:56:00,166 - DEBUG - adding images/1_bulbasaur/ruby-sapphire-normal.png
+2024-11-21 23:56:00,166 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,235 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/bulbasaur.png HTTP/11" 200 478
+2024-11-21 23:56:00,235 - DEBUG - adding images/1_bulbasaur/ruby-sapphire-shiny.png
+2024-11-21 23:56:00,236 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,315 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:00,316 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/bulbasaur.png.
+2024-11-21 23:56:00,316 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:00,316 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,388 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/bulbasaur.png HTTP/11" 200 476
+2024-11-21 23:56:00,410 - DEBUG - adding images/1_bulbasaur/ruby-sapphire-back-shiny.png
+2024-11-21 23:56:00,410 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,495 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/bulbasaur.png HTTP/11" 200 292
+2024-11-21 23:56:00,496 - DEBUG - adding images/1_bulbasaur/crystal-normal.png
+2024-11-21 23:56:00,496 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,561 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/bulbasaur.png HTTP/11" 200 292
+2024-11-21 23:56:00,561 - DEBUG - adding images/1_bulbasaur/crystal-shiny.png
+2024-11-21 23:56:00,562 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,643 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:00,643 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/bulbasaur.png.
+2024-11-21 23:56:00,643 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:00,644 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,774 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/bulbasaur.png HTTP/11" 200 333
+2024-11-21 23:56:00,774 - DEBUG - adding images/1_bulbasaur/crystal-back-shiny.png
+2024-11-21 23:56:00,775 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,847 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/bulbasaur.png HTTP/11" 200 291
+2024-11-21 23:56:00,848 - DEBUG - adding images/1_bulbasaur/gold-normal.png
+2024-11-21 23:56:00,848 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,919 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/bulbasaur.png HTTP/11" 200 291
+2024-11-21 23:56:00,920 - DEBUG - adding images/1_bulbasaur/gold-shiny.png
+2024-11-21 23:56:00,920 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:00,988 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:00,988 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/bulbasaur.png.
+2024-11-21 23:56:00,988 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:00,989 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,065 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/bulbasaur.png HTTP/11" 200 333
+2024-11-21 23:56:01,066 - DEBUG - adding images/1_bulbasaur/gold-back-shiny.png
+2024-11-21 23:56:01,066 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,133 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/bulbasaur.png HTTP/11" 200 310
+2024-11-21 23:56:01,134 - DEBUG - adding images/1_bulbasaur/silver-normal.png
+2024-11-21 23:56:01,134 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,206 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/bulbasaur.png HTTP/11" 200 310
+2024-11-21 23:56:01,206 - DEBUG - adding images/1_bulbasaur/silver-shiny.png
+2024-11-21 23:56:01,207 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,279 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,279 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/bulbasaur.png.
+2024-11-21 23:56:01,279 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,279 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,376 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/bulbasaur.png HTTP/11" 200 333
+2024-11-21 23:56:01,376 - DEBUG - adding images/1_bulbasaur/silver-back-shiny.png
+2024-11-21 23:56:01,377 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,446 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/bulbasaur.png HTTP/11" 200 357
+2024-11-21 23:56:01,446 - DEBUG - adding images/1_bulbasaur/yellow-normal.png
+2024-11-21 23:56:01,447 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,524 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,525 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/bulbasaur.png.
+2024-11-21 23:56:01,525 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,525 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,594 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,595 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/bulbasaur.png.
+2024-11-21 23:56:01,595 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,595 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,670 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,671 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/bulbasaur.png.
+2024-11-21 23:56:01,671 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,671 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,750 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/bulbasaur.png HTTP/11" 200 364
+2024-11-21 23:56:01,751 - DEBUG - adding images/1_bulbasaur/red-blue-normal.png
+2024-11-21 23:56:01,751 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,816 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,817 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/bulbasaur.png.
+2024-11-21 23:56:01,817 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,817 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,888 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,888 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/bulbasaur.png.
+2024-11-21 23:56:01,888 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,888 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:01,953 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/bulbasaur.png HTTP/11" 404 None
+2024-11-21 23:56:01,953 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/bulbasaur.png.
+2024-11-21 23:56:01,953 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:01,953 - DEBUG - total time for Bulbasaur: 4.500657081604004s
+2024-11-21 23:56:01,953 - DEBUG - making directory: images/2_ivysaur
+2024-11-21 23:56:01,954 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,025 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/ivysaur.png HTTP/11" 200 3133
+2024-11-21 23:56:02,025 - DEBUG - adding images/2_ivysaur/bank-normal.png
+2024-11-21 23:56:02,025 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,093 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/ivysaur.png HTTP/11" 200 3111
+2024-11-21 23:56:02,094 - DEBUG - adding images/2_ivysaur/bank-shiny.png
+2024-11-21 23:56:02,094 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,187 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:02,187 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/ivysaur.png.
+2024-11-21 23:56:02,188 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:02,188 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,265 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:02,266 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/ivysaur.png.
+2024-11-21 23:56:02,266 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:02,266 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,338 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/ivysaur.png HTTP/11" 200 17647
+2024-11-21 23:56:02,338 - DEBUG - adding images/2_ivysaur/go-normal.png
+2024-11-21 23:56:02,339 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,397 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/ivysaur.png HTTP/11" 200 17488
+2024-11-21 23:56:02,398 - DEBUG - adding images/2_ivysaur/go-shiny.png
+2024-11-21 23:56:02,434 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,515 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:02,515 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/ivysaur.png.
+2024-11-21 23:56:02,515 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:02,516 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,599 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:02,600 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/ivysaur.png.
+2024-11-21 23:56:02,600 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:02,600 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,663 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/ivysaur.png HTTP/11" 200 2675
+2024-11-21 23:56:02,664 - DEBUG - adding images/2_ivysaur/x-y-normal.png
+2024-11-21 23:56:02,664 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,728 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/ivysaur.png HTTP/11" 200 2662
+2024-11-21 23:56:02,728 - DEBUG - adding images/2_ivysaur/x-y-shiny.png
+2024-11-21 23:56:02,729 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,813 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:02,814 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/ivysaur.png.
+2024-11-21 23:56:02,814 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:02,814 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,916 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:02,916 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/ivysaur.png.
+2024-11-21 23:56:02,916 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:02,917 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:02,990 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/ivysaur.png HTTP/11" 200 795
+2024-11-21 23:56:02,991 - DEBUG - adding images/2_ivysaur/black-white-normal.png
+2024-11-21 23:56:02,991 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,066 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/ivysaur.png HTTP/11" 200 795
+2024-11-21 23:56:03,066 - DEBUG - adding images/2_ivysaur/black-white-shiny.png
+2024-11-21 23:56:03,067 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,138 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:03,138 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/ivysaur.png.
+2024-11-21 23:56:03,138 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:03,138 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,200 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/ivysaur.png HTTP/11" 200 695
+2024-11-21 23:56:03,200 - DEBUG - adding images/2_ivysaur/black-white-back-shiny.png
+2024-11-21 23:56:03,201 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,266 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/ivysaur.png HTTP/11" 200 673
+2024-11-21 23:56:03,266 - DEBUG - adding images/2_ivysaur/heartgold-soulsilver-normal.png
+2024-11-21 23:56:03,267 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,337 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/ivysaur.png HTTP/11" 200 673
+2024-11-21 23:56:03,337 - DEBUG - adding images/2_ivysaur/heartgold-soulsilver-shiny.png
+2024-11-21 23:56:03,338 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,405 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:03,405 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/ivysaur.png.
+2024-11-21 23:56:03,405 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:03,406 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,486 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/ivysaur.png HTTP/11" 200 832
+2024-11-21 23:56:03,490 - DEBUG - adding images/2_ivysaur/heartgold-soulsilver-back-shiny.png
+2024-11-21 23:56:03,490 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,554 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/ivysaur.png HTTP/11" 200 687
+2024-11-21 23:56:03,554 - DEBUG - adding images/2_ivysaur/platinum-normal.png
+2024-11-21 23:56:03,555 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,621 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/ivysaur.png HTTP/11" 200 687
+2024-11-21 23:56:03,621 - DEBUG - adding images/2_ivysaur/platinum-shiny.png
+2024-11-21 23:56:03,622 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,710 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:03,710 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/ivysaur.png.
+2024-11-21 23:56:03,710 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:03,710 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,825 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/ivysaur.png HTTP/11" 200 819
+2024-11-21 23:56:03,825 - DEBUG - adding images/2_ivysaur/platinum-back-shiny.png
+2024-11-21 23:56:03,826 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,892 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/ivysaur.png HTTP/11" 200 700
+2024-11-21 23:56:03,893 - DEBUG - adding images/2_ivysaur/diamond-pearl-normal.png
+2024-11-21 23:56:03,894 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:03,975 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/ivysaur.png HTTP/11" 200 700
+2024-11-21 23:56:03,976 - DEBUG - adding images/2_ivysaur/diamond-pearl-shiny.png
+2024-11-21 23:56:03,976 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,057 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:04,057 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/ivysaur.png.
+2024-11-21 23:56:04,057 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:04,058 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,129 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/ivysaur.png HTTP/11" 200 832
+2024-11-21 23:56:04,129 - DEBUG - adding images/2_ivysaur/diamond-pearl-back-shiny.png
+2024-11-21 23:56:04,130 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,207 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/ivysaur.png HTTP/11" 200 657
+2024-11-21 23:56:04,207 - DEBUG - adding images/2_ivysaur/emerald-normal.png
+2024-11-21 23:56:04,208 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,289 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/ivysaur.png HTTP/11" 200 657
+2024-11-21 23:56:04,289 - DEBUG - adding images/2_ivysaur/emerald-shiny.png
+2024-11-21 23:56:04,290 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,355 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:04,356 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/ivysaur.png.
+2024-11-21 23:56:04,356 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:04,356 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,425 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/ivysaur.png HTTP/11" 200 635
+2024-11-21 23:56:04,425 - DEBUG - adding images/2_ivysaur/emerald-back-shiny.png
+2024-11-21 23:56:04,425 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,493 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/ivysaur.png HTTP/11" 200 630
+2024-11-21 23:56:04,493 - DEBUG - adding images/2_ivysaur/firered-leafgreen-normal.png
+2024-11-21 23:56:04,494 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,566 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/ivysaur.png HTTP/11" 200 630
+2024-11-21 23:56:04,566 - DEBUG - adding images/2_ivysaur/firered-leafgreen-shiny.png
+2024-11-21 23:56:04,567 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,641 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:04,642 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/ivysaur.png.
+2024-11-21 23:56:04,642 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:04,642 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,711 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/ivysaur.png HTTP/11" 200 599
+2024-11-21 23:56:04,712 - DEBUG - adding images/2_ivysaur/firered-leafgreen-back-shiny.png
+2024-11-21 23:56:04,712 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,783 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/ivysaur.png HTTP/11" 200 657
+2024-11-21 23:56:04,784 - DEBUG - adding images/2_ivysaur/ruby-sapphire-normal.png
+2024-11-21 23:56:04,784 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:04,851 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/ivysaur.png HTTP/11" 200 657
+2024-11-21 23:56:04,852 - DEBUG - adding images/2_ivysaur/ruby-sapphire-shiny.png
+2024-11-21 23:56:04,852 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:05,961 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:05,961 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/ivysaur.png.
+2024-11-21 23:56:05,961 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:05,962 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,032 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/ivysaur.png HTTP/11" 200 635
+2024-11-21 23:56:06,032 - DEBUG - adding images/2_ivysaur/ruby-sapphire-back-shiny.png
+2024-11-21 23:56:06,033 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,103 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/ivysaur.png HTTP/11" 200 389
+2024-11-21 23:56:06,104 - DEBUG - adding images/2_ivysaur/crystal-normal.png
+2024-11-21 23:56:06,104 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,165 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/ivysaur.png HTTP/11" 200 389
+2024-11-21 23:56:06,166 - DEBUG - adding images/2_ivysaur/crystal-shiny.png
+2024-11-21 23:56:06,166 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,233 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:06,233 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/ivysaur.png.
+2024-11-21 23:56:06,233 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:06,234 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,293 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/ivysaur.png HTTP/11" 200 373
+2024-11-21 23:56:06,293 - DEBUG - adding images/2_ivysaur/crystal-back-shiny.png
+2024-11-21 23:56:06,294 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,369 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/ivysaur.png HTTP/11" 200 384
+2024-11-21 23:56:06,369 - DEBUG - adding images/2_ivysaur/gold-normal.png
+2024-11-21 23:56:06,370 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,439 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/ivysaur.png HTTP/11" 200 384
+2024-11-21 23:56:06,441 - DEBUG - adding images/2_ivysaur/gold-shiny.png
+2024-11-21 23:56:06,441 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,512 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:06,512 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/ivysaur.png.
+2024-11-21 23:56:06,512 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:06,513 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,575 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/ivysaur.png HTTP/11" 200 373
+2024-11-21 23:56:06,576 - DEBUG - adding images/2_ivysaur/gold-back-shiny.png
+2024-11-21 23:56:06,576 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,651 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/ivysaur.png HTTP/11" 200 397
+2024-11-21 23:56:06,654 - DEBUG - adding images/2_ivysaur/silver-normal.png
+2024-11-21 23:56:06,654 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,750 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/ivysaur.png HTTP/11" 200 397
+2024-11-21 23:56:06,750 - DEBUG - adding images/2_ivysaur/silver-shiny.png
+2024-11-21 23:56:06,751 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,822 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:06,822 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/ivysaur.png.
+2024-11-21 23:56:06,822 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:06,823 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,892 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/ivysaur.png HTTP/11" 200 373
+2024-11-21 23:56:06,892 - DEBUG - adding images/2_ivysaur/silver-back-shiny.png
+2024-11-21 23:56:06,893 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:06,960 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/ivysaur.png HTTP/11" 200 518
+2024-11-21 23:56:06,960 - DEBUG - adding images/2_ivysaur/yellow-normal.png
+2024-11-21 23:56:06,961 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,045 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,045 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/ivysaur.png.
+2024-11-21 23:56:07,045 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,046 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,114 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,115 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/ivysaur.png.
+2024-11-21 23:56:07,115 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,115 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,192 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,192 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/ivysaur.png.
+2024-11-21 23:56:07,192 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,193 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,285 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/ivysaur.png HTTP/11" 200 429
+2024-11-21 23:56:07,285 - DEBUG - adding images/2_ivysaur/red-blue-normal.png
+2024-11-21 23:56:07,286 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,429 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,429 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/ivysaur.png.
+2024-11-21 23:56:07,429 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,429 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,497 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,498 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/ivysaur.png.
+2024-11-21 23:56:07,498 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,498 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,583 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/ivysaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,583 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/ivysaur.png.
+2024-11-21 23:56:07,583 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,583 - DEBUG - total time for Ivysaur: 5.630053520202637s
+2024-11-21 23:56:07,583 - DEBUG - making directory: images/3_venusaur
+2024-11-21 23:56:07,584 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,647 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/venusaur.png HTTP/11" 200 5531
+2024-11-21 23:56:07,647 - DEBUG - adding images/3_venusaur/bank-normal.png
+2024-11-21 23:56:07,648 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,724 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/venusaur.png HTTP/11" 200 5389
+2024-11-21 23:56:07,725 - DEBUG - adding images/3_venusaur/bank-shiny.png
+2024-11-21 23:56:07,725 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,805 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,805 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/venusaur.png.
+2024-11-21 23:56:07,805 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,805 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,883 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:07,884 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/venusaur.png.
+2024-11-21 23:56:07,885 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:07,885 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:07,952 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/venusaur.png HTTP/11" 200 30003
+2024-11-21 23:56:07,953 - DEBUG - adding images/3_venusaur/go-normal.png
+2024-11-21 23:56:07,953 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,029 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/venusaur.png HTTP/11" 200 29637
+2024-11-21 23:56:08,033 - DEBUG - adding images/3_venusaur/go-shiny.png
+2024-11-21 23:56:08,033 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,119 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:08,119 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/venusaur.png.
+2024-11-21 23:56:08,119 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:08,120 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,207 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:08,207 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/venusaur.png.
+2024-11-21 23:56:08,207 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:08,208 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,294 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/venusaur.png HTTP/11" 200 4318
+2024-11-21 23:56:08,295 - DEBUG - adding images/3_venusaur/x-y-normal.png
+2024-11-21 23:56:08,295 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,365 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/venusaur.png HTTP/11" 200 4266
+2024-11-21 23:56:08,366 - DEBUG - adding images/3_venusaur/x-y-shiny.png
+2024-11-21 23:56:08,366 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,441 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:08,441 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/venusaur.png.
+2024-11-21 23:56:08,441 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:08,442 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,513 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:08,514 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/venusaur.png.
+2024-11-21 23:56:08,514 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:08,514 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,578 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/venusaur.png HTTP/11" 200 1316
+2024-11-21 23:56:08,578 - DEBUG - adding images/3_venusaur/black-white-normal.png
+2024-11-21 23:56:08,579 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,652 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/venusaur.png HTTP/11" 200 1316
+2024-11-21 23:56:08,652 - DEBUG - adding images/3_venusaur/black-white-shiny.png
+2024-11-21 23:56:08,652 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,722 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:08,723 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/venusaur.png.
+2024-11-21 23:56:08,723 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:08,723 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,788 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/venusaur.png HTTP/11" 200 1148
+2024-11-21 23:56:08,788 - DEBUG - adding images/3_venusaur/black-white-back-shiny.png
+2024-11-21 23:56:08,789 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,854 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/venusaur.png HTTP/11" 200 1303
+2024-11-21 23:56:08,854 - DEBUG - adding images/3_venusaur/heartgold-soulsilver-normal.png
+2024-11-21 23:56:08,855 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:08,948 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/venusaur.png HTTP/11" 200 1303
+2024-11-21 23:56:08,948 - DEBUG - adding images/3_venusaur/heartgold-soulsilver-shiny.png
+2024-11-21 23:56:08,949 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,018 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:09,019 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/venusaur.png.
+2024-11-21 23:56:09,019 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:09,019 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,100 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/venusaur.png HTTP/11" 200 991
+2024-11-21 23:56:09,100 - DEBUG - adding images/3_venusaur/heartgold-soulsilver-back-shiny.png
+2024-11-21 23:56:09,101 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,174 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/venusaur.png HTTP/11" 200 1282
+2024-11-21 23:56:09,174 - DEBUG - adding images/3_venusaur/platinum-normal.png
+2024-11-21 23:56:09,175 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,248 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/venusaur.png HTTP/11" 200 1282
+2024-11-21 23:56:09,248 - DEBUG - adding images/3_venusaur/platinum-shiny.png
+2024-11-21 23:56:09,249 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,317 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:09,317 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/venusaur.png.
+2024-11-21 23:56:09,317 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:09,317 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,386 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/venusaur.png HTTP/11" 200 978
+2024-11-21 23:56:09,386 - DEBUG - adding images/3_venusaur/platinum-back-shiny.png
+2024-11-21 23:56:09,387 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,454 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/venusaur.png HTTP/11" 200 1295
+2024-11-21 23:56:09,455 - DEBUG - adding images/3_venusaur/diamond-pearl-normal.png
+2024-11-21 23:56:09,455 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,518 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/venusaur.png HTTP/11" 200 1295
+2024-11-21 23:56:09,519 - DEBUG - adding images/3_venusaur/diamond-pearl-shiny.png
+2024-11-21 23:56:09,519 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,587 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:09,588 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/venusaur.png.
+2024-11-21 23:56:09,588 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:09,588 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,664 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/venusaur.png HTTP/11" 200 992
+2024-11-21 23:56:09,664 - DEBUG - adding images/3_venusaur/diamond-pearl-back-shiny.png
+2024-11-21 23:56:09,665 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,821 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/venusaur.png HTTP/11" 200 1049
+2024-11-21 23:56:09,822 - DEBUG - adding images/3_venusaur/emerald-normal.png
+2024-11-21 23:56:09,822 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,887 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/venusaur.png HTTP/11" 200 1042
+2024-11-21 23:56:09,887 - DEBUG - adding images/3_venusaur/emerald-shiny.png
+2024-11-21 23:56:09,888 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:09,955 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:09,955 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/venusaur.png.
+2024-11-21 23:56:09,955 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:09,956 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,029 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/venusaur.png HTTP/11" 200 868
+2024-11-21 23:56:10,029 - DEBUG - adding images/3_venusaur/emerald-back-shiny.png
+2024-11-21 23:56:10,030 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,109 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/venusaur.png HTTP/11" 200 978
+2024-11-21 23:56:10,109 - DEBUG - adding images/3_venusaur/firered-leafgreen-normal.png
+2024-11-21 23:56:10,110 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,183 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/venusaur.png HTTP/11" 200 968
+2024-11-21 23:56:10,183 - DEBUG - adding images/3_venusaur/firered-leafgreen-shiny.png
+2024-11-21 23:56:10,184 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,258 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:10,259 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/venusaur.png.
+2024-11-21 23:56:10,259 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:10,259 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,337 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/venusaur.png HTTP/11" 200 845
+2024-11-21 23:56:10,338 - DEBUG - adding images/3_venusaur/firered-leafgreen-back-shiny.png
+2024-11-21 23:56:10,338 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,415 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/venusaur.png HTTP/11" 200 1049
+2024-11-21 23:56:10,415 - DEBUG - adding images/3_venusaur/ruby-sapphire-normal.png
+2024-11-21 23:56:10,415 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,484 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/venusaur.png HTTP/11" 200 1042
+2024-11-21 23:56:10,485 - DEBUG - adding images/3_venusaur/ruby-sapphire-shiny.png
+2024-11-21 23:56:10,485 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,553 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:10,554 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/venusaur.png.
+2024-11-21 23:56:10,554 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:10,554 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,619 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/venusaur.png HTTP/11" 200 868
+2024-11-21 23:56:10,620 - DEBUG - adding images/3_venusaur/ruby-sapphire-back-shiny.png
+2024-11-21 23:56:10,620 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,706 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/venusaur.png HTTP/11" 200 546
+2024-11-21 23:56:10,706 - DEBUG - adding images/3_venusaur/crystal-normal.png
+2024-11-21 23:56:10,707 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,766 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/venusaur.png HTTP/11" 200 546
+2024-11-21 23:56:10,767 - DEBUG - adding images/3_venusaur/crystal-shiny.png
+2024-11-21 23:56:10,767 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,844 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:10,844 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/venusaur.png.
+2024-11-21 23:56:10,844 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:10,844 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,920 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/venusaur.png HTTP/11" 200 445
+2024-11-21 23:56:10,920 - DEBUG - adding images/3_venusaur/crystal-back-shiny.png
+2024-11-21 23:56:10,920 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:10,990 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/venusaur.png HTTP/11" 200 547
+2024-11-21 23:56:10,990 - DEBUG - adding images/3_venusaur/gold-normal.png
+2024-11-21 23:56:10,991 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,066 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/venusaur.png HTTP/11" 200 547
+2024-11-21 23:56:11,066 - DEBUG - adding images/3_venusaur/gold-shiny.png
+2024-11-21 23:56:11,067 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,130 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,130 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/venusaur.png.
+2024-11-21 23:56:11,130 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,131 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,192 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/venusaur.png HTTP/11" 200 445
+2024-11-21 23:56:11,192 - DEBUG - adding images/3_venusaur/gold-back-shiny.png
+2024-11-21 23:56:11,193 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,252 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/venusaur.png HTTP/11" 200 613
+2024-11-21 23:56:11,253 - DEBUG - adding images/3_venusaur/silver-normal.png
+2024-11-21 23:56:11,253 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,318 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/venusaur.png HTTP/11" 200 613
+2024-11-21 23:56:11,319 - DEBUG - adding images/3_venusaur/silver-shiny.png
+2024-11-21 23:56:11,319 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,387 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,388 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/venusaur.png.
+2024-11-21 23:56:11,388 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,388 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,457 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/venusaur.png HTTP/11" 200 445
+2024-11-21 23:56:11,457 - DEBUG - adding images/3_venusaur/silver-back-shiny.png
+2024-11-21 23:56:11,458 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,524 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/venusaur.png HTTP/11" 200 639
+2024-11-21 23:56:11,524 - DEBUG - adding images/3_venusaur/yellow-normal.png
+2024-11-21 23:56:11,525 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,596 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,597 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/venusaur.png.
+2024-11-21 23:56:11,597 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,597 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,666 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,667 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/venusaur.png.
+2024-11-21 23:56:11,667 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,667 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,747 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,747 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/venusaur.png.
+2024-11-21 23:56:11,747 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,747 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,813 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/venusaur.png HTTP/11" 200 650
+2024-11-21 23:56:11,814 - DEBUG - adding images/3_venusaur/red-blue-normal.png
+2024-11-21 23:56:11,814 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,877 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,878 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/venusaur.png.
+2024-11-21 23:56:11,878 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,878 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:11,955 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:11,955 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/venusaur.png.
+2024-11-21 23:56:11,955 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:11,956 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,027 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/venusaur.png HTTP/11" 404 None
+2024-11-21 23:56:12,027 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/venusaur.png.
+2024-11-21 23:56:12,027 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,027 - DEBUG - total time for Venusaur: 4.444013833999634s
+2024-11-21 23:56:12,027 - DEBUG - making directory: images/3_venusaur-mega
+2024-11-21 23:56:12,028 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,103 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/venusaur-mega.png HTTP/11" 200 7714
+2024-11-21 23:56:12,103 - DEBUG - adding images/3_venusaur-mega/bank-normal.png
+2024-11-21 23:56:12,104 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,157 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/venusaur-mega.png HTTP/11" 200 7863
+2024-11-21 23:56:12,158 - DEBUG - adding images/3_venusaur-mega/bank-shiny.png
+2024-11-21 23:56:12,158 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,237 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/venusaur-mega.png HTTP/11" 404 None
+2024-11-21 23:56:12,237 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/venusaur-mega.png.
+2024-11-21 23:56:12,237 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,238 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,317 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/venusaur-mega.png HTTP/11" 404 None
+2024-11-21 23:56:12,317 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/venusaur-mega.png.
+2024-11-21 23:56:12,317 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,318 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,385 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/venusaur-mega.png HTTP/11" 200 32904
+2024-11-21 23:56:12,385 - DEBUG - adding images/3_venusaur-mega/go-normal.png
+2024-11-21 23:56:12,422 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,488 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/venusaur-mega.png HTTP/11" 200 32912
+2024-11-21 23:56:12,488 - DEBUG - adding images/3_venusaur-mega/go-shiny.png
+2024-11-21 23:56:12,489 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,566 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/venusaur-mega.png HTTP/11" 404 None
+2024-11-21 23:56:12,566 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/venusaur-mega.png.
+2024-11-21 23:56:12,566 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,567 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,665 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/venusaur-mega.png HTTP/11" 404 None
+2024-11-21 23:56:12,665 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/venusaur-mega.png.
+2024-11-21 23:56:12,665 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,665 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,749 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/venusaur-mega.png HTTP/11" 200 5647
+2024-11-21 23:56:12,749 - DEBUG - adding images/3_venusaur-mega/x-y-normal.png
+2024-11-21 23:56:12,749 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,826 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/venusaur-mega.png HTTP/11" 200 5850
+2024-11-21 23:56:12,826 - DEBUG - adding images/3_venusaur-mega/x-y-shiny.png
+2024-11-21 23:56:12,827 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,908 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/venusaur-mega.png HTTP/11" 404 None
+2024-11-21 23:56:12,908 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/venusaur-mega.png.
+2024-11-21 23:56:12,908 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,909 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:12,986 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/venusaur-mega.png HTTP/11" 404 None
+2024-11-21 23:56:12,986 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/venusaur-mega.png.
+2024-11-21 23:56:12,986 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:12,986 - DEBUG - total time for Venusaur-Mega: 0.9590098857879639s
+2024-11-21 23:56:12,986 - DEBUG - making directory: images/4_charmander
+2024-11-21 23:56:12,987 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:13,064 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/charmander.png HTTP/11" 200 2265
+2024-11-21 23:56:13,064 - DEBUG - adding images/4_charmander/bank-normal.png
+2024-11-21 23:56:13,065 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:13,138 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/charmander.png HTTP/11" 200 2325
+2024-11-21 23:56:13,139 - DEBUG - adding images/4_charmander/bank-shiny.png
+2024-11-21 23:56:13,139 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:13,227 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:13,227 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/charmander.png.
+2024-11-21 23:56:13,227 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:13,228 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:13,328 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:13,329 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/charmander.png.
+2024-11-21 23:56:13,329 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:13,329 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:13,397 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/charmander.png HTTP/11" 200 10619
+2024-11-21 23:56:13,397 - DEBUG - adding images/4_charmander/go-normal.png
+2024-11-21 23:56:13,397 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:13,464 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/charmander.png HTTP/11" 200 10304
+2024-11-21 23:56:13,465 - DEBUG - adding images/4_charmander/go-shiny.png
+2024-11-21 23:56:13,465 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:14,610 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:14,610 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/charmander.png.
+2024-11-21 23:56:14,610 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:14,611 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:14,676 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:14,680 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/charmander.png.
+2024-11-21 23:56:14,680 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:14,680 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:14,750 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/charmander.png HTTP/11" 200 1726
+2024-11-21 23:56:14,750 - DEBUG - adding images/4_charmander/x-y-normal.png
+2024-11-21 23:56:14,750 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:14,825 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/charmander.png HTTP/11" 200 1907
+2024-11-21 23:56:14,825 - DEBUG - adding images/4_charmander/x-y-shiny.png
+2024-11-21 23:56:14,826 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:14,902 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:14,902 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/charmander.png.
+2024-11-21 23:56:14,902 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:14,903 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:14,988 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:14,989 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/charmander.png.
+2024-11-21 23:56:14,989 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:14,989 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,052 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/charmander.png HTTP/11" 200 530
+2024-11-21 23:56:15,053 - DEBUG - adding images/4_charmander/black-white-normal.png
+2024-11-21 23:56:15,053 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,119 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/charmander.png HTTP/11" 200 530
+2024-11-21 23:56:15,120 - DEBUG - adding images/4_charmander/black-white-shiny.png
+2024-11-21 23:56:15,120 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,199 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:15,199 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/charmander.png.
+2024-11-21 23:56:15,199 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:15,200 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,268 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/charmander.png HTTP/11" 200 452
+2024-11-21 23:56:15,268 - DEBUG - adding images/4_charmander/black-white-back-shiny.png
+2024-11-21 23:56:15,269 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,329 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/charmander.png HTTP/11" 200 524
+2024-11-21 23:56:15,329 - DEBUG - adding images/4_charmander/heartgold-soulsilver-normal.png
+2024-11-21 23:56:15,330 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,402 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/charmander.png HTTP/11" 200 523
+2024-11-21 23:56:15,409 - DEBUG - adding images/4_charmander/heartgold-soulsilver-shiny.png
+2024-11-21 23:56:15,410 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,468 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:15,469 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/charmander.png.
+2024-11-21 23:56:15,469 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:15,469 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,530 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/charmander.png HTTP/11" 200 562
+2024-11-21 23:56:15,531 - DEBUG - adding images/4_charmander/heartgold-soulsilver-back-shiny.png
+2024-11-21 23:56:15,531 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,593 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/charmander.png HTTP/11" 200 509
+2024-11-21 23:56:15,593 - DEBUG - adding images/4_charmander/platinum-normal.png
+2024-11-21 23:56:15,593 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,705 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/charmander.png HTTP/11" 200 509
+2024-11-21 23:56:15,705 - DEBUG - adding images/4_charmander/platinum-shiny.png
+2024-11-21 23:56:15,705 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,793 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:15,793 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/charmander.png.
+2024-11-21 23:56:15,793 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:15,794 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,855 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/charmander.png HTTP/11" 200 549
+2024-11-21 23:56:15,855 - DEBUG - adding images/4_charmander/platinum-back-shiny.png
+2024-11-21 23:56:15,856 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,916 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/charmander.png HTTP/11" 200 522
+2024-11-21 23:56:15,917 - DEBUG - adding images/4_charmander/diamond-pearl-normal.png
+2024-11-21 23:56:15,917 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:15,975 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/charmander.png HTTP/11" 200 522
+2024-11-21 23:56:15,975 - DEBUG - adding images/4_charmander/diamond-pearl-shiny.png
+2024-11-21 23:56:15,976 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,041 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:16,041 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/charmander.png.
+2024-11-21 23:56:16,042 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:16,042 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,103 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/charmander.png HTTP/11" 200 565
+2024-11-21 23:56:16,104 - DEBUG - adding images/4_charmander/diamond-pearl-back-shiny.png
+2024-11-21 23:56:16,104 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,187 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/charmander.png HTTP/11" 200 517
+2024-11-21 23:56:16,188 - DEBUG - adding images/4_charmander/emerald-normal.png
+2024-11-21 23:56:16,188 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,257 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/charmander.png HTTP/11" 200 517
+2024-11-21 23:56:16,258 - DEBUG - adding images/4_charmander/emerald-shiny.png
+2024-11-21 23:56:16,258 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,352 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:16,352 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/charmander.png.
+2024-11-21 23:56:16,352 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:16,353 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,425 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/charmander.png HTTP/11" 200 451
+2024-11-21 23:56:16,426 - DEBUG - adding images/4_charmander/emerald-back-shiny.png
+2024-11-21 23:56:16,426 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,497 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/charmander.png HTTP/11" 200 501
+2024-11-21 23:56:16,498 - DEBUG - adding images/4_charmander/firered-leafgreen-normal.png
+2024-11-21 23:56:16,498 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,565 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/charmander.png HTTP/11" 200 501
+2024-11-21 23:56:16,567 - DEBUG - adding images/4_charmander/firered-leafgreen-shiny.png
+2024-11-21 23:56:16,568 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,634 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:16,634 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/charmander.png.
+2024-11-21 23:56:16,634 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:16,635 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,704 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/charmander.png HTTP/11" 200 469
+2024-11-21 23:56:16,704 - DEBUG - adding images/4_charmander/firered-leafgreen-back-shiny.png
+2024-11-21 23:56:16,705 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,779 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/charmander.png HTTP/11" 200 517
+2024-11-21 23:56:16,780 - DEBUG - adding images/4_charmander/ruby-sapphire-normal.png
+2024-11-21 23:56:16,780 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,852 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/charmander.png HTTP/11" 200 517
+2024-11-21 23:56:16,852 - DEBUG - adding images/4_charmander/ruby-sapphire-shiny.png
+2024-11-21 23:56:16,853 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:16,939 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:16,939 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/charmander.png.
+2024-11-21 23:56:16,939 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:16,939 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,006 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/charmander.png HTTP/11" 200 451
+2024-11-21 23:56:17,006 - DEBUG - adding images/4_charmander/ruby-sapphire-back-shiny.png
+2024-11-21 23:56:17,007 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,069 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/charmander.png HTTP/11" 200 376
+2024-11-21 23:56:17,069 - DEBUG - adding images/4_charmander/crystal-normal.png
+2024-11-21 23:56:17,070 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,138 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/charmander.png HTTP/11" 200 376
+2024-11-21 23:56:17,139 - DEBUG - adding images/4_charmander/crystal-shiny.png
+2024-11-21 23:56:17,139 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,214 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:17,215 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/charmander.png.
+2024-11-21 23:56:17,215 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:17,215 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,279 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/charmander.png HTTP/11" 200 337
+2024-11-21 23:56:17,279 - DEBUG - adding images/4_charmander/crystal-back-shiny.png
+2024-11-21 23:56:17,279 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,346 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/charmander.png HTTP/11" 200 378
+2024-11-21 23:56:17,346 - DEBUG - adding images/4_charmander/gold-normal.png
+2024-11-21 23:56:17,347 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,408 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/charmander.png HTTP/11" 200 378
+2024-11-21 23:56:17,409 - DEBUG - adding images/4_charmander/gold-shiny.png
+2024-11-21 23:56:17,409 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,496 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:17,497 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/charmander.png.
+2024-11-21 23:56:17,497 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:17,497 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,560 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/charmander.png HTTP/11" 200 337
+2024-11-21 23:56:17,561 - DEBUG - adding images/4_charmander/gold-back-shiny.png
+2024-11-21 23:56:17,561 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,630 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/charmander.png HTTP/11" 200 379
+2024-11-21 23:56:17,630 - DEBUG - adding images/4_charmander/silver-normal.png
+2024-11-21 23:56:17,631 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,691 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/charmander.png HTTP/11" 200 379
+2024-11-21 23:56:17,692 - DEBUG - adding images/4_charmander/silver-shiny.png
+2024-11-21 23:56:17,692 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,753 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:17,753 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/charmander.png.
+2024-11-21 23:56:17,753 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:17,753 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,817 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/charmander.png HTTP/11" 200 337
+2024-11-21 23:56:17,818 - DEBUG - adding images/4_charmander/silver-back-shiny.png
+2024-11-21 23:56:17,818 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,890 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/charmander.png HTTP/11" 200 402
+2024-11-21 23:56:17,891 - DEBUG - adding images/4_charmander/yellow-normal.png
+2024-11-21 23:56:17,891 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:17,980 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:17,980 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/charmander.png.
+2024-11-21 23:56:17,980 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:17,981 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,045 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:18,045 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/charmander.png.
+2024-11-21 23:56:18,046 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,046 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,129 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:18,130 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/charmander.png.
+2024-11-21 23:56:18,130 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,130 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,193 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/charmander.png HTTP/11" 200 378
+2024-11-21 23:56:18,195 - DEBUG - adding images/4_charmander/red-blue-normal.png
+2024-11-21 23:56:18,195 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,276 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:18,276 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/charmander.png.
+2024-11-21 23:56:18,276 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,276 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,343 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:18,344 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/charmander.png.
+2024-11-21 23:56:18,344 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,344 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,431 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/charmander.png HTTP/11" 404 None
+2024-11-21 23:56:18,432 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/charmander.png.
+2024-11-21 23:56:18,432 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,432 - DEBUG - total time for Charmander: 5.445737600326538s
+2024-11-21 23:56:18,432 - DEBUG - making directory: images/5_charmeleon
+2024-11-21 23:56:18,437 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,522 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/charmeleon.png HTTP/11" 200 3004
+2024-11-21 23:56:18,522 - DEBUG - adding images/5_charmeleon/bank-normal.png
+2024-11-21 23:56:18,522 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,591 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/charmeleon.png HTTP/11" 200 3025
+2024-11-21 23:56:18,591 - DEBUG - adding images/5_charmeleon/bank-shiny.png
+2024-11-21 23:56:18,591 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,679 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:18,679 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/charmeleon.png.
+2024-11-21 23:56:18,680 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,680 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,760 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:18,760 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/charmeleon.png.
+2024-11-21 23:56:18,760 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:18,761 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,832 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/charmeleon.png HTTP/11" 200 13146
+2024-11-21 23:56:18,832 - DEBUG - adding images/5_charmeleon/go-normal.png
+2024-11-21 23:56:18,833 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:18,942 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/charmeleon.png HTTP/11" 200 13610
+2024-11-21 23:56:18,943 - DEBUG - adding images/5_charmeleon/go-shiny.png
+2024-11-21 23:56:18,943 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,020 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:19,020 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/charmeleon.png.
+2024-11-21 23:56:19,020 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:19,021 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,104 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:19,105 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/charmeleon.png.
+2024-11-21 23:56:19,105 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:19,105 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,169 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/charmeleon.png HTTP/11" 200 2076
+2024-11-21 23:56:19,169 - DEBUG - adding images/5_charmeleon/x-y-normal.png
+2024-11-21 23:56:19,169 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,234 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/charmeleon.png HTTP/11" 200 2323
+2024-11-21 23:56:19,234 - DEBUG - adding images/5_charmeleon/x-y-shiny.png
+2024-11-21 23:56:19,234 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,306 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:19,306 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/charmeleon.png.
+2024-11-21 23:56:19,306 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:19,307 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,390 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:19,391 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/charmeleon.png.
+2024-11-21 23:56:19,391 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:19,391 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,464 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/charmeleon.png HTTP/11" 200 749
+2024-11-21 23:56:19,465 - DEBUG - adding images/5_charmeleon/black-white-normal.png
+2024-11-21 23:56:19,465 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,537 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/charmeleon.png HTTP/11" 200 749
+2024-11-21 23:56:19,537 - DEBUG - adding images/5_charmeleon/black-white-shiny.png
+2024-11-21 23:56:19,538 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,605 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:19,605 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/charmeleon.png.
+2024-11-21 23:56:19,605 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:19,606 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,683 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/charmeleon.png HTTP/11" 200 676
+2024-11-21 23:56:19,683 - DEBUG - adding images/5_charmeleon/black-white-back-shiny.png
+2024-11-21 23:56:19,684 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,749 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/charmeleon.png HTTP/11" 200 679
+2024-11-21 23:56:19,750 - DEBUG - adding images/5_charmeleon/heartgold-soulsilver-normal.png
+2024-11-21 23:56:19,750 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,813 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/charmeleon.png HTTP/11" 200 679
+2024-11-21 23:56:19,813 - DEBUG - adding images/5_charmeleon/heartgold-soulsilver-shiny.png
+2024-11-21 23:56:19,814 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,904 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:19,904 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/charmeleon.png.
+2024-11-21 23:56:19,904 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:19,905 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:19,975 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/charmeleon.png HTTP/11" 200 659
+2024-11-21 23:56:19,975 - DEBUG - adding images/5_charmeleon/heartgold-soulsilver-back-shiny.png
+2024-11-21 23:56:19,976 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,045 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/charmeleon.png HTTP/11" 200 716
+2024-11-21 23:56:20,045 - DEBUG - adding images/5_charmeleon/platinum-normal.png
+2024-11-21 23:56:20,046 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,114 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/charmeleon.png HTTP/11" 200 716
+2024-11-21 23:56:20,115 - DEBUG - adding images/5_charmeleon/platinum-shiny.png
+2024-11-21 23:56:20,115 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,182 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:20,182 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/charmeleon.png.
+2024-11-21 23:56:20,183 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:20,183 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,253 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/charmeleon.png HTTP/11" 200 646
+2024-11-21 23:56:20,253 - DEBUG - adding images/5_charmeleon/platinum-back-shiny.png
+2024-11-21 23:56:20,254 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,321 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/charmeleon.png HTTP/11" 200 729
+2024-11-21 23:56:20,321 - DEBUG - adding images/5_charmeleon/diamond-pearl-normal.png
+2024-11-21 23:56:20,322 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,388 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/charmeleon.png HTTP/11" 200 729
+2024-11-21 23:56:20,409 - DEBUG - adding images/5_charmeleon/diamond-pearl-shiny.png
+2024-11-21 23:56:20,409 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,478 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:20,478 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/charmeleon.png.
+2024-11-21 23:56:20,478 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:20,479 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,551 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/charmeleon.png HTTP/11" 200 657
+2024-11-21 23:56:20,551 - DEBUG - adding images/5_charmeleon/diamond-pearl-back-shiny.png
+2024-11-21 23:56:20,552 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,622 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/charmeleon.png HTTP/11" 200 678
+2024-11-21 23:56:20,622 - DEBUG - adding images/5_charmeleon/emerald-normal.png
+2024-11-21 23:56:20,623 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,693 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/charmeleon.png HTTP/11" 200 679
+2024-11-21 23:56:20,693 - DEBUG - adding images/5_charmeleon/emerald-shiny.png
+2024-11-21 23:56:20,694 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,763 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:20,764 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/charmeleon.png.
+2024-11-21 23:56:20,764 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:20,764 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,845 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/charmeleon.png HTTP/11" 200 491
+2024-11-21 23:56:20,846 - DEBUG - adding images/5_charmeleon/emerald-back-shiny.png
+2024-11-21 23:56:20,846 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:20,911 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/charmeleon.png HTTP/11" 200 710
+2024-11-21 23:56:20,918 - DEBUG - adding images/5_charmeleon/firered-leafgreen-normal.png
+2024-11-21 23:56:20,919 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,007 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/charmeleon.png HTTP/11" 200 710
+2024-11-21 23:56:21,008 - DEBUG - adding images/5_charmeleon/firered-leafgreen-shiny.png
+2024-11-21 23:56:21,008 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,092 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:21,093 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/charmeleon.png.
+2024-11-21 23:56:21,093 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:21,093 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,161 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/charmeleon.png HTTP/11" 200 532
+2024-11-21 23:56:21,161 - DEBUG - adding images/5_charmeleon/firered-leafgreen-back-shiny.png
+2024-11-21 23:56:21,162 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,233 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/charmeleon.png HTTP/11" 200 679
+2024-11-21 23:56:21,233 - DEBUG - adding images/5_charmeleon/ruby-sapphire-normal.png
+2024-11-21 23:56:21,234 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,304 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/charmeleon.png HTTP/11" 200 678
+2024-11-21 23:56:21,304 - DEBUG - adding images/5_charmeleon/ruby-sapphire-shiny.png
+2024-11-21 23:56:21,304 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,376 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:21,376 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/charmeleon.png.
+2024-11-21 23:56:21,376 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:21,377 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,447 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/charmeleon.png HTTP/11" 200 491
+2024-11-21 23:56:21,447 - DEBUG - adding images/5_charmeleon/ruby-sapphire-back-shiny.png
+2024-11-21 23:56:21,448 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,509 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/charmeleon.png HTTP/11" 200 461
+2024-11-21 23:56:21,510 - DEBUG - adding images/5_charmeleon/crystal-normal.png
+2024-11-21 23:56:21,511 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,577 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/charmeleon.png HTTP/11" 200 461
+2024-11-21 23:56:21,577 - DEBUG - adding images/5_charmeleon/crystal-shiny.png
+2024-11-21 23:56:21,578 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,668 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:21,669 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/charmeleon.png.
+2024-11-21 23:56:21,669 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:21,669 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,753 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/charmeleon.png HTTP/11" 200 383
+2024-11-21 23:56:21,754 - DEBUG - adding images/5_charmeleon/crystal-back-shiny.png
+2024-11-21 23:56:21,754 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,815 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/charmeleon.png HTTP/11" 200 483
+2024-11-21 23:56:21,815 - DEBUG - adding images/5_charmeleon/gold-normal.png
+2024-11-21 23:56:21,816 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,890 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/charmeleon.png HTTP/11" 200 483
+2024-11-21 23:56:21,890 - DEBUG - adding images/5_charmeleon/gold-shiny.png
+2024-11-21 23:56:21,891 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:21,958 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:21,958 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/charmeleon.png.
+2024-11-21 23:56:21,958 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:21,959 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,025 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/charmeleon.png HTTP/11" 200 383
+2024-11-21 23:56:22,025 - DEBUG - adding images/5_charmeleon/gold-back-shiny.png
+2024-11-21 23:56:22,026 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,085 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/charmeleon.png HTTP/11" 200 452
+2024-11-21 23:56:22,086 - DEBUG - adding images/5_charmeleon/silver-normal.png
+2024-11-21 23:56:22,086 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,146 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/charmeleon.png HTTP/11" 200 452
+2024-11-21 23:56:22,147 - DEBUG - adding images/5_charmeleon/silver-shiny.png
+2024-11-21 23:56:22,147 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,218 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:22,218 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/charmeleon.png.
+2024-11-21 23:56:22,218 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:22,218 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,307 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/charmeleon.png HTTP/11" 200 383
+2024-11-21 23:56:22,307 - DEBUG - adding images/5_charmeleon/silver-back-shiny.png
+2024-11-21 23:56:22,308 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,379 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/charmeleon.png HTTP/11" 200 457
+2024-11-21 23:56:22,380 - DEBUG - adding images/5_charmeleon/yellow-normal.png
+2024-11-21 23:56:22,380 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,462 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:22,463 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/charmeleon.png.
+2024-11-21 23:56:22,463 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:22,463 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:22,530 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:22,530 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/charmeleon.png.
+2024-11-21 23:56:22,530 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:22,530 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:23,647 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:23,647 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/charmeleon.png.
+2024-11-21 23:56:23,647 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:23,648 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:23,710 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/charmeleon.png HTTP/11" 200 460
+2024-11-21 23:56:23,710 - DEBUG - adding images/5_charmeleon/red-blue-normal.png
+2024-11-21 23:56:23,711 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:23,818 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:23,818 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/charmeleon.png.
+2024-11-21 23:56:23,818 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:23,819 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:23,887 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:23,887 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/charmeleon.png.
+2024-11-21 23:56:23,887 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:23,888 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:23,986 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/charmeleon.png HTTP/11" 404 None
+2024-11-21 23:56:23,986 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/charmeleon.png.
+2024-11-21 23:56:23,986 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:23,986 - DEBUG - total time for Charmeleon: 5.554492950439453s
+2024-11-21 23:56:23,986 - DEBUG - making directory: images/6_charizard
+2024-11-21 23:56:23,987 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,057 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/charizard.png HTTP/11" 200 4826
+2024-11-21 23:56:24,058 - DEBUG - adding images/6_charizard/bank-normal.png
+2024-11-21 23:56:24,058 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,122 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/charizard.png HTTP/11" 200 4076
+2024-11-21 23:56:24,123 - DEBUG - adding images/6_charizard/bank-shiny.png
+2024-11-21 23:56:24,123 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,202 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:24,202 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/charizard.png.
+2024-11-21 23:56:24,202 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:24,203 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,287 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:24,288 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/charizard.png.
+2024-11-21 23:56:24,288 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:24,288 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,364 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/charizard.png HTTP/11" 200 17308
+2024-11-21 23:56:24,364 - DEBUG - adding images/6_charizard/go-normal.png
+2024-11-21 23:56:24,365 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,438 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/charizard.png HTTP/11" 200 17701
+2024-11-21 23:56:24,438 - DEBUG - adding images/6_charizard/go-shiny.png
+2024-11-21 23:56:24,439 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,516 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:24,516 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/charizard.png.
+2024-11-21 23:56:24,516 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:24,517 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,598 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:24,598 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/charizard.png.
+2024-11-21 23:56:24,598 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:24,599 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,692 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/charizard.png HTTP/11" 200 4016
+2024-11-21 23:56:24,692 - DEBUG - adding images/6_charizard/x-y-normal.png
+2024-11-21 23:56:24,693 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,794 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/charizard.png HTTP/11" 200 3034
+2024-11-21 23:56:24,794 - DEBUG - adding images/6_charizard/x-y-shiny.png
+2024-11-21 23:56:24,795 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,892 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:24,892 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/charizard.png.
+2024-11-21 23:56:24,892 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:24,893 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:24,973 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:24,974 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/charizard.png.
+2024-11-21 23:56:24,974 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:24,974 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,046 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/charizard.png HTTP/11" 200 1152
+2024-11-21 23:56:25,047 - DEBUG - adding images/6_charizard/black-white-normal.png
+2024-11-21 23:56:25,047 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,116 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/charizard.png HTTP/11" 200 1152
+2024-11-21 23:56:25,117 - DEBUG - adding images/6_charizard/black-white-shiny.png
+2024-11-21 23:56:25,117 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,196 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:25,196 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/charizard.png.
+2024-11-21 23:56:25,197 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:25,197 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,277 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/charizard.png HTTP/11" 200 1007
+2024-11-21 23:56:25,277 - DEBUG - adding images/6_charizard/black-white-back-shiny.png
+2024-11-21 23:56:25,278 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,362 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/charizard.png HTTP/11" 200 1144
+2024-11-21 23:56:25,362 - DEBUG - adding images/6_charizard/heartgold-soulsilver-normal.png
+2024-11-21 23:56:25,363 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,431 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/charizard.png HTTP/11" 200 1144
+2024-11-21 23:56:25,431 - DEBUG - adding images/6_charizard/heartgold-soulsilver-shiny.png
+2024-11-21 23:56:25,432 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,506 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:25,507 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/charizard.png.
+2024-11-21 23:56:25,507 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:25,507 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,577 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/charizard.png HTTP/11" 200 832
+2024-11-21 23:56:25,578 - DEBUG - adding images/6_charizard/heartgold-soulsilver-back-shiny.png
+2024-11-21 23:56:25,578 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,667 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/charizard.png HTTP/11" 200 1107
+2024-11-21 23:56:25,668 - DEBUG - adding images/6_charizard/platinum-normal.png
+2024-11-21 23:56:25,668 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,737 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/charizard.png HTTP/11" 200 1107
+2024-11-21 23:56:25,738 - DEBUG - adding images/6_charizard/platinum-shiny.png
+2024-11-21 23:56:25,739 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,799 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:25,800 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/charizard.png.
+2024-11-21 23:56:25,800 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:25,800 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,859 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/charizard.png HTTP/11" 200 819
+2024-11-21 23:56:25,860 - DEBUG - adding images/6_charizard/platinum-back-shiny.png
+2024-11-21 23:56:25,860 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:25,928 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/charizard.png HTTP/11" 200 1120
+2024-11-21 23:56:25,928 - DEBUG - adding images/6_charizard/diamond-pearl-normal.png
+2024-11-21 23:56:25,929 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,003 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/charizard.png HTTP/11" 200 1120
+2024-11-21 23:56:26,004 - DEBUG - adding images/6_charizard/diamond-pearl-shiny.png
+2024-11-21 23:56:26,005 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,074 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:26,074 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/charizard.png.
+2024-11-21 23:56:26,074 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:26,075 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,141 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/charizard.png HTTP/11" 200 834
+2024-11-21 23:56:26,142 - DEBUG - adding images/6_charizard/diamond-pearl-back-shiny.png
+2024-11-21 23:56:26,143 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,205 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/charizard.png HTTP/11" 200 980
+2024-11-21 23:56:26,205 - DEBUG - adding images/6_charizard/emerald-normal.png
+2024-11-21 23:56:26,206 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,273 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/charizard.png HTTP/11" 200 980
+2024-11-21 23:56:26,274 - DEBUG - adding images/6_charizard/emerald-shiny.png
+2024-11-21 23:56:26,274 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,350 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:26,350 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/charizard.png.
+2024-11-21 23:56:26,351 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:26,351 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,422 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/charizard.png HTTP/11" 200 713
+2024-11-21 23:56:26,422 - DEBUG - adding images/6_charizard/emerald-back-shiny.png
+2024-11-21 23:56:26,423 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,484 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/charizard.png HTTP/11" 200 943
+2024-11-21 23:56:26,485 - DEBUG - adding images/6_charizard/firered-leafgreen-normal.png
+2024-11-21 23:56:26,485 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,553 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/charizard.png HTTP/11" 200 943
+2024-11-21 23:56:26,554 - DEBUG - adding images/6_charizard/firered-leafgreen-shiny.png
+2024-11-21 23:56:26,554 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,638 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:26,638 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/charizard.png.
+2024-11-21 23:56:26,638 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:26,639 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,696 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/charizard.png HTTP/11" 200 674
+2024-11-21 23:56:26,696 - DEBUG - adding images/6_charizard/firered-leafgreen-back-shiny.png
+2024-11-21 23:56:26,697 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,762 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/charizard.png HTTP/11" 200 980
+2024-11-21 23:56:26,762 - DEBUG - adding images/6_charizard/ruby-sapphire-normal.png
+2024-11-21 23:56:26,763 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,826 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/charizard.png HTTP/11" 200 980
+2024-11-21 23:56:26,826 - DEBUG - adding images/6_charizard/ruby-sapphire-shiny.png
+2024-11-21 23:56:26,827 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,893 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:26,893 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/charizard.png.
+2024-11-21 23:56:26,894 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:26,894 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:26,963 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/charizard.png HTTP/11" 200 713
+2024-11-21 23:56:26,963 - DEBUG - adding images/6_charizard/ruby-sapphire-back-shiny.png
+2024-11-21 23:56:26,964 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,032 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/charizard.png HTTP/11" 200 563
+2024-11-21 23:56:27,033 - DEBUG - adding images/6_charizard/crystal-normal.png
+2024-11-21 23:56:27,033 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,102 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/charizard.png HTTP/11" 200 563
+2024-11-21 23:56:27,103 - DEBUG - adding images/6_charizard/crystal-shiny.png
+2024-11-21 23:56:27,103 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,182 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:27,182 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/charizard.png.
+2024-11-21 23:56:27,182 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:27,183 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,270 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/charizard.png HTTP/11" 200 373
+2024-11-21 23:56:27,271 - DEBUG - adding images/6_charizard/crystal-back-shiny.png
+2024-11-21 23:56:27,271 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,347 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/charizard.png HTTP/11" 200 558
+2024-11-21 23:56:27,347 - DEBUG - adding images/6_charizard/gold-normal.png
+2024-11-21 23:56:27,348 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,427 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/charizard.png HTTP/11" 200 558
+2024-11-21 23:56:27,427 - DEBUG - adding images/6_charizard/gold-shiny.png
+2024-11-21 23:56:27,427 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,502 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:27,502 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/charizard.png.
+2024-11-21 23:56:27,503 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:27,503 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,569 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/charizard.png HTTP/11" 200 373
+2024-11-21 23:56:27,569 - DEBUG - adding images/6_charizard/gold-back-shiny.png
+2024-11-21 23:56:27,569 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,675 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/charizard.png HTTP/11" 200 549
+2024-11-21 23:56:27,688 - DEBUG - adding images/6_charizard/silver-normal.png
+2024-11-21 23:56:27,688 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,783 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/charizard.png HTTP/11" 200 549
+2024-11-21 23:56:27,784 - DEBUG - adding images/6_charizard/silver-shiny.png
+2024-11-21 23:56:27,784 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,857 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:27,858 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/charizard.png.
+2024-11-21 23:56:27,858 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:27,858 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,924 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/charizard.png HTTP/11" 200 373
+2024-11-21 23:56:27,924 - DEBUG - adding images/6_charizard/silver-back-shiny.png
+2024-11-21 23:56:27,925 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:27,993 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/charizard.png HTTP/11" 200 686
+2024-11-21 23:56:27,994 - DEBUG - adding images/6_charizard/yellow-normal.png
+2024-11-21 23:56:27,994 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,076 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:28,076 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/charizard.png.
+2024-11-21 23:56:28,076 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,077 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,146 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:28,146 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/charizard.png.
+2024-11-21 23:56:28,146 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,147 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,222 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:28,223 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/charizard.png.
+2024-11-21 23:56:28,223 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,223 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,308 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/charizard.png HTTP/11" 200 615
+2024-11-21 23:56:28,308 - DEBUG - adding images/6_charizard/red-blue-normal.png
+2024-11-21 23:56:28,309 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,386 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:28,387 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/charizard.png.
+2024-11-21 23:56:28,387 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,387 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,452 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:28,452 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/charizard.png.
+2024-11-21 23:56:28,452 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,453 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,539 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/charizard.png HTTP/11" 404 None
+2024-11-21 23:56:28,539 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/charizard.png.
+2024-11-21 23:56:28,539 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,539 - DEBUG - total time for Charizard: 4.553022861480713s
+2024-11-21 23:56:28,540 - DEBUG - making directory: images/6_charizard-mega-x
+2024-11-21 23:56:28,540 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,603 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/normal/charizard-mega-x.png HTTP/11" 200 5023
+2024-11-21 23:56:28,604 - DEBUG - adding images/6_charizard-mega-x/bank-normal.png
+2024-11-21 23:56:28,604 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,666 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/shiny/charizard-mega-x.png HTTP/11" 200 5074
+2024-11-21 23:56:28,667 - DEBUG - adding images/6_charizard-mega-x/bank-shiny.png
+2024-11-21 23:56:28,667 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,756 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:28,757 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back/charizard-mega-x.png.
+2024-11-21 23:56:28,757 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,757 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,824 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/bank/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:28,825 - WARNING - error fetching https://img.pokemondb.net/sprites/bank/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:28,825 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:28,825 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,892 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/normal/charizard-mega-x.png HTTP/11" 200 18161
+2024-11-21 23:56:28,893 - DEBUG - adding images/6_charizard-mega-x/go-normal.png
+2024-11-21 23:56:28,893 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:28,962 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/shiny/charizard-mega-x.png HTTP/11" 200 18212
+2024-11-21 23:56:28,962 - DEBUG - adding images/6_charizard-mega-x/go-shiny.png
+2024-11-21 23:56:28,963 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,040 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,041 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back/charizard-mega-x.png.
+2024-11-21 23:56:29,041 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,041 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,124 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/go/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,125 - WARNING - error fetching https://img.pokemondb.net/sprites/go/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:29,125 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,125 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,191 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/normal/charizard-mega-x.png HTTP/11" 200 4708
+2024-11-21 23:56:29,191 - DEBUG - adding images/6_charizard-mega-x/x-y-normal.png
+2024-11-21 23:56:29,192 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,259 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/shiny/charizard-mega-x.png HTTP/11" 200 4157
+2024-11-21 23:56:29,259 - DEBUG - adding images/6_charizard-mega-x/x-y-shiny.png
+2024-11-21 23:56:29,260 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,326 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,327 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back/charizard-mega-x.png.
+2024-11-21 23:56:29,327 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,327 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,405 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/x-y/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,405 - WARNING - error fetching https://img.pokemondb.net/sprites/x-y/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:29,405 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,406 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,481 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,482 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/normal/charizard-mega-x.png.
+2024-11-21 23:56:29,482 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,482 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,553 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,554 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/shiny/charizard-mega-x.png.
+2024-11-21 23:56:29,554 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,554 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,617 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,618 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back/charizard-mega-x.png.
+2024-11-21 23:56:29,618 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,618 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,691 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/black-white/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,692 - WARNING - error fetching https://img.pokemondb.net/sprites/black-white/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:29,692 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,692 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,752 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,752 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/normal/charizard-mega-x.png.
+2024-11-21 23:56:29,752 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,753 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,823 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,824 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/charizard-mega-x.png.
+2024-11-21 23:56:29,824 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,824 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,915 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,916 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back/charizard-mega-x.png.
+2024-11-21 23:56:29,916 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,916 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:29,993 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/heartgold-soulsilver/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:29,994 - WARNING - error fetching https://img.pokemondb.net/sprites/heartgold-soulsilver/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:29,994 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:29,994 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,057 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,058 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/normal/charizard-mega-x.png.
+2024-11-21 23:56:30,058 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,058 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,124 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,124 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/shiny/charizard-mega-x.png.
+2024-11-21 23:56:30,124 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,124 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,203 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,204 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back/charizard-mega-x.png.
+2024-11-21 23:56:30,204 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,204 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,273 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/platinum/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,273 - WARNING - error fetching https://img.pokemondb.net/sprites/platinum/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:30,273 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,274 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,340 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,340 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/normal/charizard-mega-x.png.
+2024-11-21 23:56:30,340 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,340 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,401 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,411 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/shiny/charizard-mega-x.png.
+2024-11-21 23:56:30,411 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,412 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,490 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,490 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back/charizard-mega-x.png.
+2024-11-21 23:56:30,490 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,490 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,552 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/diamond-pearl/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,553 - WARNING - error fetching https://img.pokemondb.net/sprites/diamond-pearl/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:30,553 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,553 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,636 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,637 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/normal/charizard-mega-x.png.
+2024-11-21 23:56:30,637 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,637 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,759 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,760 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/shiny/charizard-mega-x.png.
+2024-11-21 23:56:30,760 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,760 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,835 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,835 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back/charizard-mega-x.png.
+2024-11-21 23:56:30,835 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,836 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,919 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/emerald/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,919 - WARNING - error fetching https://img.pokemondb.net/sprites/emerald/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:30,919 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,919 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:30,996 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:30,997 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/normal/charizard-mega-x.png.
+2024-11-21 23:56:30,997 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:30,997 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,069 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,070 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/shiny/charizard-mega-x.png.
+2024-11-21 23:56:31,070 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,070 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,142 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,143 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back/charizard-mega-x.png.
+2024-11-21 23:56:31,143 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,143 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,233 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/firered-leafgreen/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,233 - WARNING - error fetching https://img.pokemondb.net/sprites/firered-leafgreen/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:31,233 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,234 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,327 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,327 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/normal/charizard-mega-x.png.
+2024-11-21 23:56:31,327 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,328 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,395 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,395 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/shiny/charizard-mega-x.png.
+2024-11-21 23:56:31,395 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,396 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,472 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,472 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back/charizard-mega-x.png.
+2024-11-21 23:56:31,472 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,473 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:31,543 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/ruby-sapphire/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:31,544 - WARNING - error fetching https://img.pokemondb.net/sprites/ruby-sapphire/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:31,544 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:31,544 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:32,668 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:32,669 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/normal/charizard-mega-x.png.
+2024-11-21 23:56:32,669 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:32,669 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:32,749 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:32,749 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/shiny/charizard-mega-x.png.
+2024-11-21 23:56:32,749 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:32,749 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:32,816 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:32,817 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back/charizard-mega-x.png.
+2024-11-21 23:56:32,817 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:32,817 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:32,888 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/crystal/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:32,888 - WARNING - error fetching https://img.pokemondb.net/sprites/crystal/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:32,889 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:32,889 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:32,958 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:32,959 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/normal/charizard-mega-x.png.
+2024-11-21 23:56:32,959 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:32,959 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,027 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,027 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/shiny/charizard-mega-x.png.
+2024-11-21 23:56:33,027 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,027 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,090 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,092 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back/charizard-mega-x.png.
+2024-11-21 23:56:33,092 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,093 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,164 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/gold/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,165 - WARNING - error fetching https://img.pokemondb.net/sprites/gold/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:33,165 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,165 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,237 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,237 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/normal/charizard-mega-x.png.
+2024-11-21 23:56:33,237 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,238 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,316 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,316 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/shiny/charizard-mega-x.png.
+2024-11-21 23:56:33,316 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,316 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,381 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,381 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back/charizard-mega-x.png.
+2024-11-21 23:56:33,381 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,381 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,449 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/silver/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,449 - WARNING - error fetching https://img.pokemondb.net/sprites/silver/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:33,449 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,449 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,515 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,515 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/normal/charizard-mega-x.png.
+2024-11-21 23:56:33,515 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,515 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,596 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,596 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/shiny/charizard-mega-x.png.
+2024-11-21 23:56:33,597 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,597 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,680 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,680 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back/charizard-mega-x.png.
+2024-11-21 23:56:33,680 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,681 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,851 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/yellow/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,852 - WARNING - error fetching https://img.pokemondb.net/sprites/yellow/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:33,852 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,852 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:33,927 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/normal/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:33,927 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/normal/charizard-mega-x.png.
+2024-11-21 23:56:33,927 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:33,928 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:34,010 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:34,010 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/shiny/charizard-mega-x.png.
+2024-11-21 23:56:34,010 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:34,011 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:34,084 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:34,085 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back/charizard-mega-x.png.
+2024-11-21 23:56:34,085 - WARNING - could be an error with generation, or sprite type.
+2024-11-21 23:56:34,085 - DEBUG - Starting new HTTPS connection (1): img.pokemondb.net:443
+2024-11-21 23:56:34,178 - DEBUG - https://img.pokemondb.net:443 "GET /sprites/red-blue/back-shiny/charizard-mega-x.png HTTP/11" 404 None
+2024-11-21 23:56:34,178 - WARNING - error fetching https://img.pokemondb.net/sprites/red-blue/back-shiny/charizard-mega-x.png.
+2024-11-21 23:56:34,178 - WARNING - could be an error with generation, or sprite type.

@@ -1,0 +1,4 @@
+2024-11-23 14:34:11,915 - DEBUG - No directories found in 'images/'
+2024-11-23 14:34:11,915 - DEBUG - Starting from pokemon #1
+2024-11-23 14:34:11,915 - DEBUG - Using batch size=1
+2024-11-23 14:34:11,915 - DEBUG - Running query: SELECT name, gen, num FROM pokemon WHERE gen <= 6 AND forme <> 'Mega' AND num > 0 AND num <= 1

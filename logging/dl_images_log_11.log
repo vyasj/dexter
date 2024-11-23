@@ -1,0 +1,2 @@
+2024-11-23 14:36:35,465 - DEBUG - Running test query: select * from pokemon where gen <= 6 and forme <> 'Mega'
+2024-11-23 14:36:35,466 - DEBUG - (6, 'Charizard-Mega-X', 6, 'Charizard', 'Mega-X', 'Fire', 'Dragon', 78, 130, 130, 111, 85, 100, 'Tough Claws', None, None, None, None, None, None)

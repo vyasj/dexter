@@ -1,0 +1,1678 @@
+2024-11-23 13:06:19,061 - DEBUG - Creating database with table
+2024-11-23 13:06:19,069 - DEBUG - Populating table with data from json file
+2024-11-23 13:06:19,075 - DEBUG - Inserting bulbasaur into table
+2024-11-23 13:06:19,077 - DEBUG - Inserting ivysaur into table
+2024-11-23 13:06:19,079 - DEBUG - Inserting venusaur into table
+2024-11-23 13:06:19,080 - DEBUG - Inserting venusaurmega into table
+2024-11-23 13:06:19,082 - DEBUG - Inserting venusaurgmax into table
+2024-11-23 13:06:19,084 - DEBUG - Inserting charmander into table
+2024-11-23 13:06:19,085 - DEBUG - Inserting charmeleon into table
+2024-11-23 13:06:19,087 - DEBUG - Inserting charizard into table
+2024-11-23 13:06:19,089 - DEBUG - Inserting charizardmegax into table
+2024-11-23 13:06:19,090 - DEBUG - Inserting charizardmegay into table
+2024-11-23 13:06:19,092 - DEBUG - Inserting charizardgmax into table
+2024-11-23 13:06:19,094 - DEBUG - Inserting squirtle into table
+2024-11-23 13:06:19,095 - DEBUG - Inserting wartortle into table
+2024-11-23 13:06:19,097 - DEBUG - Inserting blastoise into table
+2024-11-23 13:06:19,099 - DEBUG - Inserting blastoisemega into table
+2024-11-23 13:06:19,100 - DEBUG - Inserting blastoisegmax into table
+2024-11-23 13:06:19,102 - DEBUG - Inserting caterpie into table
+2024-11-23 13:06:19,104 - DEBUG - Inserting metapod into table
+2024-11-23 13:06:19,105 - DEBUG - Inserting butterfree into table
+2024-11-23 13:06:19,107 - DEBUG - Inserting butterfreegmax into table
+2024-11-23 13:06:19,109 - DEBUG - Inserting weedle into table
+2024-11-23 13:06:19,110 - DEBUG - Inserting kakuna into table
+2024-11-23 13:06:19,112 - DEBUG - Inserting beedrill into table
+2024-11-23 13:06:19,114 - DEBUG - Inserting beedrillmega into table
+2024-11-23 13:06:19,115 - DEBUG - Inserting pidgey into table
+2024-11-23 13:06:19,117 - DEBUG - Inserting pidgeotto into table
+2024-11-23 13:06:19,119 - DEBUG - Inserting pidgeot into table
+2024-11-23 13:06:19,120 - DEBUG - Inserting pidgeotmega into table
+2024-11-23 13:06:19,122 - DEBUG - Inserting rattata into table
+2024-11-23 13:06:19,123 - DEBUG - Inserting rattataalola into table
+2024-11-23 13:06:19,125 - DEBUG - Inserting raticate into table
+2024-11-23 13:06:19,127 - DEBUG - Inserting raticatealola into table
+2024-11-23 13:06:19,129 - DEBUG - Inserting raticatealolatotem into table
+2024-11-23 13:06:19,130 - DEBUG - Inserting spearow into table
+2024-11-23 13:06:19,132 - DEBUG - Inserting fearow into table
+2024-11-23 13:06:19,134 - DEBUG - Inserting ekans into table
+2024-11-23 13:06:19,135 - DEBUG - Inserting arbok into table
+2024-11-23 13:06:19,137 - DEBUG - Inserting pikachu into table
+2024-11-23 13:06:19,139 - DEBUG - Inserting pikachucosplay into table
+2024-11-23 13:06:19,139 - ERROR - unknown forme type 'cosplay' for pokemon #25
+2024-11-23 13:06:19,140 - DEBUG - Inserting pikachurockstar into table
+2024-11-23 13:06:19,140 - ERROR - unknown forme type 'rock-star' for pokemon #25
+2024-11-23 13:06:19,142 - DEBUG - Inserting pikachubelle into table
+2024-11-23 13:06:19,142 - ERROR - unknown forme type 'belle' for pokemon #25
+2024-11-23 13:06:19,144 - DEBUG - Inserting pikachupopstar into table
+2024-11-23 13:06:19,144 - ERROR - unknown forme type 'pop-star' for pokemon #25
+2024-11-23 13:06:19,146 - DEBUG - Inserting pikachuphd into table
+2024-11-23 13:06:19,146 - ERROR - unknown forme type 'phd' for pokemon #25
+2024-11-23 13:06:19,147 - DEBUG - Inserting pikachulibre into table
+2024-11-23 13:06:19,147 - ERROR - unknown forme type 'libre' for pokemon #25
+2024-11-23 13:06:19,149 - DEBUG - Inserting pikachuoriginal into table
+2024-11-23 13:06:19,149 - ERROR - unknown forme type 'original' for pokemon #25
+2024-11-23 13:06:19,150 - DEBUG - Inserting pikachuhoenn into table
+2024-11-23 13:06:19,151 - ERROR - unknown forme type 'hoenn' for pokemon #25
+2024-11-23 13:06:19,152 - DEBUG - Inserting pikachusinnoh into table
+2024-11-23 13:06:19,152 - ERROR - unknown forme type 'sinnoh' for pokemon #25
+2024-11-23 13:06:19,154 - DEBUG - Inserting pikachuunova into table
+2024-11-23 13:06:19,154 - ERROR - unknown forme type 'unova' for pokemon #25
+2024-11-23 13:06:19,156 - DEBUG - Inserting pikachukalos into table
+2024-11-23 13:06:19,156 - ERROR - unknown forme type 'kalos' for pokemon #25
+2024-11-23 13:06:19,157 - DEBUG - Inserting pikachualola into table
+2024-11-23 13:06:19,159 - DEBUG - Inserting pikachupartner into table
+2024-11-23 13:06:19,159 - ERROR - unknown forme type 'partner' for pokemon #25
+2024-11-23 13:06:19,161 - DEBUG - Inserting pikachustarter into table
+2024-11-23 13:06:19,161 - ERROR - unknown forme type 'starter' for pokemon #25
+2024-11-23 13:06:19,163 - DEBUG - Inserting pikachugmax into table
+2024-11-23 13:06:19,165 - DEBUG - Inserting pikachuworld into table
+2024-11-23 13:06:19,165 - ERROR - unknown forme type 'world' for pokemon #25
+2024-11-23 13:06:19,166 - DEBUG - Inserting raichu into table
+2024-11-23 13:06:19,168 - DEBUG - Inserting raichualola into table
+2024-11-23 13:06:19,170 - DEBUG - Inserting sandshrew into table
+2024-11-23 13:06:19,172 - DEBUG - Inserting sandshrewalola into table
+2024-11-23 13:06:19,174 - DEBUG - Inserting sandslash into table
+2024-11-23 13:06:19,175 - DEBUG - Inserting sandslashalola into table
+2024-11-23 13:06:19,177 - DEBUG - Inserting nidoranf into table
+2024-11-23 13:06:19,178 - DEBUG - Inserting nidorina into table
+2024-11-23 13:06:19,180 - DEBUG - Inserting nidoqueen into table
+2024-11-23 13:06:19,182 - DEBUG - Inserting nidoranm into table
+2024-11-23 13:06:19,183 - DEBUG - Inserting nidorino into table
+2024-11-23 13:06:19,185 - DEBUG - Inserting nidoking into table
+2024-11-23 13:06:19,186 - DEBUG - Inserting clefairy into table
+2024-11-23 13:06:19,188 - DEBUG - Inserting clefable into table
+2024-11-23 13:06:19,190 - DEBUG - Inserting vulpix into table
+2024-11-23 13:06:19,191 - DEBUG - Inserting vulpixalola into table
+2024-11-23 13:06:19,193 - DEBUG - Inserting ninetales into table
+2024-11-23 13:06:19,195 - DEBUG - Inserting ninetalesalola into table
+2024-11-23 13:06:19,196 - DEBUG - Inserting jigglypuff into table
+2024-11-23 13:06:19,198 - DEBUG - Inserting wigglytuff into table
+2024-11-23 13:06:19,200 - DEBUG - Inserting zubat into table
+2024-11-23 13:06:19,202 - DEBUG - Inserting golbat into table
+2024-11-23 13:06:19,203 - DEBUG - Inserting oddish into table
+2024-11-23 13:06:19,205 - DEBUG - Inserting gloom into table
+2024-11-23 13:06:19,206 - DEBUG - Inserting vileplume into table
+2024-11-23 13:06:19,208 - DEBUG - Inserting paras into table
+2024-11-23 13:06:19,210 - DEBUG - Inserting parasect into table
+2024-11-23 13:06:19,212 - DEBUG - Inserting venonat into table
+2024-11-23 13:06:19,213 - DEBUG - Inserting venomoth into table
+2024-11-23 13:06:19,215 - DEBUG - Inserting diglett into table
+2024-11-23 13:06:19,217 - DEBUG - Inserting diglettalola into table
+2024-11-23 13:06:19,218 - DEBUG - Inserting dugtrio into table
+2024-11-23 13:06:19,220 - DEBUG - Inserting dugtrioalola into table
+2024-11-23 13:06:19,222 - DEBUG - Inserting meowth into table
+2024-11-23 13:06:19,223 - DEBUG - Inserting meowthalola into table
+2024-11-23 13:06:19,225 - DEBUG - Inserting meowthgalar into table
+2024-11-23 13:06:19,227 - DEBUG - Inserting meowthgmax into table
+2024-11-23 13:06:19,228 - DEBUG - Inserting persian into table
+2024-11-23 13:06:19,230 - DEBUG - Inserting persianalola into table
+2024-11-23 13:06:19,232 - DEBUG - Inserting psyduck into table
+2024-11-23 13:06:19,233 - DEBUG - Inserting golduck into table
+2024-11-23 13:06:19,235 - DEBUG - Inserting mankey into table
+2024-11-23 13:06:19,237 - DEBUG - Inserting primeape into table
+2024-11-23 13:06:19,238 - DEBUG - Inserting growlithe into table
+2024-11-23 13:06:19,240 - DEBUG - Inserting growlithehisui into table
+2024-11-23 13:06:19,242 - DEBUG - Inserting arcanine into table
+2024-11-23 13:06:19,243 - DEBUG - Inserting arcaninehisui into table
+2024-11-23 13:06:19,245 - DEBUG - Inserting poliwag into table
+2024-11-23 13:06:19,247 - DEBUG - Inserting poliwhirl into table
+2024-11-23 13:06:19,249 - DEBUG - Inserting poliwrath into table
+2024-11-23 13:06:19,251 - DEBUG - Inserting abra into table
+2024-11-23 13:06:19,252 - DEBUG - Inserting kadabra into table
+2024-11-23 13:06:19,254 - DEBUG - Inserting alakazam into table
+2024-11-23 13:06:19,256 - DEBUG - Inserting alakazammega into table
+2024-11-23 13:06:19,257 - DEBUG - Inserting machop into table
+2024-11-23 13:06:19,259 - DEBUG - Inserting machoke into table
+2024-11-23 13:06:19,261 - DEBUG - Inserting machamp into table
+2024-11-23 13:06:19,262 - DEBUG - Inserting machampgmax into table
+2024-11-23 13:06:19,264 - DEBUG - Inserting bellsprout into table
+2024-11-23 13:06:19,266 - DEBUG - Inserting weepinbell into table
+2024-11-23 13:06:19,267 - DEBUG - Inserting victreebel into table
+2024-11-23 13:06:19,269 - DEBUG - Inserting tentacool into table
+2024-11-23 13:06:19,271 - DEBUG - Inserting tentacruel into table
+2024-11-23 13:06:19,272 - DEBUG - Inserting geodude into table
+2024-11-23 13:06:19,274 - DEBUG - Inserting geodudealola into table
+2024-11-23 13:06:19,276 - DEBUG - Inserting graveler into table
+2024-11-23 13:06:19,278 - DEBUG - Inserting graveleralola into table
+2024-11-23 13:06:19,279 - DEBUG - Inserting golem into table
+2024-11-23 13:06:19,281 - DEBUG - Inserting golemalola into table
+2024-11-23 13:06:19,283 - DEBUG - Inserting ponyta into table
+2024-11-23 13:06:19,284 - DEBUG - Inserting ponytagalar into table
+2024-11-23 13:06:19,286 - DEBUG - Inserting rapidash into table
+2024-11-23 13:06:19,288 - DEBUG - Inserting rapidashgalar into table
+2024-11-23 13:06:19,289 - DEBUG - Inserting slowpoke into table
+2024-11-23 13:06:19,291 - DEBUG - Inserting slowpokegalar into table
+2024-11-23 13:06:19,293 - DEBUG - Inserting slowbro into table
+2024-11-23 13:06:19,295 - DEBUG - Inserting slowbromega into table
+2024-11-23 13:06:19,296 - DEBUG - Inserting slowbrogalar into table
+2024-11-23 13:06:19,298 - DEBUG - Inserting magnemite into table
+2024-11-23 13:06:19,300 - DEBUG - Inserting magneton into table
+2024-11-23 13:06:19,301 - DEBUG - Inserting farfetchd into table
+2024-11-23 13:06:19,303 - DEBUG - Inserting farfetchdgalar into table
+2024-11-23 13:06:19,305 - DEBUG - Inserting doduo into table
+2024-11-23 13:06:19,306 - DEBUG - Inserting dodrio into table
+2024-11-23 13:06:19,308 - DEBUG - Inserting seel into table
+2024-11-23 13:06:19,310 - DEBUG - Inserting dewgong into table
+2024-11-23 13:06:19,311 - DEBUG - Inserting grimer into table
+2024-11-23 13:06:19,313 - DEBUG - Inserting grimeralola into table
+2024-11-23 13:06:19,315 - DEBUG - Inserting muk into table
+2024-11-23 13:06:19,316 - DEBUG - Inserting mukalola into table
+2024-11-23 13:06:19,318 - DEBUG - Inserting shellder into table
+2024-11-23 13:06:19,320 - DEBUG - Inserting cloyster into table
+2024-11-23 13:06:19,321 - DEBUG - Inserting gastly into table
+2024-11-23 13:06:19,323 - DEBUG - Inserting haunter into table
+2024-11-23 13:06:19,324 - DEBUG - Inserting gengar into table
+2024-11-23 13:06:19,326 - DEBUG - Inserting gengarmega into table
+2024-11-23 13:06:19,328 - DEBUG - Inserting gengargmax into table
+2024-11-23 13:06:19,330 - DEBUG - Inserting onix into table
+2024-11-23 13:06:19,331 - DEBUG - Inserting drowzee into table
+2024-11-23 13:06:19,333 - DEBUG - Inserting hypno into table
+2024-11-23 13:06:19,334 - DEBUG - Inserting krabby into table
+2024-11-23 13:06:19,336 - DEBUG - Inserting kingler into table
+2024-11-23 13:06:19,338 - DEBUG - Inserting kinglergmax into table
+2024-11-23 13:06:19,339 - DEBUG - Inserting voltorb into table
+2024-11-23 13:06:19,341 - DEBUG - Inserting voltorbhisui into table
+2024-11-23 13:06:19,343 - DEBUG - Inserting electrode into table
+2024-11-23 13:06:19,345 - DEBUG - Inserting electrodehisui into table
+2024-11-23 13:06:19,346 - DEBUG - Inserting exeggcute into table
+2024-11-23 13:06:19,348 - DEBUG - Inserting exeggutor into table
+2024-11-23 13:06:19,350 - DEBUG - Inserting exeggutoralola into table
+2024-11-23 13:06:19,351 - DEBUG - Inserting cubone into table
+2024-11-23 13:06:19,353 - DEBUG - Inserting marowak into table
+2024-11-23 13:06:19,355 - DEBUG - Inserting marowakalola into table
+2024-11-23 13:06:19,356 - DEBUG - Inserting marowakalolatotem into table
+2024-11-23 13:06:19,358 - DEBUG - Inserting hitmonlee into table
+2024-11-23 13:06:19,359 - DEBUG - Inserting hitmonchan into table
+2024-11-23 13:06:19,361 - DEBUG - Inserting lickitung into table
+2024-11-23 13:06:19,363 - DEBUG - Inserting koffing into table
+2024-11-23 13:06:19,365 - DEBUG - Inserting weezing into table
+2024-11-23 13:06:19,366 - DEBUG - Inserting weezinggalar into table
+2024-11-23 13:06:19,368 - DEBUG - Inserting rhyhorn into table
+2024-11-23 13:06:19,370 - DEBUG - Inserting rhydon into table
+2024-11-23 13:06:19,371 - DEBUG - Inserting chansey into table
+2024-11-23 13:06:19,373 - DEBUG - Inserting tangela into table
+2024-11-23 13:06:19,375 - DEBUG - Inserting kangaskhan into table
+2024-11-23 13:06:19,377 - DEBUG - Inserting kangaskhanmega into table
+2024-11-23 13:06:19,378 - DEBUG - Inserting horsea into table
+2024-11-23 13:06:19,380 - DEBUG - Inserting seadra into table
+2024-11-23 13:06:19,382 - DEBUG - Inserting goldeen into table
+2024-11-23 13:06:19,383 - DEBUG - Inserting seaking into table
+2024-11-23 13:06:19,385 - DEBUG - Inserting staryu into table
+2024-11-23 13:06:19,387 - DEBUG - Inserting starmie into table
+2024-11-23 13:06:19,388 - DEBUG - Inserting mrmime into table
+2024-11-23 13:06:19,390 - DEBUG - Inserting mrmimegalar into table
+2024-11-23 13:06:19,391 - DEBUG - Inserting scyther into table
+2024-11-23 13:06:19,393 - DEBUG - Inserting jynx into table
+2024-11-23 13:06:19,395 - DEBUG - Inserting electabuzz into table
+2024-11-23 13:06:19,397 - DEBUG - Inserting magmar into table
+2024-11-23 13:06:19,398 - DEBUG - Inserting pinsir into table
+2024-11-23 13:06:19,400 - DEBUG - Inserting pinsirmega into table
+2024-11-23 13:06:19,402 - DEBUG - Inserting tauros into table
+2024-11-23 13:06:19,404 - DEBUG - Inserting taurospaldeacombat into table
+2024-11-23 13:06:19,405 - DEBUG - Inserting taurospaldeablaze into table
+2024-11-23 13:06:19,407 - DEBUG - Inserting taurospaldeaaqua into table
+2024-11-23 13:06:19,409 - DEBUG - Inserting magikarp into table
+2024-11-23 13:06:19,411 - DEBUG - Inserting gyarados into table
+2024-11-23 13:06:19,412 - DEBUG - Inserting gyaradosmega into table
+2024-11-23 13:06:19,415 - DEBUG - Inserting lapras into table
+2024-11-23 13:06:19,416 - DEBUG - Inserting laprasgmax into table
+2024-11-23 13:06:19,418 - DEBUG - Inserting ditto into table
+2024-11-23 13:06:19,420 - DEBUG - Inserting eevee into table
+2024-11-23 13:06:19,421 - DEBUG - Inserting eeveestarter into table
+2024-11-23 13:06:19,421 - ERROR - unknown forme type 'starter' for pokemon #133
+2024-11-23 13:06:19,423 - DEBUG - Inserting eeveegmax into table
+2024-11-23 13:06:19,425 - DEBUG - Inserting vaporeon into table
+2024-11-23 13:06:19,426 - DEBUG - Inserting jolteon into table
+2024-11-23 13:06:19,428 - DEBUG - Inserting flareon into table
+2024-11-23 13:06:19,430 - DEBUG - Inserting porygon into table
+2024-11-23 13:06:19,431 - DEBUG - Inserting omanyte into table
+2024-11-23 13:06:19,433 - DEBUG - Inserting omastar into table
+2024-11-23 13:06:19,435 - DEBUG - Inserting kabuto into table
+2024-11-23 13:06:19,437 - DEBUG - Inserting kabutops into table
+2024-11-23 13:06:19,438 - DEBUG - Inserting aerodactyl into table
+2024-11-23 13:06:19,440 - DEBUG - Inserting aerodactylmega into table
+2024-11-23 13:06:19,442 - DEBUG - Inserting snorlax into table
+2024-11-23 13:06:19,443 - DEBUG - Inserting snorlaxgmax into table
+2024-11-23 13:06:19,445 - DEBUG - Inserting articuno into table
+2024-11-23 13:06:19,447 - DEBUG - Inserting articunogalar into table
+2024-11-23 13:06:19,449 - DEBUG - Inserting zapdos into table
+2024-11-23 13:06:19,450 - DEBUG - Inserting zapdosgalar into table
+2024-11-23 13:06:19,452 - DEBUG - Inserting moltres into table
+2024-11-23 13:06:19,454 - DEBUG - Inserting moltresgalar into table
+2024-11-23 13:06:19,456 - DEBUG - Inserting dratini into table
+2024-11-23 13:06:19,458 - DEBUG - Inserting dragonair into table
+2024-11-23 13:06:19,459 - DEBUG - Inserting dragonite into table
+2024-11-23 13:06:19,461 - DEBUG - Inserting mewtwo into table
+2024-11-23 13:06:19,463 - DEBUG - Inserting mewtwomegax into table
+2024-11-23 13:06:19,464 - DEBUG - Inserting mewtwomegay into table
+2024-11-23 13:06:19,466 - DEBUG - Inserting mew into table
+2024-11-23 13:06:19,468 - DEBUG - Inserting chikorita into table
+2024-11-23 13:06:19,470 - DEBUG - Inserting bayleef into table
+2024-11-23 13:06:19,471 - DEBUG - Inserting meganium into table
+2024-11-23 13:06:19,473 - DEBUG - Inserting cyndaquil into table
+2024-11-23 13:06:19,475 - DEBUG - Inserting quilava into table
+2024-11-23 13:06:19,476 - DEBUG - Inserting typhlosion into table
+2024-11-23 13:06:19,478 - DEBUG - Inserting typhlosionhisui into table
+2024-11-23 13:06:19,480 - DEBUG - Inserting totodile into table
+2024-11-23 13:06:19,481 - DEBUG - Inserting croconaw into table
+2024-11-23 13:06:19,483 - DEBUG - Inserting feraligatr into table
+2024-11-23 13:06:19,485 - DEBUG - Inserting sentret into table
+2024-11-23 13:06:19,487 - DEBUG - Inserting furret into table
+2024-11-23 13:06:19,488 - DEBUG - Inserting hoothoot into table
+2024-11-23 13:06:19,490 - DEBUG - Inserting noctowl into table
+2024-11-23 13:06:19,492 - DEBUG - Inserting ledyba into table
+2024-11-23 13:06:19,493 - DEBUG - Inserting ledian into table
+2024-11-23 13:06:19,495 - DEBUG - Inserting spinarak into table
+2024-11-23 13:06:19,497 - DEBUG - Inserting ariados into table
+2024-11-23 13:06:19,498 - DEBUG - Inserting crobat into table
+2024-11-23 13:06:19,500 - DEBUG - Inserting chinchou into table
+2024-11-23 13:06:19,502 - DEBUG - Inserting lanturn into table
+2024-11-23 13:06:19,503 - DEBUG - Inserting pichu into table
+2024-11-23 13:06:19,506 - DEBUG - Inserting pichuspikyeared into table
+2024-11-23 13:06:19,506 - ERROR - unknown forme type 'spiky-eared' for pokemon #172
+2024-11-23 13:06:19,508 - DEBUG - Inserting cleffa into table
+2024-11-23 13:06:19,509 - DEBUG - Inserting igglybuff into table
+2024-11-23 13:06:19,511 - DEBUG - Inserting togepi into table
+2024-11-23 13:06:19,513 - DEBUG - Inserting togetic into table
+2024-11-23 13:06:19,514 - DEBUG - Inserting natu into table
+2024-11-23 13:06:19,516 - DEBUG - Inserting xatu into table
+2024-11-23 13:06:19,518 - DEBUG - Inserting mareep into table
+2024-11-23 13:06:19,520 - DEBUG - Inserting flaaffy into table
+2024-11-23 13:06:19,522 - DEBUG - Inserting ampharos into table
+2024-11-23 13:06:19,523 - DEBUG - Inserting ampharosmega into table
+2024-11-23 13:06:19,525 - DEBUG - Inserting bellossom into table
+2024-11-23 13:06:19,527 - DEBUG - Inserting marill into table
+2024-11-23 13:06:19,528 - DEBUG - Inserting azumarill into table
+2024-11-23 13:06:19,530 - DEBUG - Inserting sudowoodo into table
+2024-11-23 13:06:19,532 - DEBUG - Inserting politoed into table
+2024-11-23 13:06:19,533 - DEBUG - Inserting hoppip into table
+2024-11-23 13:06:19,535 - DEBUG - Inserting skiploom into table
+2024-11-23 13:06:19,537 - DEBUG - Inserting jumpluff into table
+2024-11-23 13:06:19,539 - DEBUG - Inserting aipom into table
+2024-11-23 13:06:19,540 - DEBUG - Inserting sunkern into table
+2024-11-23 13:06:19,542 - DEBUG - Inserting sunflora into table
+2024-11-23 13:06:19,544 - DEBUG - Inserting yanma into table
+2024-11-23 13:06:19,545 - DEBUG - Inserting wooper into table
+2024-11-23 13:06:19,547 - DEBUG - Inserting wooperpaldea into table
+2024-11-23 13:06:19,549 - DEBUG - Inserting quagsire into table
+2024-11-23 13:06:19,551 - DEBUG - Inserting espeon into table
+2024-11-23 13:06:19,552 - DEBUG - Inserting umbreon into table
+2024-11-23 13:06:19,554 - DEBUG - Inserting murkrow into table
+2024-11-23 13:06:19,556 - DEBUG - Inserting slowking into table
+2024-11-23 13:06:19,558 - DEBUG - Inserting slowkinggalar into table
+2024-11-23 13:06:19,559 - DEBUG - Inserting misdreavus into table
+2024-11-23 13:06:19,561 - DEBUG - Inserting unown into table
+2024-11-23 13:06:19,562 - DEBUG - Inserting wobbuffet into table
+2024-11-23 13:06:19,564 - DEBUG - Inserting girafarig into table
+2024-11-23 13:06:19,566 - DEBUG - Inserting pineco into table
+2024-11-23 13:06:19,567 - DEBUG - Inserting forretress into table
+2024-11-23 13:06:19,569 - DEBUG - Inserting dunsparce into table
+2024-11-23 13:06:19,571 - DEBUG - Inserting gligar into table
+2024-11-23 13:06:19,573 - DEBUG - Inserting steelix into table
+2024-11-23 13:06:19,574 - DEBUG - Inserting steelixmega into table
+2024-11-23 13:06:19,576 - DEBUG - Inserting snubbull into table
+2024-11-23 13:06:19,578 - DEBUG - Inserting granbull into table
+2024-11-23 13:06:19,579 - DEBUG - Inserting qwilfish into table
+2024-11-23 13:06:19,581 - DEBUG - Inserting qwilfishhisui into table
+2024-11-23 13:06:19,583 - DEBUG - Inserting scizor into table
+2024-11-23 13:06:19,584 - DEBUG - Inserting scizormega into table
+2024-11-23 13:06:19,586 - DEBUG - Inserting shuckle into table
+2024-11-23 13:06:19,588 - DEBUG - Inserting heracross into table
+2024-11-23 13:06:19,590 - DEBUG - Inserting heracrossmega into table
+2024-11-23 13:06:19,592 - DEBUG - Inserting sneasel into table
+2024-11-23 13:06:19,594 - DEBUG - Inserting sneaselhisui into table
+2024-11-23 13:06:19,597 - DEBUG - Inserting teddiursa into table
+2024-11-23 13:06:19,598 - DEBUG - Inserting ursaring into table
+2024-11-23 13:06:19,600 - DEBUG - Inserting slugma into table
+2024-11-23 13:06:19,602 - DEBUG - Inserting magcargo into table
+2024-11-23 13:06:19,604 - DEBUG - Inserting swinub into table
+2024-11-23 13:06:19,605 - DEBUG - Inserting piloswine into table
+2024-11-23 13:06:19,607 - DEBUG - Inserting corsola into table
+2024-11-23 13:06:19,609 - DEBUG - Inserting corsolagalar into table
+2024-11-23 13:06:19,610 - DEBUG - Inserting remoraid into table
+2024-11-23 13:06:19,612 - DEBUG - Inserting octillery into table
+2024-11-23 13:06:19,614 - DEBUG - Inserting delibird into table
+2024-11-23 13:06:19,616 - DEBUG - Inserting mantine into table
+2024-11-23 13:06:19,618 - DEBUG - Inserting skarmory into table
+2024-11-23 13:06:19,620 - DEBUG - Inserting houndour into table
+2024-11-23 13:06:19,622 - DEBUG - Inserting houndoom into table
+2024-11-23 13:06:19,623 - DEBUG - Inserting houndoommega into table
+2024-11-23 13:06:19,625 - DEBUG - Inserting kingdra into table
+2024-11-23 13:06:19,627 - DEBUG - Inserting phanpy into table
+2024-11-23 13:06:19,629 - DEBUG - Inserting donphan into table
+2024-11-23 13:06:19,630 - DEBUG - Inserting porygon2 into table
+2024-11-23 13:06:19,632 - DEBUG - Inserting stantler into table
+2024-11-23 13:06:19,634 - DEBUG - Inserting smeargle into table
+2024-11-23 13:06:19,636 - DEBUG - Inserting tyrogue into table
+2024-11-23 13:06:19,638 - DEBUG - Inserting hitmontop into table
+2024-11-23 13:06:19,639 - DEBUG - Inserting smoochum into table
+2024-11-23 13:06:19,641 - DEBUG - Inserting elekid into table
+2024-11-23 13:06:19,643 - DEBUG - Inserting magby into table
+2024-11-23 13:06:19,645 - DEBUG - Inserting miltank into table
+2024-11-23 13:06:19,646 - DEBUG - Inserting blissey into table
+2024-11-23 13:06:19,648 - DEBUG - Inserting raikou into table
+2024-11-23 13:06:19,650 - DEBUG - Inserting entei into table
+2024-11-23 13:06:19,652 - DEBUG - Inserting suicune into table
+2024-11-23 13:06:19,654 - DEBUG - Inserting larvitar into table
+2024-11-23 13:06:19,656 - DEBUG - Inserting pupitar into table
+2024-11-23 13:06:19,658 - DEBUG - Inserting tyranitar into table
+2024-11-23 13:06:19,659 - DEBUG - Inserting tyranitarmega into table
+2024-11-23 13:06:19,661 - DEBUG - Inserting lugia into table
+2024-11-23 13:06:19,663 - DEBUG - Inserting hooh into table
+2024-11-23 13:06:19,664 - DEBUG - Inserting celebi into table
+2024-11-23 13:06:19,666 - DEBUG - Inserting treecko into table
+2024-11-23 13:06:19,668 - DEBUG - Inserting grovyle into table
+2024-11-23 13:06:19,670 - DEBUG - Inserting sceptile into table
+2024-11-23 13:06:19,672 - DEBUG - Inserting sceptilemega into table
+2024-11-23 13:06:19,673 - DEBUG - Inserting torchic into table
+2024-11-23 13:06:19,675 - DEBUG - Inserting combusken into table
+2024-11-23 13:06:19,677 - DEBUG - Inserting blaziken into table
+2024-11-23 13:06:19,679 - DEBUG - Inserting blazikenmega into table
+2024-11-23 13:06:19,680 - DEBUG - Inserting mudkip into table
+2024-11-23 13:06:19,682 - DEBUG - Inserting marshtomp into table
+2024-11-23 13:06:19,684 - DEBUG - Inserting swampert into table
+2024-11-23 13:06:19,685 - DEBUG - Inserting swampertmega into table
+2024-11-23 13:06:19,687 - DEBUG - Inserting poochyena into table
+2024-11-23 13:06:19,689 - DEBUG - Inserting mightyena into table
+2024-11-23 13:06:19,691 - DEBUG - Inserting zigzagoon into table
+2024-11-23 13:06:19,693 - DEBUG - Inserting zigzagoongalar into table
+2024-11-23 13:06:19,695 - DEBUG - Inserting linoone into table
+2024-11-23 13:06:19,696 - DEBUG - Inserting linoonegalar into table
+2024-11-23 13:06:19,698 - DEBUG - Inserting wurmple into table
+2024-11-23 13:06:19,700 - DEBUG - Inserting silcoon into table
+2024-11-23 13:06:19,701 - DEBUG - Inserting beautifly into table
+2024-11-23 13:06:19,703 - DEBUG - Inserting cascoon into table
+2024-11-23 13:06:19,705 - DEBUG - Inserting dustox into table
+2024-11-23 13:06:19,707 - DEBUG - Inserting lotad into table
+2024-11-23 13:06:19,708 - DEBUG - Inserting lombre into table
+2024-11-23 13:06:19,710 - DEBUG - Inserting ludicolo into table
+2024-11-23 13:06:19,712 - DEBUG - Inserting seedot into table
+2024-11-23 13:06:19,714 - DEBUG - Inserting nuzleaf into table
+2024-11-23 13:06:19,715 - DEBUG - Inserting shiftry into table
+2024-11-23 13:06:19,717 - DEBUG - Inserting taillow into table
+2024-11-23 13:06:19,719 - DEBUG - Inserting swellow into table
+2024-11-23 13:06:19,721 - DEBUG - Inserting wingull into table
+2024-11-23 13:06:19,722 - DEBUG - Inserting pelipper into table
+2024-11-23 13:06:19,724 - DEBUG - Inserting ralts into table
+2024-11-23 13:06:19,726 - DEBUG - Inserting kirlia into table
+2024-11-23 13:06:19,728 - DEBUG - Inserting gardevoir into table
+2024-11-23 13:06:19,729 - DEBUG - Inserting gardevoirmega into table
+2024-11-23 13:06:19,731 - DEBUG - Inserting surskit into table
+2024-11-23 13:06:19,733 - DEBUG - Inserting masquerain into table
+2024-11-23 13:06:19,734 - DEBUG - Inserting shroomish into table
+2024-11-23 13:06:19,736 - DEBUG - Inserting breloom into table
+2024-11-23 13:06:19,738 - DEBUG - Inserting slakoth into table
+2024-11-23 13:06:19,739 - DEBUG - Inserting vigoroth into table
+2024-11-23 13:06:19,741 - DEBUG - Inserting slaking into table
+2024-11-23 13:06:19,743 - DEBUG - Inserting nincada into table
+2024-11-23 13:06:19,745 - DEBUG - Inserting ninjask into table
+2024-11-23 13:06:19,746 - DEBUG - Inserting shedinja into table
+2024-11-23 13:06:19,748 - DEBUG - Inserting whismur into table
+2024-11-23 13:06:19,750 - DEBUG - Inserting loudred into table
+2024-11-23 13:06:19,751 - DEBUG - Inserting exploud into table
+2024-11-23 13:06:19,753 - DEBUG - Inserting makuhita into table
+2024-11-23 13:06:19,755 - DEBUG - Inserting hariyama into table
+2024-11-23 13:06:19,756 - DEBUG - Inserting azurill into table
+2024-11-23 13:06:19,758 - DEBUG - Inserting nosepass into table
+2024-11-23 13:06:19,760 - DEBUG - Inserting skitty into table
+2024-11-23 13:06:19,762 - DEBUG - Inserting delcatty into table
+2024-11-23 13:06:19,763 - DEBUG - Inserting sableye into table
+2024-11-23 13:06:19,765 - DEBUG - Inserting sableyemega into table
+2024-11-23 13:06:19,767 - DEBUG - Inserting mawile into table
+2024-11-23 13:06:19,768 - DEBUG - Inserting mawilemega into table
+2024-11-23 13:06:19,770 - DEBUG - Inserting aron into table
+2024-11-23 13:06:19,772 - DEBUG - Inserting lairon into table
+2024-11-23 13:06:19,773 - DEBUG - Inserting aggron into table
+2024-11-23 13:06:19,775 - DEBUG - Inserting aggronmega into table
+2024-11-23 13:06:19,777 - DEBUG - Inserting meditite into table
+2024-11-23 13:06:19,778 - DEBUG - Inserting medicham into table
+2024-11-23 13:06:19,780 - DEBUG - Inserting medichammega into table
+2024-11-23 13:06:19,782 - DEBUG - Inserting electrike into table
+2024-11-23 13:06:19,784 - DEBUG - Inserting manectric into table
+2024-11-23 13:06:19,786 - DEBUG - Inserting manectricmega into table
+2024-11-23 13:06:19,787 - DEBUG - Inserting plusle into table
+2024-11-23 13:06:19,789 - DEBUG - Inserting minun into table
+2024-11-23 13:06:19,791 - DEBUG - Inserting volbeat into table
+2024-11-23 13:06:19,792 - DEBUG - Inserting illumise into table
+2024-11-23 13:06:19,794 - DEBUG - Inserting roselia into table
+2024-11-23 13:06:19,796 - DEBUG - Inserting gulpin into table
+2024-11-23 13:06:19,798 - DEBUG - Inserting swalot into table
+2024-11-23 13:06:19,799 - DEBUG - Inserting carvanha into table
+2024-11-23 13:06:19,801 - DEBUG - Inserting sharpedo into table
+2024-11-23 13:06:19,803 - DEBUG - Inserting sharpedomega into table
+2024-11-23 13:06:19,804 - DEBUG - Inserting wailmer into table
+2024-11-23 13:06:19,806 - DEBUG - Inserting wailord into table
+2024-11-23 13:06:19,807 - DEBUG - Inserting numel into table
+2024-11-23 13:06:19,809 - DEBUG - Inserting camerupt into table
+2024-11-23 13:06:19,811 - DEBUG - Inserting cameruptmega into table
+2024-11-23 13:06:19,812 - DEBUG - Inserting torkoal into table
+2024-11-23 13:06:19,814 - DEBUG - Inserting spoink into table
+2024-11-23 13:06:19,816 - DEBUG - Inserting grumpig into table
+2024-11-23 13:06:19,817 - DEBUG - Inserting spinda into table
+2024-11-23 13:06:19,819 - DEBUG - Inserting trapinch into table
+2024-11-23 13:06:19,821 - DEBUG - Inserting vibrava into table
+2024-11-23 13:06:19,822 - DEBUG - Inserting flygon into table
+2024-11-23 13:06:19,824 - DEBUG - Inserting cacnea into table
+2024-11-23 13:06:19,826 - DEBUG - Inserting cacturne into table
+2024-11-23 13:06:19,827 - DEBUG - Inserting swablu into table
+2024-11-23 13:06:19,829 - DEBUG - Inserting altaria into table
+2024-11-23 13:06:19,831 - DEBUG - Inserting altariamega into table
+2024-11-23 13:06:19,833 - DEBUG - Inserting zangoose into table
+2024-11-23 13:06:19,835 - DEBUG - Inserting seviper into table
+2024-11-23 13:06:19,836 - DEBUG - Inserting lunatone into table
+2024-11-23 13:06:19,838 - DEBUG - Inserting solrock into table
+2024-11-23 13:06:19,839 - DEBUG - Inserting barboach into table
+2024-11-23 13:06:19,841 - DEBUG - Inserting whiscash into table
+2024-11-23 13:06:19,843 - DEBUG - Inserting corphish into table
+2024-11-23 13:06:19,844 - DEBUG - Inserting crawdaunt into table
+2024-11-23 13:06:19,846 - DEBUG - Inserting baltoy into table
+2024-11-23 13:06:19,848 - DEBUG - Inserting claydol into table
+2024-11-23 13:06:19,849 - DEBUG - Inserting lileep into table
+2024-11-23 13:06:19,851 - DEBUG - Inserting cradily into table
+2024-11-23 13:06:19,853 - DEBUG - Inserting anorith into table
+2024-11-23 13:06:19,854 - DEBUG - Inserting armaldo into table
+2024-11-23 13:06:19,856 - DEBUG - Inserting feebas into table
+2024-11-23 13:06:19,857 - DEBUG - Inserting milotic into table
+2024-11-23 13:06:19,859 - DEBUG - Inserting castform into table
+2024-11-23 13:06:19,861 - DEBUG - Inserting castformsunny into table
+2024-11-23 13:06:19,861 - ERROR - unknown forme type 'sunny' for pokemon #351
+2024-11-23 13:06:19,862 - DEBUG - Inserting castformrainy into table
+2024-11-23 13:06:19,862 - ERROR - unknown forme type 'rainy' for pokemon #351
+2024-11-23 13:06:19,864 - DEBUG - Inserting castformsnowy into table
+2024-11-23 13:06:19,864 - ERROR - unknown forme type 'snowy' for pokemon #351
+2024-11-23 13:06:19,866 - DEBUG - Inserting kecleon into table
+2024-11-23 13:06:19,867 - DEBUG - Inserting shuppet into table
+2024-11-23 13:06:19,869 - DEBUG - Inserting banette into table
+2024-11-23 13:06:19,871 - DEBUG - Inserting banettemega into table
+2024-11-23 13:06:19,873 - DEBUG - Inserting duskull into table
+2024-11-23 13:06:19,875 - DEBUG - Inserting dusclops into table
+2024-11-23 13:06:19,876 - DEBUG - Inserting tropius into table
+2024-11-23 13:06:19,878 - DEBUG - Inserting chimecho into table
+2024-11-23 13:06:19,880 - DEBUG - Inserting absol into table
+2024-11-23 13:06:19,881 - DEBUG - Inserting absolmega into table
+2024-11-23 13:06:19,883 - DEBUG - Inserting wynaut into table
+2024-11-23 13:06:19,885 - DEBUG - Inserting snorunt into table
+2024-11-23 13:06:19,886 - DEBUG - Inserting glalie into table
+2024-11-23 13:06:19,888 - DEBUG - Inserting glaliemega into table
+2024-11-23 13:06:19,890 - DEBUG - Inserting spheal into table
+2024-11-23 13:06:19,892 - DEBUG - Inserting sealeo into table
+2024-11-23 13:06:19,893 - DEBUG - Inserting walrein into table
+2024-11-23 13:06:19,895 - DEBUG - Inserting clamperl into table
+2024-11-23 13:06:19,897 - DEBUG - Inserting huntail into table
+2024-11-23 13:06:19,898 - DEBUG - Inserting gorebyss into table
+2024-11-23 13:06:19,900 - DEBUG - Inserting relicanth into table
+2024-11-23 13:06:19,902 - DEBUG - Inserting luvdisc into table
+2024-11-23 13:06:19,903 - DEBUG - Inserting bagon into table
+2024-11-23 13:06:19,905 - DEBUG - Inserting shelgon into table
+2024-11-23 13:06:19,907 - DEBUG - Inserting salamence into table
+2024-11-23 13:06:19,908 - DEBUG - Inserting salamencemega into table
+2024-11-23 13:06:19,910 - DEBUG - Inserting beldum into table
+2024-11-23 13:06:19,912 - DEBUG - Inserting metang into table
+2024-11-23 13:06:19,913 - DEBUG - Inserting metagross into table
+2024-11-23 13:06:19,915 - DEBUG - Inserting metagrossmega into table
+2024-11-23 13:06:19,917 - DEBUG - Inserting regirock into table
+2024-11-23 13:06:19,918 - DEBUG - Inserting regice into table
+2024-11-23 13:06:19,920 - DEBUG - Inserting registeel into table
+2024-11-23 13:06:19,922 - DEBUG - Inserting latias into table
+2024-11-23 13:06:19,923 - DEBUG - Inserting latiasmega into table
+2024-11-23 13:06:19,925 - DEBUG - Inserting latios into table
+2024-11-23 13:06:19,927 - DEBUG - Inserting latiosmega into table
+2024-11-23 13:06:19,929 - DEBUG - Inserting kyogre into table
+2024-11-23 13:06:19,930 - DEBUG - Inserting kyogreprimal into table
+2024-11-23 13:06:19,931 - ERROR - unknown forme type 'primal' for pokemon #382
+2024-11-23 13:06:19,932 - DEBUG - Inserting groudon into table
+2024-11-23 13:06:19,934 - DEBUG - Inserting groudonprimal into table
+2024-11-23 13:06:19,934 - ERROR - unknown forme type 'primal' for pokemon #383
+2024-11-23 13:06:19,936 - DEBUG - Inserting rayquaza into table
+2024-11-23 13:06:19,937 - DEBUG - Inserting rayquazamega into table
+2024-11-23 13:06:19,939 - DEBUG - Inserting jirachi into table
+2024-11-23 13:06:19,941 - DEBUG - Inserting deoxys into table
+2024-11-23 13:06:19,943 - DEBUG - Inserting deoxysattack into table
+2024-11-23 13:06:19,943 - ERROR - unknown forme type 'attack' for pokemon #386
+2024-11-23 13:06:19,944 - DEBUG - Inserting deoxysdefense into table
+2024-11-23 13:06:19,944 - ERROR - unknown forme type 'defense' for pokemon #386
+2024-11-23 13:06:19,946 - DEBUG - Inserting deoxysspeed into table
+2024-11-23 13:06:19,946 - ERROR - unknown forme type 'speed' for pokemon #386
+2024-11-23 13:06:19,948 - DEBUG - Inserting turtwig into table
+2024-11-23 13:06:19,950 - DEBUG - Inserting grotle into table
+2024-11-23 13:06:19,951 - DEBUG - Inserting torterra into table
+2024-11-23 13:06:19,953 - DEBUG - Inserting chimchar into table
+2024-11-23 13:06:19,955 - DEBUG - Inserting monferno into table
+2024-11-23 13:06:19,956 - DEBUG - Inserting infernape into table
+2024-11-23 13:06:19,958 - DEBUG - Inserting piplup into table
+2024-11-23 13:06:19,960 - DEBUG - Inserting prinplup into table
+2024-11-23 13:06:19,962 - DEBUG - Inserting empoleon into table
+2024-11-23 13:06:19,963 - DEBUG - Inserting starly into table
+2024-11-23 13:06:19,965 - DEBUG - Inserting staravia into table
+2024-11-23 13:06:19,967 - DEBUG - Inserting staraptor into table
+2024-11-23 13:06:19,969 - DEBUG - Inserting bidoof into table
+2024-11-23 13:06:19,971 - DEBUG - Inserting bibarel into table
+2024-11-23 13:06:19,972 - DEBUG - Inserting kricketot into table
+2024-11-23 13:06:19,974 - DEBUG - Inserting kricketune into table
+2024-11-23 13:06:19,976 - DEBUG - Inserting shinx into table
+2024-11-23 13:06:19,977 - DEBUG - Inserting luxio into table
+2024-11-23 13:06:19,979 - DEBUG - Inserting luxray into table
+2024-11-23 13:06:19,981 - DEBUG - Inserting budew into table
+2024-11-23 13:06:19,983 - DEBUG - Inserting roserade into table
+2024-11-23 13:06:19,984 - DEBUG - Inserting cranidos into table
+2024-11-23 13:06:19,986 - DEBUG - Inserting rampardos into table
+2024-11-23 13:06:19,988 - DEBUG - Inserting shieldon into table
+2024-11-23 13:06:19,990 - DEBUG - Inserting bastiodon into table
+2024-11-23 13:06:19,991 - DEBUG - Inserting burmy into table
+2024-11-23 13:06:19,993 - DEBUG - Inserting wormadam into table
+2024-11-23 13:06:19,995 - DEBUG - Inserting wormadamsandy into table
+2024-11-23 13:06:19,995 - ERROR - unknown forme type 'sandy' for pokemon #413
+2024-11-23 13:06:19,996 - DEBUG - Inserting wormadamtrash into table
+2024-11-23 13:06:19,996 - ERROR - unknown forme type 'trash' for pokemon #413
+2024-11-23 13:06:19,998 - DEBUG - Inserting mothim into table
+2024-11-23 13:06:20,000 - DEBUG - Inserting combee into table
+2024-11-23 13:06:20,002 - DEBUG - Inserting vespiquen into table
+2024-11-23 13:06:20,003 - DEBUG - Inserting pachirisu into table
+2024-11-23 13:06:20,005 - DEBUG - Inserting buizel into table
+2024-11-23 13:06:20,007 - DEBUG - Inserting floatzel into table
+2024-11-23 13:06:20,008 - DEBUG - Inserting cherubi into table
+2024-11-23 13:06:20,010 - DEBUG - Inserting cherrim into table
+2024-11-23 13:06:20,012 - DEBUG - Inserting cherrimsunshine into table
+2024-11-23 13:06:20,012 - ERROR - unknown forme type 'sunshine' for pokemon #421
+2024-11-23 13:06:20,014 - DEBUG - Inserting shellos into table
+2024-11-23 13:06:20,015 - DEBUG - Inserting gastrodon into table
+2024-11-23 13:06:20,017 - DEBUG - Inserting ambipom into table
+2024-11-23 13:06:20,019 - DEBUG - Inserting drifloon into table
+2024-11-23 13:06:20,020 - DEBUG - Inserting drifblim into table
+2024-11-23 13:06:20,022 - DEBUG - Inserting buneary into table
+2024-11-23 13:06:20,024 - DEBUG - Inserting lopunny into table
+2024-11-23 13:06:20,025 - DEBUG - Inserting lopunnymega into table
+2024-11-23 13:06:20,027 - DEBUG - Inserting mismagius into table
+2024-11-23 13:06:20,029 - DEBUG - Inserting honchkrow into table
+2024-11-23 13:06:20,030 - DEBUG - Inserting glameow into table
+2024-11-23 13:06:20,032 - DEBUG - Inserting purugly into table
+2024-11-23 13:06:20,034 - DEBUG - Inserting chingling into table
+2024-11-23 13:06:20,036 - DEBUG - Inserting stunky into table
+2024-11-23 13:06:20,037 - DEBUG - Inserting skuntank into table
+2024-11-23 13:06:20,040 - DEBUG - Inserting bronzor into table
+2024-11-23 13:06:20,041 - DEBUG - Inserting bronzong into table
+2024-11-23 13:06:20,043 - DEBUG - Inserting bonsly into table
+2024-11-23 13:06:20,045 - DEBUG - Inserting mimejr into table
+2024-11-23 13:06:20,046 - DEBUG - Inserting happiny into table
+2024-11-23 13:06:20,048 - DEBUG - Inserting chatot into table
+2024-11-23 13:06:20,050 - DEBUG - Inserting spiritomb into table
+2024-11-23 13:06:20,051 - DEBUG - Inserting gible into table
+2024-11-23 13:06:20,053 - DEBUG - Inserting gabite into table
+2024-11-23 13:06:20,054 - DEBUG - Inserting garchomp into table
+2024-11-23 13:06:20,056 - DEBUG - Inserting garchompmega into table
+2024-11-23 13:06:20,058 - DEBUG - Inserting munchlax into table
+2024-11-23 13:06:20,060 - DEBUG - Inserting riolu into table
+2024-11-23 13:06:20,062 - DEBUG - Inserting lucario into table
+2024-11-23 13:06:20,064 - DEBUG - Inserting lucariomega into table
+2024-11-23 13:06:20,065 - DEBUG - Inserting hippopotas into table
+2024-11-23 13:06:20,067 - DEBUG - Inserting hippowdon into table
+2024-11-23 13:06:20,068 - DEBUG - Inserting skorupi into table
+2024-11-23 13:06:20,070 - DEBUG - Inserting drapion into table
+2024-11-23 13:06:20,072 - DEBUG - Inserting croagunk into table
+2024-11-23 13:06:20,073 - DEBUG - Inserting toxicroak into table
+2024-11-23 13:06:20,075 - DEBUG - Inserting carnivine into table
+2024-11-23 13:06:20,076 - DEBUG - Inserting finneon into table
+2024-11-23 13:06:20,078 - DEBUG - Inserting lumineon into table
+2024-11-23 13:06:20,080 - DEBUG - Inserting mantyke into table
+2024-11-23 13:06:20,082 - DEBUG - Inserting snover into table
+2024-11-23 13:06:20,084 - DEBUG - Inserting abomasnow into table
+2024-11-23 13:06:20,086 - DEBUG - Inserting abomasnowmega into table
+2024-11-23 13:06:20,088 - DEBUG - Inserting weavile into table
+2024-11-23 13:06:20,090 - DEBUG - Inserting magnezone into table
+2024-11-23 13:06:20,092 - DEBUG - Inserting lickilicky into table
+2024-11-23 13:06:20,094 - DEBUG - Inserting rhyperior into table
+2024-11-23 13:06:20,095 - DEBUG - Inserting tangrowth into table
+2024-11-23 13:06:20,097 - DEBUG - Inserting electivire into table
+2024-11-23 13:06:20,099 - DEBUG - Inserting magmortar into table
+2024-11-23 13:06:20,101 - DEBUG - Inserting togekiss into table
+2024-11-23 13:06:20,103 - DEBUG - Inserting yanmega into table
+2024-11-23 13:06:20,104 - DEBUG - Inserting leafeon into table
+2024-11-23 13:06:20,106 - DEBUG - Inserting glaceon into table
+2024-11-23 13:06:20,107 - DEBUG - Inserting gliscor into table
+2024-11-23 13:06:20,109 - DEBUG - Inserting mamoswine into table
+2024-11-23 13:06:20,111 - DEBUG - Inserting porygonz into table
+2024-11-23 13:06:20,113 - DEBUG - Inserting gallade into table
+2024-11-23 13:06:20,114 - DEBUG - Inserting gallademega into table
+2024-11-23 13:06:20,116 - DEBUG - Inserting probopass into table
+2024-11-23 13:06:20,118 - DEBUG - Inserting dusknoir into table
+2024-11-23 13:06:20,119 - DEBUG - Inserting froslass into table
+2024-11-23 13:06:20,121 - DEBUG - Inserting rotom into table
+2024-11-23 13:06:20,122 - DEBUG - Inserting rotomheat into table
+2024-11-23 13:06:20,122 - ERROR - unknown forme type 'heat' for pokemon #479
+2024-11-23 13:06:20,124 - DEBUG - Inserting rotomwash into table
+2024-11-23 13:06:20,124 - ERROR - unknown forme type 'wash' for pokemon #479
+2024-11-23 13:06:20,126 - DEBUG - Inserting rotomfrost into table
+2024-11-23 13:06:20,126 - ERROR - unknown forme type 'frost' for pokemon #479
+2024-11-23 13:06:20,127 - DEBUG - Inserting rotomfan into table
+2024-11-23 13:06:20,127 - ERROR - unknown forme type 'fan' for pokemon #479
+2024-11-23 13:06:20,129 - DEBUG - Inserting rotommow into table
+2024-11-23 13:06:20,129 - ERROR - unknown forme type 'mow' for pokemon #479
+2024-11-23 13:06:20,131 - DEBUG - Inserting uxie into table
+2024-11-23 13:06:20,132 - DEBUG - Inserting mesprit into table
+2024-11-23 13:06:20,134 - DEBUG - Inserting azelf into table
+2024-11-23 13:06:20,136 - DEBUG - Inserting dialga into table
+2024-11-23 13:06:20,138 - DEBUG - Inserting dialgaorigin into table
+2024-11-23 13:06:20,138 - ERROR - unknown forme type 'origin' for pokemon #483
+2024-11-23 13:06:20,139 - DEBUG - Inserting palkia into table
+2024-11-23 13:06:20,141 - DEBUG - Inserting palkiaorigin into table
+2024-11-23 13:06:20,141 - ERROR - unknown forme type 'origin' for pokemon #484
+2024-11-23 13:06:20,143 - DEBUG - Inserting heatran into table
+2024-11-23 13:06:20,145 - DEBUG - Inserting regigigas into table
+2024-11-23 13:06:20,147 - DEBUG - Inserting giratina into table
+2024-11-23 13:06:20,148 - DEBUG - Inserting giratinaorigin into table
+2024-11-23 13:06:20,148 - ERROR - unknown forme type 'origin' for pokemon #487
+2024-11-23 13:06:20,151 - DEBUG - Inserting cresselia into table
+2024-11-23 13:06:20,152 - DEBUG - Inserting phione into table
+2024-11-23 13:06:20,154 - DEBUG - Inserting manaphy into table
+2024-11-23 13:06:20,156 - DEBUG - Inserting darkrai into table
+2024-11-23 13:06:20,158 - DEBUG - Inserting shaymin into table
+2024-11-23 13:06:20,160 - DEBUG - Inserting shayminsky into table
+2024-11-23 13:06:20,160 - ERROR - unknown forme type 'sky' for pokemon #492
+2024-11-23 13:06:20,161 - DEBUG - Inserting arceus into table
+2024-11-23 13:06:20,163 - DEBUG - Inserting arceusbug into table
+2024-11-23 13:06:20,163 - ERROR - unknown forme type 'bug' for pokemon #493
+2024-11-23 13:06:20,165 - DEBUG - Inserting arceusdark into table
+2024-11-23 13:06:20,165 - ERROR - unknown forme type 'dark' for pokemon #493
+2024-11-23 13:06:20,167 - DEBUG - Inserting arceusdragon into table
+2024-11-23 13:06:20,167 - ERROR - unknown forme type 'dragon' for pokemon #493
+2024-11-23 13:06:20,168 - DEBUG - Inserting arceuselectric into table
+2024-11-23 13:06:20,168 - ERROR - unknown forme type 'electric' for pokemon #493
+2024-11-23 13:06:20,170 - DEBUG - Inserting arceusfairy into table
+2024-11-23 13:06:20,170 - ERROR - unknown forme type 'fairy' for pokemon #493
+2024-11-23 13:06:20,172 - DEBUG - Inserting arceusfighting into table
+2024-11-23 13:06:20,172 - ERROR - unknown forme type 'fighting' for pokemon #493
+2024-11-23 13:06:20,174 - DEBUG - Inserting arceusfire into table
+2024-11-23 13:06:20,174 - ERROR - unknown forme type 'fire' for pokemon #493
+2024-11-23 13:06:20,176 - DEBUG - Inserting arceusflying into table
+2024-11-23 13:06:20,176 - ERROR - unknown forme type 'flying' for pokemon #493
+2024-11-23 13:06:20,178 - DEBUG - Inserting arceusghost into table
+2024-11-23 13:06:20,178 - ERROR - unknown forme type 'ghost' for pokemon #493
+2024-11-23 13:06:20,180 - DEBUG - Inserting arceusgrass into table
+2024-11-23 13:06:20,180 - ERROR - unknown forme type 'grass' for pokemon #493
+2024-11-23 13:06:20,182 - DEBUG - Inserting arceusground into table
+2024-11-23 13:06:20,182 - ERROR - unknown forme type 'ground' for pokemon #493
+2024-11-23 13:06:20,184 - DEBUG - Inserting arceusice into table
+2024-11-23 13:06:20,184 - ERROR - unknown forme type 'ice' for pokemon #493
+2024-11-23 13:06:20,186 - DEBUG - Inserting arceuspoison into table
+2024-11-23 13:06:20,186 - ERROR - unknown forme type 'poison' for pokemon #493
+2024-11-23 13:06:20,187 - DEBUG - Inserting arceuspsychic into table
+2024-11-23 13:06:20,188 - ERROR - unknown forme type 'psychic' for pokemon #493
+2024-11-23 13:06:20,189 - DEBUG - Inserting arceusrock into table
+2024-11-23 13:06:20,189 - ERROR - unknown forme type 'rock' for pokemon #493
+2024-11-23 13:06:20,191 - DEBUG - Inserting arceussteel into table
+2024-11-23 13:06:20,191 - ERROR - unknown forme type 'steel' for pokemon #493
+2024-11-23 13:06:20,192 - DEBUG - Inserting arceuswater into table
+2024-11-23 13:06:20,192 - ERROR - unknown forme type 'water' for pokemon #493
+2024-11-23 13:06:20,194 - DEBUG - Inserting victini into table
+2024-11-23 13:06:20,196 - DEBUG - Inserting snivy into table
+2024-11-23 13:06:20,197 - DEBUG - Inserting servine into table
+2024-11-23 13:06:20,199 - DEBUG - Inserting serperior into table
+2024-11-23 13:06:20,200 - DEBUG - Inserting tepig into table
+2024-11-23 13:06:20,202 - DEBUG - Inserting pignite into table
+2024-11-23 13:06:20,204 - DEBUG - Inserting emboar into table
+2024-11-23 13:06:20,206 - DEBUG - Inserting oshawott into table
+2024-11-23 13:06:20,207 - DEBUG - Inserting dewott into table
+2024-11-23 13:06:20,209 - DEBUG - Inserting samurott into table
+2024-11-23 13:06:20,211 - DEBUG - Inserting samurotthisui into table
+2024-11-23 13:06:20,213 - DEBUG - Inserting patrat into table
+2024-11-23 13:06:20,214 - DEBUG - Inserting watchog into table
+2024-11-23 13:06:20,216 - DEBUG - Inserting lillipup into table
+2024-11-23 13:06:20,218 - DEBUG - Inserting herdier into table
+2024-11-23 13:06:20,219 - DEBUG - Inserting stoutland into table
+2024-11-23 13:06:20,221 - DEBUG - Inserting purrloin into table
+2024-11-23 13:06:20,223 - DEBUG - Inserting liepard into table
+2024-11-23 13:06:20,224 - DEBUG - Inserting pansage into table
+2024-11-23 13:06:20,226 - DEBUG - Inserting simisage into table
+2024-11-23 13:06:20,228 - DEBUG - Inserting pansear into table
+2024-11-23 13:06:20,230 - DEBUG - Inserting simisear into table
+2024-11-23 13:06:20,232 - DEBUG - Inserting panpour into table
+2024-11-23 13:06:20,233 - DEBUG - Inserting simipour into table
+2024-11-23 13:06:20,235 - DEBUG - Inserting munna into table
+2024-11-23 13:06:20,236 - DEBUG - Inserting musharna into table
+2024-11-23 13:06:20,238 - DEBUG - Inserting pidove into table
+2024-11-23 13:06:20,240 - DEBUG - Inserting tranquill into table
+2024-11-23 13:06:20,241 - DEBUG - Inserting unfezant into table
+2024-11-23 13:06:20,248 - DEBUG - Inserting blitzle into table
+2024-11-23 13:06:20,250 - DEBUG - Inserting zebstrika into table
+2024-11-23 13:06:20,251 - DEBUG - Inserting roggenrola into table
+2024-11-23 13:06:20,253 - DEBUG - Inserting boldore into table
+2024-11-23 13:06:20,255 - DEBUG - Inserting gigalith into table
+2024-11-23 13:06:20,257 - DEBUG - Inserting woobat into table
+2024-11-23 13:06:20,258 - DEBUG - Inserting swoobat into table
+2024-11-23 13:06:20,260 - DEBUG - Inserting drilbur into table
+2024-11-23 13:06:20,262 - DEBUG - Inserting excadrill into table
+2024-11-23 13:06:20,264 - DEBUG - Inserting audino into table
+2024-11-23 13:06:20,265 - DEBUG - Inserting audinomega into table
+2024-11-23 13:06:20,267 - DEBUG - Inserting timburr into table
+2024-11-23 13:06:20,268 - DEBUG - Inserting gurdurr into table
+2024-11-23 13:06:20,270 - DEBUG - Inserting conkeldurr into table
+2024-11-23 13:06:20,272 - DEBUG - Inserting tympole into table
+2024-11-23 13:06:20,273 - DEBUG - Inserting palpitoad into table
+2024-11-23 13:06:20,275 - DEBUG - Inserting seismitoad into table
+2024-11-23 13:06:20,276 - DEBUG - Inserting throh into table
+2024-11-23 13:06:20,278 - DEBUG - Inserting sawk into table
+2024-11-23 13:06:20,280 - DEBUG - Inserting sewaddle into table
+2024-11-23 13:06:20,281 - DEBUG - Inserting swadloon into table
+2024-11-23 13:06:20,283 - DEBUG - Inserting leavanny into table
+2024-11-23 13:06:20,284 - DEBUG - Inserting venipede into table
+2024-11-23 13:06:20,286 - DEBUG - Inserting whirlipede into table
+2024-11-23 13:06:20,288 - DEBUG - Inserting scolipede into table
+2024-11-23 13:06:20,289 - DEBUG - Inserting cottonee into table
+2024-11-23 13:06:20,291 - DEBUG - Inserting whimsicott into table
+2024-11-23 13:06:20,293 - DEBUG - Inserting petilil into table
+2024-11-23 13:06:20,294 - DEBUG - Inserting lilligant into table
+2024-11-23 13:06:20,296 - DEBUG - Inserting lilliganthisui into table
+2024-11-23 13:06:20,297 - DEBUG - Inserting basculin into table
+2024-11-23 13:06:20,299 - DEBUG - Inserting basculinbluestriped into table
+2024-11-23 13:06:20,299 - ERROR - unknown forme type 'blue-striped' for pokemon #550
+2024-11-23 13:06:20,301 - DEBUG - Inserting basculinwhitestriped into table
+2024-11-23 13:06:20,301 - ERROR - unknown forme type 'white-striped' for pokemon #550
+2024-11-23 13:06:20,302 - DEBUG - Inserting sandile into table
+2024-11-23 13:06:20,304 - DEBUG - Inserting krokorok into table
+2024-11-23 13:06:20,306 - DEBUG - Inserting krookodile into table
+2024-11-23 13:06:20,307 - DEBUG - Inserting darumaka into table
+2024-11-23 13:06:20,309 - DEBUG - Inserting darumakagalar into table
+2024-11-23 13:06:20,311 - DEBUG - Inserting darmanitan into table
+2024-11-23 13:06:20,312 - DEBUG - Inserting darmanitanzen into table
+2024-11-23 13:06:20,312 - ERROR - unknown forme type 'zen' for pokemon #555
+2024-11-23 13:06:20,314 - DEBUG - Inserting darmanitangalar into table
+2024-11-23 13:06:20,315 - DEBUG - Inserting darmanitangalarzen into table
+2024-11-23 13:06:20,317 - DEBUG - Inserting maractus into table
+2024-11-23 13:06:20,319 - DEBUG - Inserting dwebble into table
+2024-11-23 13:06:20,320 - DEBUG - Inserting crustle into table
+2024-11-23 13:06:20,322 - DEBUG - Inserting scraggy into table
+2024-11-23 13:06:20,324 - DEBUG - Inserting scrafty into table
+2024-11-23 13:06:20,325 - DEBUG - Inserting sigilyph into table
+2024-11-23 13:06:20,327 - DEBUG - Inserting yamask into table
+2024-11-23 13:06:20,328 - DEBUG - Inserting yamaskgalar into table
+2024-11-23 13:06:20,330 - DEBUG - Inserting cofagrigus into table
+2024-11-23 13:06:20,332 - DEBUG - Inserting tirtouga into table
+2024-11-23 13:06:20,333 - DEBUG - Inserting carracosta into table
+2024-11-23 13:06:20,336 - DEBUG - Inserting archen into table
+2024-11-23 13:06:20,337 - DEBUG - Inserting archeops into table
+2024-11-23 13:06:20,339 - DEBUG - Inserting trubbish into table
+2024-11-23 13:06:20,341 - DEBUG - Inserting garbodor into table
+2024-11-23 13:06:20,342 - DEBUG - Inserting garbodorgmax into table
+2024-11-23 13:06:20,344 - DEBUG - Inserting zorua into table
+2024-11-23 13:06:20,345 - DEBUG - Inserting zoruahisui into table
+2024-11-23 13:06:20,347 - DEBUG - Inserting zoroark into table
+2024-11-23 13:06:20,348 - DEBUG - Inserting zoroarkhisui into table
+2024-11-23 13:06:20,350 - DEBUG - Inserting minccino into table
+2024-11-23 13:06:20,352 - DEBUG - Inserting cinccino into table
+2024-11-23 13:06:20,353 - DEBUG - Inserting gothita into table
+2024-11-23 13:06:20,355 - DEBUG - Inserting gothorita into table
+2024-11-23 13:06:20,356 - DEBUG - Inserting gothitelle into table
+2024-11-23 13:06:20,358 - DEBUG - Inserting solosis into table
+2024-11-23 13:06:20,360 - DEBUG - Inserting duosion into table
+2024-11-23 13:06:20,361 - DEBUG - Inserting reuniclus into table
+2024-11-23 13:06:20,363 - DEBUG - Inserting ducklett into table
+2024-11-23 13:06:20,364 - DEBUG - Inserting swanna into table
+2024-11-23 13:06:20,366 - DEBUG - Inserting vanillite into table
+2024-11-23 13:06:20,367 - DEBUG - Inserting vanillish into table
+2024-11-23 13:06:20,369 - DEBUG - Inserting vanilluxe into table
+2024-11-23 13:06:20,370 - DEBUG - Inserting deerling into table
+2024-11-23 13:06:20,372 - DEBUG - Inserting sawsbuck into table
+2024-11-23 13:06:20,375 - DEBUG - Inserting emolga into table
+2024-11-23 13:06:20,376 - DEBUG - Inserting karrablast into table
+2024-11-23 13:06:20,378 - DEBUG - Inserting escavalier into table
+2024-11-23 13:06:20,379 - DEBUG - Inserting foongus into table
+2024-11-23 13:06:20,381 - DEBUG - Inserting amoonguss into table
+2024-11-23 13:06:20,382 - DEBUG - Inserting frillish into table
+2024-11-23 13:06:20,384 - DEBUG - Inserting jellicent into table
+2024-11-23 13:06:20,386 - DEBUG - Inserting alomomola into table
+2024-11-23 13:06:20,387 - DEBUG - Inserting joltik into table
+2024-11-23 13:06:20,389 - DEBUG - Inserting galvantula into table
+2024-11-23 13:06:20,391 - DEBUG - Inserting ferroseed into table
+2024-11-23 13:06:20,392 - DEBUG - Inserting ferrothorn into table
+2024-11-23 13:06:20,394 - DEBUG - Inserting klink into table
+2024-11-23 13:06:20,395 - DEBUG - Inserting klang into table
+2024-11-23 13:06:20,397 - DEBUG - Inserting klinklang into table
+2024-11-23 13:06:20,399 - DEBUG - Inserting tynamo into table
+2024-11-23 13:06:20,400 - DEBUG - Inserting eelektrik into table
+2024-11-23 13:06:20,402 - DEBUG - Inserting eelektross into table
+2024-11-23 13:06:20,403 - DEBUG - Inserting elgyem into table
+2024-11-23 13:06:20,405 - DEBUG - Inserting beheeyem into table
+2024-11-23 13:06:20,407 - DEBUG - Inserting litwick into table
+2024-11-23 13:06:20,408 - DEBUG - Inserting lampent into table
+2024-11-23 13:06:20,410 - DEBUG - Inserting chandelure into table
+2024-11-23 13:06:20,412 - DEBUG - Inserting axew into table
+2024-11-23 13:06:20,414 - DEBUG - Inserting fraxure into table
+2024-11-23 13:06:20,415 - DEBUG - Inserting haxorus into table
+2024-11-23 13:06:20,417 - DEBUG - Inserting cubchoo into table
+2024-11-23 13:06:20,418 - DEBUG - Inserting beartic into table
+2024-11-23 13:06:20,420 - DEBUG - Inserting cryogonal into table
+2024-11-23 13:06:20,422 - DEBUG - Inserting shelmet into table
+2024-11-23 13:06:20,424 - DEBUG - Inserting accelgor into table
+2024-11-23 13:06:20,426 - DEBUG - Inserting stunfisk into table
+2024-11-23 13:06:20,427 - DEBUG - Inserting stunfiskgalar into table
+2024-11-23 13:06:20,429 - DEBUG - Inserting mienfoo into table
+2024-11-23 13:06:20,431 - DEBUG - Inserting mienshao into table
+2024-11-23 13:06:20,432 - DEBUG - Inserting druddigon into table
+2024-11-23 13:06:20,434 - DEBUG - Inserting golett into table
+2024-11-23 13:06:20,435 - DEBUG - Inserting golurk into table
+2024-11-23 13:06:20,437 - DEBUG - Inserting pawniard into table
+2024-11-23 13:06:20,438 - DEBUG - Inserting bisharp into table
+2024-11-23 13:06:20,440 - DEBUG - Inserting bouffalant into table
+2024-11-23 13:06:20,442 - DEBUG - Inserting rufflet into table
+2024-11-23 13:06:20,444 - DEBUG - Inserting braviary into table
+2024-11-23 13:06:20,445 - DEBUG - Inserting braviaryhisui into table
+2024-11-23 13:06:20,447 - DEBUG - Inserting vullaby into table
+2024-11-23 13:06:20,448 - DEBUG - Inserting mandibuzz into table
+2024-11-23 13:06:20,450 - DEBUG - Inserting heatmor into table
+2024-11-23 13:06:20,452 - DEBUG - Inserting durant into table
+2024-11-23 13:06:20,453 - DEBUG - Inserting deino into table
+2024-11-23 13:06:20,455 - DEBUG - Inserting zweilous into table
+2024-11-23 13:06:20,457 - DEBUG - Inserting hydreigon into table
+2024-11-23 13:06:20,458 - DEBUG - Inserting larvesta into table
+2024-11-23 13:06:20,460 - DEBUG - Inserting volcarona into table
+2024-11-23 13:06:20,462 - DEBUG - Inserting cobalion into table
+2024-11-23 13:06:20,463 - DEBUG - Inserting terrakion into table
+2024-11-23 13:06:20,465 - DEBUG - Inserting virizion into table
+2024-11-23 13:06:20,467 - DEBUG - Inserting tornadus into table
+2024-11-23 13:06:20,468 - DEBUG - Inserting tornadustherian into table
+2024-11-23 13:06:20,468 - ERROR - unknown forme type 'therian' for pokemon #641
+2024-11-23 13:06:20,470 - DEBUG - Inserting thundurus into table
+2024-11-23 13:06:20,471 - DEBUG - Inserting thundurustherian into table
+2024-11-23 13:06:20,472 - ERROR - unknown forme type 'therian' for pokemon #642
+2024-11-23 13:06:20,473 - DEBUG - Inserting reshiram into table
+2024-11-23 13:06:20,475 - DEBUG - Inserting zekrom into table
+2024-11-23 13:06:20,476 - DEBUG - Inserting landorus into table
+2024-11-23 13:06:20,478 - DEBUG - Inserting landorustherian into table
+2024-11-23 13:06:20,478 - ERROR - unknown forme type 'therian' for pokemon #645
+2024-11-23 13:06:20,480 - DEBUG - Inserting kyurem into table
+2024-11-23 13:06:20,481 - DEBUG - Inserting kyuremblack into table
+2024-11-23 13:06:20,481 - ERROR - unknown forme type 'black' for pokemon #646
+2024-11-23 13:06:20,483 - DEBUG - Inserting kyuremwhite into table
+2024-11-23 13:06:20,483 - ERROR - unknown forme type 'white' for pokemon #646
+2024-11-23 13:06:20,485 - DEBUG - Inserting keldeo into table
+2024-11-23 13:06:20,486 - DEBUG - Inserting keldeoresolute into table
+2024-11-23 13:06:20,486 - ERROR - unknown forme type 'resolute' for pokemon #647
+2024-11-23 13:06:20,488 - DEBUG - Inserting meloetta into table
+2024-11-23 13:06:20,490 - DEBUG - Inserting meloettapirouette into table
+2024-11-23 13:06:20,490 - ERROR - unknown forme type 'pirouette' for pokemon #648
+2024-11-23 13:06:20,491 - DEBUG - Inserting genesect into table
+2024-11-23 13:06:20,493 - DEBUG - Inserting genesectdouse into table
+2024-11-23 13:06:20,493 - ERROR - unknown forme type 'douse' for pokemon #649
+2024-11-23 13:06:20,495 - DEBUG - Inserting genesectshock into table
+2024-11-23 13:06:20,495 - ERROR - unknown forme type 'shock' for pokemon #649
+2024-11-23 13:06:20,496 - DEBUG - Inserting genesectburn into table
+2024-11-23 13:06:20,496 - ERROR - unknown forme type 'burn' for pokemon #649
+2024-11-23 13:06:20,498 - DEBUG - Inserting genesectchill into table
+2024-11-23 13:06:20,498 - ERROR - unknown forme type 'chill' for pokemon #649
+2024-11-23 13:06:20,499 - DEBUG - Inserting chespin into table
+2024-11-23 13:06:20,501 - DEBUG - Inserting quilladin into table
+2024-11-23 13:06:20,503 - DEBUG - Inserting chesnaught into table
+2024-11-23 13:06:20,504 - DEBUG - Inserting fennekin into table
+2024-11-23 13:06:20,506 - DEBUG - Inserting braixen into table
+2024-11-23 13:06:20,508 - DEBUG - Inserting delphox into table
+2024-11-23 13:06:20,509 - DEBUG - Inserting froakie into table
+2024-11-23 13:06:20,511 - DEBUG - Inserting frogadier into table
+2024-11-23 13:06:20,513 - DEBUG - Inserting greninja into table
+2024-11-23 13:06:20,515 - DEBUG - Inserting greninjabond into table
+2024-11-23 13:06:20,515 - ERROR - unknown forme type 'bond' for pokemon #658
+2024-11-23 13:06:20,517 - DEBUG - Inserting greninjaash into table
+2024-11-23 13:06:20,517 - ERROR - unknown forme type 'ash' for pokemon #658
+2024-11-23 13:06:20,518 - DEBUG - Inserting bunnelby into table
+2024-11-23 13:06:20,520 - DEBUG - Inserting diggersby into table
+2024-11-23 13:06:20,521 - DEBUG - Inserting fletchling into table
+2024-11-23 13:06:20,524 - DEBUG - Inserting fletchinder into table
+2024-11-23 13:06:20,525 - DEBUG - Inserting talonflame into table
+2024-11-23 13:06:20,527 - DEBUG - Inserting scatterbug into table
+2024-11-23 13:06:20,528 - DEBUG - Inserting spewpa into table
+2024-11-23 13:06:20,530 - DEBUG - Inserting vivillon into table
+2024-11-23 13:06:20,532 - DEBUG - Inserting vivillonfancy into table
+2024-11-23 13:06:20,532 - ERROR - unknown forme type 'fancy' for pokemon #666
+2024-11-23 13:06:20,533 - DEBUG - Inserting vivillonpokeball into table
+2024-11-23 13:06:20,533 - ERROR - unknown forme type 'pokeball' for pokemon #666
+2024-11-23 13:06:20,535 - DEBUG - Inserting litleo into table
+2024-11-23 13:06:20,537 - DEBUG - Inserting pyroar into table
+2024-11-23 13:06:20,538 - DEBUG - Inserting flabebe into table
+2024-11-23 13:06:20,540 - DEBUG - Inserting floette into table
+2024-11-23 13:06:20,541 - DEBUG - Inserting floetteeternal into table
+2024-11-23 13:06:20,541 - ERROR - unknown forme type 'eternal' for pokemon #670
+2024-11-23 13:06:20,543 - DEBUG - Inserting florges into table
+2024-11-23 13:06:20,545 - DEBUG - Inserting skiddo into table
+2024-11-23 13:06:20,546 - DEBUG - Inserting gogoat into table
+2024-11-23 13:06:20,548 - DEBUG - Inserting pancham into table
+2024-11-23 13:06:20,550 - DEBUG - Inserting pangoro into table
+2024-11-23 13:06:20,551 - DEBUG - Inserting furfrou into table
+2024-11-23 13:06:20,553 - DEBUG - Inserting espurr into table
+2024-11-23 13:06:20,554 - DEBUG - Inserting meowstic into table
+2024-11-23 13:06:20,556 - DEBUG - Inserting meowsticf into table
+2024-11-23 13:06:20,556 - ERROR - unknown forme type 'f' for pokemon #678
+2024-11-23 13:06:20,558 - DEBUG - Inserting honedge into table
+2024-11-23 13:06:20,559 - DEBUG - Inserting doublade into table
+2024-11-23 13:06:20,561 - DEBUG - Inserting aegislash into table
+2024-11-23 13:06:20,562 - DEBUG - Inserting aegislashblade into table
+2024-11-23 13:06:20,562 - ERROR - unknown forme type 'blade' for pokemon #681
+2024-11-23 13:06:20,564 - DEBUG - Inserting spritzee into table
+2024-11-23 13:06:20,566 - DEBUG - Inserting aromatisse into table
+2024-11-23 13:06:20,567 - DEBUG - Inserting swirlix into table
+2024-11-23 13:06:20,569 - DEBUG - Inserting slurpuff into table
+2024-11-23 13:06:20,570 - DEBUG - Inserting inkay into table
+2024-11-23 13:06:20,572 - DEBUG - Inserting malamar into table
+2024-11-23 13:06:20,574 - DEBUG - Inserting binacle into table
+2024-11-23 13:06:20,575 - DEBUG - Inserting barbaracle into table
+2024-11-23 13:06:20,577 - DEBUG - Inserting skrelp into table
+2024-11-23 13:06:20,579 - DEBUG - Inserting dragalge into table
+2024-11-23 13:06:20,580 - DEBUG - Inserting clauncher into table
+2024-11-23 13:06:20,582 - DEBUG - Inserting clawitzer into table
+2024-11-23 13:06:20,584 - DEBUG - Inserting helioptile into table
+2024-11-23 13:06:20,585 - DEBUG - Inserting heliolisk into table
+2024-11-23 13:06:20,587 - DEBUG - Inserting tyrunt into table
+2024-11-23 13:06:20,589 - DEBUG - Inserting tyrantrum into table
+2024-11-23 13:06:20,590 - DEBUG - Inserting amaura into table
+2024-11-23 13:06:20,592 - DEBUG - Inserting aurorus into table
+2024-11-23 13:06:20,594 - DEBUG - Inserting sylveon into table
+2024-11-23 13:06:20,595 - DEBUG - Inserting hawlucha into table
+2024-11-23 13:06:20,598 - DEBUG - Inserting dedenne into table
+2024-11-23 13:06:20,599 - DEBUG - Inserting carbink into table
+2024-11-23 13:06:20,601 - DEBUG - Inserting goomy into table
+2024-11-23 13:06:20,602 - DEBUG - Inserting sliggoo into table
+2024-11-23 13:06:20,604 - DEBUG - Inserting sliggoohisui into table
+2024-11-23 13:06:20,605 - DEBUG - Inserting goodra into table
+2024-11-23 13:06:20,607 - DEBUG - Inserting goodrahisui into table
+2024-11-23 13:06:20,609 - DEBUG - Inserting klefki into table
+2024-11-23 13:06:20,610 - DEBUG - Inserting phantump into table
+2024-11-23 13:06:20,612 - DEBUG - Inserting trevenant into table
+2024-11-23 13:06:20,614 - DEBUG - Inserting pumpkaboo into table
+2024-11-23 13:06:20,615 - DEBUG - Inserting pumpkaboosmall into table
+2024-11-23 13:06:20,615 - ERROR - unknown forme type 'small' for pokemon #710
+2024-11-23 13:06:20,617 - DEBUG - Inserting pumpkaboolarge into table
+2024-11-23 13:06:20,617 - ERROR - unknown forme type 'large' for pokemon #710
+2024-11-23 13:06:20,619 - DEBUG - Inserting pumpkaboosuper into table
+2024-11-23 13:06:20,619 - ERROR - unknown forme type 'super' for pokemon #710
+2024-11-23 13:06:20,620 - DEBUG - Inserting gourgeist into table
+2024-11-23 13:06:20,622 - DEBUG - Inserting gourgeistsmall into table
+2024-11-23 13:06:20,622 - ERROR - unknown forme type 'small' for pokemon #711
+2024-11-23 13:06:20,624 - DEBUG - Inserting gourgeistlarge into table
+2024-11-23 13:06:20,624 - ERROR - unknown forme type 'large' for pokemon #711
+2024-11-23 13:06:20,625 - DEBUG - Inserting gourgeistsuper into table
+2024-11-23 13:06:20,625 - ERROR - unknown forme type 'super' for pokemon #711
+2024-11-23 13:06:20,627 - DEBUG - Inserting bergmite into table
+2024-11-23 13:06:20,629 - DEBUG - Inserting avalugg into table
+2024-11-23 13:06:20,631 - DEBUG - Inserting avalugghisui into table
+2024-11-23 13:06:20,633 - DEBUG - Inserting noibat into table
+2024-11-23 13:06:20,634 - DEBUG - Inserting noivern into table
+2024-11-23 13:06:20,636 - DEBUG - Inserting xerneas into table
+2024-11-23 13:06:20,638 - DEBUG - Inserting xerneasneutral into table
+2024-11-23 13:06:20,638 - DEBUG - Skipping xerneasneutral
+2024-11-23 13:06:20,638 - DEBUG - Inserting yveltal into table
+2024-11-23 13:06:20,639 - DEBUG - Inserting zygarde into table
+2024-11-23 13:06:20,641 - DEBUG - Inserting zygarde10 into table
+2024-11-23 13:06:20,641 - ERROR - unknown forme type '10%' for pokemon #718
+2024-11-23 13:06:20,643 - DEBUG - Inserting zygardecomplete into table
+2024-11-23 13:06:20,643 - ERROR - unknown forme type 'complete' for pokemon #718
+2024-11-23 13:06:20,644 - DEBUG - Inserting diancie into table
+2024-11-23 13:06:20,646 - DEBUG - Inserting dianciemega into table
+2024-11-23 13:06:20,647 - DEBUG - Inserting hoopa into table
+2024-11-23 13:06:20,649 - DEBUG - Inserting hoopaunbound into table
+2024-11-23 13:06:20,649 - ERROR - unknown forme type 'unbound' for pokemon #720
+2024-11-23 13:06:20,651 - DEBUG - Inserting volcanion into table
+2024-11-23 13:06:20,652 - DEBUG - Inserting rowlet into table
+2024-11-23 13:06:20,654 - DEBUG - Inserting dartrix into table
+2024-11-23 13:06:20,656 - DEBUG - Inserting decidueye into table
+2024-11-23 13:06:20,658 - DEBUG - Inserting decidueyehisui into table
+2024-11-23 13:06:20,659 - DEBUG - Inserting litten into table
+2024-11-23 13:06:20,661 - DEBUG - Inserting torracat into table
+2024-11-23 13:06:20,663 - DEBUG - Inserting incineroar into table
+2024-11-23 13:06:20,664 - DEBUG - Inserting popplio into table
+2024-11-23 13:06:20,666 - DEBUG - Inserting brionne into table
+2024-11-23 13:06:20,668 - DEBUG - Inserting primarina into table
+2024-11-23 13:06:20,669 - DEBUG - Inserting pikipek into table
+2024-11-23 13:06:20,671 - DEBUG - Inserting trumbeak into table
+2024-11-23 13:06:20,673 - DEBUG - Inserting toucannon into table
+2024-11-23 13:06:20,675 - DEBUG - Inserting yungoos into table
+2024-11-23 13:06:20,677 - DEBUG - Inserting gumshoos into table
+2024-11-23 13:06:20,679 - DEBUG - Inserting gumshoostotem into table
+2024-11-23 13:06:20,679 - ERROR - unknown forme type 'totem' for pokemon #735
+2024-11-23 13:06:20,680 - DEBUG - Inserting grubbin into table
+2024-11-23 13:06:20,682 - DEBUG - Inserting charjabug into table
+2024-11-23 13:06:20,684 - DEBUG - Inserting vikavolt into table
+2024-11-23 13:06:20,686 - DEBUG - Inserting vikavolttotem into table
+2024-11-23 13:06:20,686 - ERROR - unknown forme type 'totem' for pokemon #738
+2024-11-23 13:06:20,688 - DEBUG - Inserting crabrawler into table
+2024-11-23 13:06:20,689 - DEBUG - Inserting crabominable into table
+2024-11-23 13:06:20,691 - DEBUG - Inserting oricorio into table
+2024-11-23 13:06:20,693 - DEBUG - Inserting oricoriopompom into table
+2024-11-23 13:06:20,693 - ERROR - unknown forme type 'pom-pom' for pokemon #741
+2024-11-23 13:06:20,695 - DEBUG - Inserting oricoriopau into table
+2024-11-23 13:06:20,695 - ERROR - unknown forme type 'pa'u' for pokemon #741
+2024-11-23 13:06:20,696 - DEBUG - Inserting oricoriosensu into table
+2024-11-23 13:06:20,696 - ERROR - unknown forme type 'sensu' for pokemon #741
+2024-11-23 13:06:20,698 - DEBUG - Inserting cutiefly into table
+2024-11-23 13:06:20,700 - DEBUG - Inserting ribombee into table
+2024-11-23 13:06:20,701 - DEBUG - Inserting ribombeetotem into table
+2024-11-23 13:06:20,701 - ERROR - unknown forme type 'totem' for pokemon #743
+2024-11-23 13:06:20,703 - DEBUG - Inserting rockruff into table
+2024-11-23 13:06:20,705 - DEBUG - Inserting lycanroc into table
+2024-11-23 13:06:20,706 - DEBUG - Inserting lycanrocmidnight into table
+2024-11-23 13:06:20,706 - ERROR - unknown forme type 'midnight' for pokemon #745
+2024-11-23 13:06:20,708 - DEBUG - Inserting lycanrocdusk into table
+2024-11-23 13:06:20,708 - ERROR - unknown forme type 'dusk' for pokemon #745
+2024-11-23 13:06:20,710 - DEBUG - Inserting wishiwashi into table
+2024-11-23 13:06:20,711 - DEBUG - Inserting wishiwashischool into table
+2024-11-23 13:06:20,711 - ERROR - unknown forme type 'school' for pokemon #746
+2024-11-23 13:06:20,713 - DEBUG - Inserting mareanie into table
+2024-11-23 13:06:20,715 - DEBUG - Inserting toxapex into table
+2024-11-23 13:06:20,716 - DEBUG - Inserting mudbray into table
+2024-11-23 13:06:20,718 - DEBUG - Inserting mudsdale into table
+2024-11-23 13:06:20,720 - DEBUG - Inserting dewpider into table
+2024-11-23 13:06:20,721 - DEBUG - Inserting araquanid into table
+2024-11-23 13:06:20,723 - DEBUG - Inserting araquanidtotem into table
+2024-11-23 13:06:20,723 - ERROR - unknown forme type 'totem' for pokemon #752
+2024-11-23 13:06:20,725 - DEBUG - Inserting fomantis into table
+2024-11-23 13:06:20,726 - DEBUG - Inserting lurantis into table
+2024-11-23 13:06:20,728 - DEBUG - Inserting lurantistotem into table
+2024-11-23 13:06:20,728 - ERROR - unknown forme type 'totem' for pokemon #754
+2024-11-23 13:06:20,730 - DEBUG - Inserting morelull into table
+2024-11-23 13:06:20,731 - DEBUG - Inserting shiinotic into table
+2024-11-23 13:06:20,733 - DEBUG - Inserting salandit into table
+2024-11-23 13:06:20,735 - DEBUG - Inserting salazzle into table
+2024-11-23 13:06:20,736 - DEBUG - Inserting salazzletotem into table
+2024-11-23 13:06:20,736 - ERROR - unknown forme type 'totem' for pokemon #758
+2024-11-23 13:06:20,738 - DEBUG - Inserting stufful into table
+2024-11-23 13:06:20,740 - DEBUG - Inserting bewear into table
+2024-11-23 13:06:20,741 - DEBUG - Inserting bounsweet into table
+2024-11-23 13:06:20,743 - DEBUG - Inserting steenee into table
+2024-11-23 13:06:20,745 - DEBUG - Inserting tsareena into table
+2024-11-23 13:06:20,746 - DEBUG - Inserting comfey into table
+2024-11-23 13:06:20,748 - DEBUG - Inserting oranguru into table
+2024-11-23 13:06:20,750 - DEBUG - Inserting passimian into table
+2024-11-23 13:06:20,752 - DEBUG - Inserting wimpod into table
+2024-11-23 13:06:20,753 - DEBUG - Inserting golisopod into table
+2024-11-23 13:06:20,755 - DEBUG - Inserting sandygast into table
+2024-11-23 13:06:20,757 - DEBUG - Inserting palossand into table
+2024-11-23 13:06:20,758 - DEBUG - Inserting pyukumuku into table
+2024-11-23 13:06:20,760 - DEBUG - Inserting typenull into table
+2024-11-23 13:06:20,762 - DEBUG - Inserting silvally into table
+2024-11-23 13:06:20,763 - DEBUG - Inserting silvallybug into table
+2024-11-23 13:06:20,763 - ERROR - unknown forme type 'bug' for pokemon #773
+2024-11-23 13:06:20,765 - DEBUG - Inserting silvallydark into table
+2024-11-23 13:06:20,765 - ERROR - unknown forme type 'dark' for pokemon #773
+2024-11-23 13:06:20,767 - DEBUG - Inserting silvallydragon into table
+2024-11-23 13:06:20,767 - ERROR - unknown forme type 'dragon' for pokemon #773
+2024-11-23 13:06:20,768 - DEBUG - Inserting silvallyelectric into table
+2024-11-23 13:06:20,768 - ERROR - unknown forme type 'electric' for pokemon #773
+2024-11-23 13:06:20,770 - DEBUG - Inserting silvallyfairy into table
+2024-11-23 13:06:20,770 - ERROR - unknown forme type 'fairy' for pokemon #773
+2024-11-23 13:06:20,772 - DEBUG - Inserting silvallyfighting into table
+2024-11-23 13:06:20,772 - ERROR - unknown forme type 'fighting' for pokemon #773
+2024-11-23 13:06:20,774 - DEBUG - Inserting silvallyfire into table
+2024-11-23 13:06:20,774 - ERROR - unknown forme type 'fire' for pokemon #773
+2024-11-23 13:06:20,775 - DEBUG - Inserting silvallyflying into table
+2024-11-23 13:06:20,775 - ERROR - unknown forme type 'flying' for pokemon #773
+2024-11-23 13:06:20,777 - DEBUG - Inserting silvallyghost into table
+2024-11-23 13:06:20,777 - ERROR - unknown forme type 'ghost' for pokemon #773
+2024-11-23 13:06:20,779 - DEBUG - Inserting silvallygrass into table
+2024-11-23 13:06:20,779 - ERROR - unknown forme type 'grass' for pokemon #773
+2024-11-23 13:06:20,780 - DEBUG - Inserting silvallyground into table
+2024-11-23 13:06:20,780 - ERROR - unknown forme type 'ground' for pokemon #773
+2024-11-23 13:06:20,782 - DEBUG - Inserting silvallyice into table
+2024-11-23 13:06:20,782 - ERROR - unknown forme type 'ice' for pokemon #773
+2024-11-23 13:06:20,784 - DEBUG - Inserting silvallypoison into table
+2024-11-23 13:06:20,784 - ERROR - unknown forme type 'poison' for pokemon #773
+2024-11-23 13:06:20,785 - DEBUG - Inserting silvallypsychic into table
+2024-11-23 13:06:20,785 - ERROR - unknown forme type 'psychic' for pokemon #773
+2024-11-23 13:06:20,787 - DEBUG - Inserting silvallyrock into table
+2024-11-23 13:06:20,787 - ERROR - unknown forme type 'rock' for pokemon #773
+2024-11-23 13:06:20,788 - DEBUG - Inserting silvallysteel into table
+2024-11-23 13:06:20,789 - ERROR - unknown forme type 'steel' for pokemon #773
+2024-11-23 13:06:20,790 - DEBUG - Inserting silvallywater into table
+2024-11-23 13:06:20,790 - ERROR - unknown forme type 'water' for pokemon #773
+2024-11-23 13:06:20,792 - DEBUG - Inserting minior into table
+2024-11-23 13:06:20,793 - DEBUG - Inserting miniormeteor into table
+2024-11-23 13:06:20,793 - ERROR - unknown forme type 'meteor' for pokemon #774
+2024-11-23 13:06:20,795 - DEBUG - Inserting komala into table
+2024-11-23 13:06:20,797 - DEBUG - Inserting turtonator into table
+2024-11-23 13:06:20,798 - DEBUG - Inserting togedemaru into table
+2024-11-23 13:06:20,800 - DEBUG - Inserting togedemarutotem into table
+2024-11-23 13:06:20,800 - ERROR - unknown forme type 'totem' for pokemon #777
+2024-11-23 13:06:20,802 - DEBUG - Inserting mimikyu into table
+2024-11-23 13:06:20,804 - DEBUG - Inserting mimikyubusted into table
+2024-11-23 13:06:20,804 - ERROR - unknown forme type 'busted' for pokemon #778
+2024-11-23 13:06:20,805 - DEBUG - Inserting mimikyutotem into table
+2024-11-23 13:06:20,805 - ERROR - unknown forme type 'totem' for pokemon #778
+2024-11-23 13:06:20,807 - DEBUG - Inserting mimikyubustedtotem into table
+2024-11-23 13:06:20,807 - ERROR - unknown forme type 'busted-totem' for pokemon #778
+2024-11-23 13:06:20,808 - DEBUG - Inserting bruxish into table
+2024-11-23 13:06:20,810 - DEBUG - Inserting drampa into table
+2024-11-23 13:06:20,812 - DEBUG - Inserting dhelmise into table
+2024-11-23 13:06:20,813 - DEBUG - Inserting jangmoo into table
+2024-11-23 13:06:20,815 - DEBUG - Inserting hakamoo into table
+2024-11-23 13:06:20,816 - DEBUG - Inserting kommoo into table
+2024-11-23 13:06:20,818 - DEBUG - Inserting kommoototem into table
+2024-11-23 13:06:20,818 - ERROR - unknown forme type 'totem' for pokemon #784
+2024-11-23 13:06:20,820 - DEBUG - Inserting tapukoko into table
+2024-11-23 13:06:20,821 - DEBUG - Inserting tapulele into table
+2024-11-23 13:06:20,823 - DEBUG - Inserting tapubulu into table
+2024-11-23 13:06:20,825 - DEBUG - Inserting tapufini into table
+2024-11-23 13:06:20,827 - DEBUG - Inserting cosmog into table
+2024-11-23 13:06:20,828 - DEBUG - Inserting cosmoem into table
+2024-11-23 13:06:20,830 - DEBUG - Inserting solgaleo into table
+2024-11-23 13:06:20,831 - DEBUG - Inserting lunala into table
+2024-11-23 13:06:20,833 - DEBUG - Inserting nihilego into table
+2024-11-23 13:06:20,835 - DEBUG - Inserting buzzwole into table
+2024-11-23 13:06:20,836 - DEBUG - Inserting pheromosa into table
+2024-11-23 13:06:20,838 - DEBUG - Inserting xurkitree into table
+2024-11-23 13:06:20,840 - DEBUG - Inserting celesteela into table
+2024-11-23 13:06:20,841 - DEBUG - Inserting kartana into table
+2024-11-23 13:06:20,843 - DEBUG - Inserting guzzlord into table
+2024-11-23 13:06:20,845 - DEBUG - Inserting necrozma into table
+2024-11-23 13:06:20,846 - DEBUG - Inserting necrozmaduskmane into table
+2024-11-23 13:06:20,846 - ERROR - unknown forme type 'dusk-mane' for pokemon #800
+2024-11-23 13:06:20,848 - DEBUG - Inserting necrozmadawnwings into table
+2024-11-23 13:06:20,848 - ERROR - unknown forme type 'dawn-wings' for pokemon #800
+2024-11-23 13:06:20,850 - DEBUG - Inserting necrozmaultra into table
+2024-11-23 13:06:20,850 - ERROR - unknown forme type 'ultra' for pokemon #800
+2024-11-23 13:06:20,851 - DEBUG - Inserting magearna into table
+2024-11-23 13:06:20,853 - DEBUG - Inserting magearnaoriginal into table
+2024-11-23 13:06:20,853 - ERROR - unknown forme type 'original' for pokemon #801
+2024-11-23 13:06:20,855 - DEBUG - Inserting marshadow into table
+2024-11-23 13:06:20,856 - DEBUG - Inserting poipole into table
+2024-11-23 13:06:20,858 - DEBUG - Inserting naganadel into table
+2024-11-23 13:06:20,859 - DEBUG - Inserting stakataka into table
+2024-11-23 13:06:20,862 - DEBUG - Inserting blacephalon into table
+2024-11-23 13:06:20,863 - DEBUG - Inserting zeraora into table
+2024-11-23 13:06:20,865 - DEBUG - Inserting meltan into table
+2024-11-23 13:06:20,866 - DEBUG - Inserting melmetal into table
+2024-11-23 13:06:20,868 - DEBUG - Inserting melmetalgmax into table
+2024-11-23 13:06:20,870 - DEBUG - Inserting grookey into table
+2024-11-23 13:06:20,871 - DEBUG - Inserting thwackey into table
+2024-11-23 13:06:20,873 - DEBUG - Inserting rillaboom into table
+2024-11-23 13:06:20,875 - DEBUG - Inserting rillaboomgmax into table
+2024-11-23 13:06:20,876 - DEBUG - Inserting scorbunny into table
+2024-11-23 13:06:20,878 - DEBUG - Inserting raboot into table
+2024-11-23 13:06:20,880 - DEBUG - Inserting cinderace into table
+2024-11-23 13:06:20,881 - DEBUG - Inserting cinderacegmax into table
+2024-11-23 13:06:20,883 - DEBUG - Inserting sobble into table
+2024-11-23 13:06:20,884 - DEBUG - Inserting drizzile into table
+2024-11-23 13:06:20,886 - DEBUG - Inserting inteleon into table
+2024-11-23 13:06:20,888 - DEBUG - Inserting inteleongmax into table
+2024-11-23 13:06:20,889 - DEBUG - Inserting skwovet into table
+2024-11-23 13:06:20,891 - DEBUG - Inserting greedent into table
+2024-11-23 13:06:20,893 - DEBUG - Inserting rookidee into table
+2024-11-23 13:06:20,895 - DEBUG - Inserting corvisquire into table
+2024-11-23 13:06:20,896 - DEBUG - Inserting corviknight into table
+2024-11-23 13:06:20,898 - DEBUG - Inserting corviknightgmax into table
+2024-11-23 13:06:20,900 - DEBUG - Inserting blipbug into table
+2024-11-23 13:06:20,901 - DEBUG - Inserting dottler into table
+2024-11-23 13:06:20,903 - DEBUG - Inserting orbeetle into table
+2024-11-23 13:06:20,905 - DEBUG - Inserting orbeetlegmax into table
+2024-11-23 13:06:20,906 - DEBUG - Inserting nickit into table
+2024-11-23 13:06:20,908 - DEBUG - Inserting thievul into table
+2024-11-23 13:06:20,910 - DEBUG - Inserting gossifleur into table
+2024-11-23 13:06:20,911 - DEBUG - Inserting eldegoss into table
+2024-11-23 13:06:20,913 - DEBUG - Inserting wooloo into table
+2024-11-23 13:06:20,915 - DEBUG - Inserting dubwool into table
+2024-11-23 13:06:20,916 - DEBUG - Inserting chewtle into table
+2024-11-23 13:06:20,918 - DEBUG - Inserting drednaw into table
+2024-11-23 13:06:20,920 - DEBUG - Inserting drednawgmax into table
+2024-11-23 13:06:20,922 - DEBUG - Inserting yamper into table
+2024-11-23 13:06:20,924 - DEBUG - Inserting boltund into table
+2024-11-23 13:06:20,925 - DEBUG - Inserting rolycoly into table
+2024-11-23 13:06:20,927 - DEBUG - Inserting carkol into table
+2024-11-23 13:06:20,929 - DEBUG - Inserting coalossal into table
+2024-11-23 13:06:20,930 - DEBUG - Inserting coalossalgmax into table
+2024-11-23 13:06:20,932 - DEBUG - Inserting applin into table
+2024-11-23 13:06:20,933 - DEBUG - Inserting flapple into table
+2024-11-23 13:06:20,935 - DEBUG - Inserting flapplegmax into table
+2024-11-23 13:06:20,937 - DEBUG - Inserting appletun into table
+2024-11-23 13:06:20,939 - DEBUG - Inserting appletungmax into table
+2024-11-23 13:06:20,940 - DEBUG - Inserting silicobra into table
+2024-11-23 13:06:20,943 - DEBUG - Inserting sandaconda into table
+2024-11-23 13:06:20,944 - DEBUG - Inserting sandacondagmax into table
+2024-11-23 13:06:20,946 - DEBUG - Inserting cramorant into table
+2024-11-23 13:06:20,947 - DEBUG - Inserting cramorantgulping into table
+2024-11-23 13:06:20,947 - ERROR - unknown forme type 'gulping' for pokemon #845
+2024-11-23 13:06:20,949 - DEBUG - Inserting cramorantgorging into table
+2024-11-23 13:06:20,949 - ERROR - unknown forme type 'gorging' for pokemon #845
+2024-11-23 13:06:20,951 - DEBUG - Inserting arrokuda into table
+2024-11-23 13:06:20,953 - DEBUG - Inserting barraskewda into table
+2024-11-23 13:06:20,955 - DEBUG - Inserting toxel into table
+2024-11-23 13:06:20,956 - DEBUG - Inserting toxtricity into table
+2024-11-23 13:06:20,958 - DEBUG - Inserting toxtricitylowkey into table
+2024-11-23 13:06:20,958 - ERROR - unknown forme type 'low-key' for pokemon #849
+2024-11-23 13:06:20,959 - DEBUG - Inserting toxtricitygmax into table
+2024-11-23 13:06:20,961 - DEBUG - Inserting toxtricitylowkeygmax into table
+2024-11-23 13:06:20,963 - DEBUG - Inserting sizzlipede into table
+2024-11-23 13:06:20,964 - DEBUG - Inserting centiskorch into table
+2024-11-23 13:06:20,966 - DEBUG - Inserting centiskorchgmax into table
+2024-11-23 13:06:20,967 - DEBUG - Inserting clobbopus into table
+2024-11-23 13:06:20,969 - DEBUG - Inserting grapploct into table
+2024-11-23 13:06:20,971 - DEBUG - Inserting sinistea into table
+2024-11-23 13:06:20,972 - DEBUG - Inserting sinisteaantique into table
+2024-11-23 13:06:20,972 - ERROR - unknown forme type 'antique' for pokemon #854
+2024-11-23 13:06:20,974 - DEBUG - Inserting polteageist into table
+2024-11-23 13:06:20,976 - DEBUG - Inserting polteageistantique into table
+2024-11-23 13:06:20,976 - ERROR - unknown forme type 'antique' for pokemon #855
+2024-11-23 13:06:20,978 - DEBUG - Inserting hatenna into table
+2024-11-23 13:06:20,979 - DEBUG - Inserting hattrem into table
+2024-11-23 13:06:20,981 - DEBUG - Inserting hatterene into table
+2024-11-23 13:06:20,983 - DEBUG - Inserting hatterenegmax into table
+2024-11-23 13:06:20,984 - DEBUG - Inserting impidimp into table
+2024-11-23 13:06:20,986 - DEBUG - Inserting morgrem into table
+2024-11-23 13:06:20,988 - DEBUG - Inserting grimmsnarl into table
+2024-11-23 13:06:20,989 - DEBUG - Inserting grimmsnarlgmax into table
+2024-11-23 13:06:20,991 - DEBUG - Inserting obstagoon into table
+2024-11-23 13:06:20,993 - DEBUG - Inserting perrserker into table
+2024-11-23 13:06:20,994 - DEBUG - Inserting cursola into table
+2024-11-23 13:06:20,996 - DEBUG - Inserting sirfetchd into table
+2024-11-23 13:06:20,997 - DEBUG - Inserting mrrime into table
+2024-11-23 13:06:20,999 - DEBUG - Inserting runerigus into table
+2024-11-23 13:06:21,001 - DEBUG - Inserting milcery into table
+2024-11-23 13:06:21,002 - DEBUG - Inserting alcremie into table
+2024-11-23 13:06:21,004 - DEBUG - Inserting alcremiegmax into table
+2024-11-23 13:06:21,006 - DEBUG - Inserting falinks into table
+2024-11-23 13:06:21,007 - DEBUG - Inserting pincurchin into table
+2024-11-23 13:06:21,009 - DEBUG - Inserting snom into table
+2024-11-23 13:06:21,011 - DEBUG - Inserting frosmoth into table
+2024-11-23 13:06:21,013 - DEBUG - Inserting stonjourner into table
+2024-11-23 13:06:21,014 - DEBUG - Inserting eiscue into table
+2024-11-23 13:06:21,016 - DEBUG - Inserting eiscuenoice into table
+2024-11-23 13:06:21,016 - ERROR - unknown forme type 'noice' for pokemon #875
+2024-11-23 13:06:21,017 - DEBUG - Inserting indeedee into table
+2024-11-23 13:06:21,019 - DEBUG - Inserting indeedeef into table
+2024-11-23 13:06:21,019 - ERROR - unknown forme type 'f' for pokemon #876
+2024-11-23 13:06:21,021 - DEBUG - Inserting morpeko into table
+2024-11-23 13:06:21,022 - DEBUG - Inserting morpekohangry into table
+2024-11-23 13:06:21,022 - ERROR - unknown forme type 'hangry' for pokemon #877
+2024-11-23 13:06:21,024 - DEBUG - Inserting cufant into table
+2024-11-23 13:06:21,025 - DEBUG - Inserting copperajah into table
+2024-11-23 13:06:21,027 - DEBUG - Inserting copperajahgmax into table
+2024-11-23 13:06:21,029 - DEBUG - Inserting dracozolt into table
+2024-11-23 13:06:21,031 - DEBUG - Inserting arctozolt into table
+2024-11-23 13:06:21,032 - DEBUG - Inserting dracovish into table
+2024-11-23 13:06:21,034 - DEBUG - Inserting arctovish into table
+2024-11-23 13:06:21,036 - DEBUG - Inserting duraludon into table
+2024-11-23 13:06:21,037 - DEBUG - Inserting duraludongmax into table
+2024-11-23 13:06:21,039 - DEBUG - Inserting dreepy into table
+2024-11-23 13:06:21,040 - DEBUG - Inserting drakloak into table
+2024-11-23 13:06:21,042 - DEBUG - Inserting dragapult into table
+2024-11-23 13:06:21,044 - DEBUG - Inserting zacian into table
+2024-11-23 13:06:21,045 - DEBUG - Inserting zaciancrowned into table
+2024-11-23 13:06:21,045 - ERROR - unknown forme type 'crowned' for pokemon #888
+2024-11-23 13:06:21,047 - DEBUG - Inserting zamazenta into table
+2024-11-23 13:06:21,048 - DEBUG - Inserting zamazentacrowned into table
+2024-11-23 13:06:21,049 - ERROR - unknown forme type 'crowned' for pokemon #889
+2024-11-23 13:06:21,050 - DEBUG - Inserting eternatus into table
+2024-11-23 13:06:21,052 - DEBUG - Inserting eternatuseternamax into table
+2024-11-23 13:06:21,052 - ERROR - unknown forme type 'eternamax' for pokemon #890
+2024-11-23 13:06:21,054 - DEBUG - Inserting kubfu into table
+2024-11-23 13:06:21,055 - DEBUG - Inserting urshifu into table
+2024-11-23 13:06:21,057 - DEBUG - Inserting urshifurapidstrike into table
+2024-11-23 13:06:21,057 - ERROR - unknown forme type 'rapid-strike' for pokemon #892
+2024-11-23 13:06:21,059 - DEBUG - Inserting urshifugmax into table
+2024-11-23 13:06:21,060 - DEBUG - Inserting urshifurapidstrikegmax into table
+2024-11-23 13:06:21,062 - DEBUG - Inserting zarude into table
+2024-11-23 13:06:21,063 - DEBUG - Inserting zarudedada into table
+2024-11-23 13:06:21,063 - ERROR - unknown forme type 'dada' for pokemon #893
+2024-11-23 13:06:21,065 - DEBUG - Inserting regieleki into table
+2024-11-23 13:06:21,067 - DEBUG - Inserting regidrago into table
+2024-11-23 13:06:21,068 - DEBUG - Inserting glastrier into table
+2024-11-23 13:06:21,070 - DEBUG - Inserting spectrier into table
+2024-11-23 13:06:21,071 - DEBUG - Inserting calyrex into table
+2024-11-23 13:06:21,073 - DEBUG - Inserting calyrexice into table
+2024-11-23 13:06:21,073 - ERROR - unknown forme type 'ice' for pokemon #898
+2024-11-23 13:06:21,075 - DEBUG - Inserting calyrexshadow into table
+2024-11-23 13:06:21,075 - ERROR - unknown forme type 'shadow' for pokemon #898
+2024-11-23 13:06:21,077 - DEBUG - Inserting wyrdeer into table
+2024-11-23 13:06:21,078 - DEBUG - Inserting kleavor into table
+2024-11-23 13:06:21,080 - DEBUG - Inserting ursaluna into table
+2024-11-23 13:06:21,081 - DEBUG - Inserting ursalunabloodmoon into table
+2024-11-23 13:06:21,082 - ERROR - unknown forme type 'bloodmoon' for pokemon #901
+2024-11-23 13:06:21,083 - DEBUG - Inserting basculegion into table
+2024-11-23 13:06:21,085 - DEBUG - Inserting basculegionf into table
+2024-11-23 13:06:21,085 - ERROR - unknown forme type 'f' for pokemon #902
+2024-11-23 13:06:21,087 - DEBUG - Inserting sneasler into table
+2024-11-23 13:06:21,088 - DEBUG - Inserting overqwil into table
+2024-11-23 13:06:21,090 - DEBUG - Inserting enamorus into table
+2024-11-23 13:06:21,092 - DEBUG - Inserting enamorustherian into table
+2024-11-23 13:06:21,092 - ERROR - unknown forme type 'therian' for pokemon #905
+2024-11-23 13:06:21,094 - DEBUG - Inserting sprigatito into table
+2024-11-23 13:06:21,096 - DEBUG - Inserting floragato into table
+2024-11-23 13:06:21,097 - DEBUG - Inserting meowscarada into table
+2024-11-23 13:06:21,099 - DEBUG - Inserting fuecoco into table
+2024-11-23 13:06:21,101 - DEBUG - Inserting crocalor into table
+2024-11-23 13:06:21,102 - DEBUG - Inserting skeledirge into table
+2024-11-23 13:06:21,104 - DEBUG - Inserting quaxly into table
+2024-11-23 13:06:21,106 - DEBUG - Inserting quaxwell into table
+2024-11-23 13:06:21,108 - DEBUG - Inserting quaquaval into table
+2024-11-23 13:06:21,109 - DEBUG - Inserting lechonk into table
+2024-11-23 13:06:21,111 - DEBUG - Inserting oinkologne into table
+2024-11-23 13:06:21,113 - DEBUG - Inserting oinkolognef into table
+2024-11-23 13:06:21,113 - ERROR - unknown forme type 'f' for pokemon #916
+2024-11-23 13:06:21,115 - DEBUG - Inserting tarountula into table
+2024-11-23 13:06:21,117 - DEBUG - Inserting spidops into table
+2024-11-23 13:06:21,119 - DEBUG - Inserting nymble into table
+2024-11-23 13:06:21,121 - DEBUG - Inserting lokix into table
+2024-11-23 13:06:21,123 - DEBUG - Inserting pawmi into table
+2024-11-23 13:06:21,125 - DEBUG - Inserting pawmo into table
+2024-11-23 13:06:21,127 - DEBUG - Inserting pawmot into table
+2024-11-23 13:06:21,129 - DEBUG - Inserting tandemaus into table
+2024-11-23 13:06:21,131 - DEBUG - Inserting maushold into table
+2024-11-23 13:06:21,132 - DEBUG - Inserting mausholdfour into table
+2024-11-23 13:06:21,132 - ERROR - unknown forme type 'four' for pokemon #925
+2024-11-23 13:06:21,134 - DEBUG - Inserting fidough into table
+2024-11-23 13:06:21,136 - DEBUG - Inserting dachsbun into table
+2024-11-23 13:06:21,138 - DEBUG - Inserting smoliv into table
+2024-11-23 13:06:21,140 - DEBUG - Inserting dolliv into table
+2024-11-23 13:06:21,141 - DEBUG - Inserting arboliva into table
+2024-11-23 13:06:21,143 - DEBUG - Inserting squawkabilly into table
+2024-11-23 13:06:21,145 - DEBUG - Inserting squawkabillyblue into table
+2024-11-23 13:06:21,145 - ERROR - unknown forme type 'blue' for pokemon #931
+2024-11-23 13:06:21,147 - DEBUG - Inserting squawkabillyyellow into table
+2024-11-23 13:06:21,147 - ERROR - unknown forme type 'yellow' for pokemon #931
+2024-11-23 13:06:21,148 - DEBUG - Inserting squawkabillywhite into table
+2024-11-23 13:06:21,149 - ERROR - unknown forme type 'white' for pokemon #931
+2024-11-23 13:06:21,150 - DEBUG - Inserting nacli into table
+2024-11-23 13:06:21,152 - DEBUG - Inserting naclstack into table
+2024-11-23 13:06:21,154 - DEBUG - Inserting garganacl into table
+2024-11-23 13:06:21,156 - DEBUG - Inserting charcadet into table
+2024-11-23 13:06:21,157 - DEBUG - Inserting armarouge into table
+2024-11-23 13:06:21,159 - DEBUG - Inserting ceruledge into table
+2024-11-23 13:06:21,161 - DEBUG - Inserting tadbulb into table
+2024-11-23 13:06:21,163 - DEBUG - Inserting bellibolt into table
+2024-11-23 13:06:21,165 - DEBUG - Inserting wattrel into table
+2024-11-23 13:06:21,167 - DEBUG - Inserting kilowattrel into table
+2024-11-23 13:06:21,168 - DEBUG - Inserting maschiff into table
+2024-11-23 13:06:21,170 - DEBUG - Inserting mabosstiff into table
+2024-11-23 13:06:21,172 - DEBUG - Inserting shroodle into table
+2024-11-23 13:06:21,174 - DEBUG - Inserting grafaiai into table
+2024-11-23 13:06:21,176 - DEBUG - Inserting bramblin into table
+2024-11-23 13:06:21,177 - DEBUG - Inserting brambleghast into table
+2024-11-23 13:06:21,179 - DEBUG - Inserting toedscool into table
+2024-11-23 13:06:21,181 - DEBUG - Inserting toedscruel into table
+2024-11-23 13:06:21,183 - DEBUG - Inserting klawf into table
+2024-11-23 13:06:21,185 - DEBUG - Inserting capsakid into table
+2024-11-23 13:06:21,187 - DEBUG - Inserting scovillain into table
+2024-11-23 13:06:21,189 - DEBUG - Inserting rellor into table
+2024-11-23 13:06:21,190 - DEBUG - Inserting rabsca into table
+2024-11-23 13:06:21,192 - DEBUG - Inserting flittle into table
+2024-11-23 13:06:21,194 - DEBUG - Inserting espathra into table
+2024-11-23 13:06:21,196 - DEBUG - Inserting tinkatink into table
+2024-11-23 13:06:21,197 - DEBUG - Inserting tinkatuff into table
+2024-11-23 13:06:21,199 - DEBUG - Inserting tinkaton into table
+2024-11-23 13:06:21,201 - DEBUG - Inserting wiglett into table
+2024-11-23 13:06:21,203 - DEBUG - Inserting wugtrio into table
+2024-11-23 13:06:21,205 - DEBUG - Inserting bombirdier into table
+2024-11-23 13:06:21,206 - DEBUG - Inserting finizen into table
+2024-11-23 13:06:21,209 - DEBUG - Inserting palafin into table
+2024-11-23 13:06:21,211 - DEBUG - Inserting palafinhero into table
+2024-11-23 13:06:21,211 - ERROR - unknown forme type 'hero' for pokemon #964
+2024-11-23 13:06:21,213 - DEBUG - Inserting varoom into table
+2024-11-23 13:06:21,215 - DEBUG - Inserting revavroom into table
+2024-11-23 13:06:21,217 - DEBUG - Inserting cyclizar into table
+2024-11-23 13:06:21,218 - DEBUG - Inserting orthworm into table
+2024-11-23 13:06:21,220 - DEBUG - Inserting glimmet into table
+2024-11-23 13:06:21,222 - DEBUG - Inserting glimmora into table
+2024-11-23 13:06:21,224 - DEBUG - Inserting greavard into table
+2024-11-23 13:06:21,225 - DEBUG - Inserting houndstone into table
+2024-11-23 13:06:21,227 - DEBUG - Inserting flamigo into table
+2024-11-23 13:06:21,229 - DEBUG - Inserting cetoddle into table
+2024-11-23 13:06:21,231 - DEBUG - Inserting cetitan into table
+2024-11-23 13:06:21,232 - DEBUG - Inserting veluza into table
+2024-11-23 13:06:21,234 - DEBUG - Inserting dondozo into table
+2024-11-23 13:06:21,236 - DEBUG - Inserting tatsugiri into table
+2024-11-23 13:06:21,238 - DEBUG - Inserting annihilape into table
+2024-11-23 13:06:21,240 - DEBUG - Inserting clodsire into table
+2024-11-23 13:06:21,241 - DEBUG - Inserting farigiraf into table
+2024-11-23 13:06:21,243 - DEBUG - Inserting dudunsparce into table
+2024-11-23 13:06:21,244 - DEBUG - Inserting dudunsparcethreesegment into table
+2024-11-23 13:06:21,244 - ERROR - unknown forme type 'three-segment' for pokemon #982
+2024-11-23 13:06:21,246 - DEBUG - Inserting kingambit into table
+2024-11-23 13:06:21,248 - DEBUG - Inserting greattusk into table
+2024-11-23 13:06:21,249 - DEBUG - Inserting screamtail into table
+2024-11-23 13:06:21,251 - DEBUG - Inserting brutebonnet into table
+2024-11-23 13:06:21,253 - DEBUG - Inserting fluttermane into table
+2024-11-23 13:06:21,255 - DEBUG - Inserting slitherwing into table
+2024-11-23 13:06:21,257 - DEBUG - Inserting sandyshocks into table
+2024-11-23 13:06:21,258 - DEBUG - Inserting irontreads into table
+2024-11-23 13:06:21,260 - DEBUG - Inserting ironbundle into table
+2024-11-23 13:06:21,262 - DEBUG - Inserting ironhands into table
+2024-11-23 13:06:21,264 - DEBUG - Inserting ironjugulis into table
+2024-11-23 13:06:21,265 - DEBUG - Inserting ironmoth into table
+2024-11-23 13:06:21,267 - DEBUG - Inserting ironthorns into table
+2024-11-23 13:06:21,269 - DEBUG - Inserting frigibax into table
+2024-11-23 13:06:21,270 - DEBUG - Inserting arctibax into table
+2024-11-23 13:06:21,272 - DEBUG - Inserting baxcalibur into table
+2024-11-23 13:06:21,274 - DEBUG - Inserting gimmighoul into table
+2024-11-23 13:06:21,275 - DEBUG - Inserting gimmighoulroaming into table
+2024-11-23 13:06:21,275 - ERROR - unknown forme type 'roaming' for pokemon #999
+2024-11-23 13:06:21,277 - DEBUG - Inserting gholdengo into table
+2024-11-23 13:06:21,279 - DEBUG - Inserting wochien into table
+2024-11-23 13:06:21,280 - DEBUG - Inserting chienpao into table
+2024-11-23 13:06:21,282 - DEBUG - Inserting tinglu into table
+2024-11-23 13:06:21,284 - DEBUG - Inserting chiyu into table
+2024-11-23 13:06:21,285 - DEBUG - Inserting roaringmoon into table
+2024-11-23 13:06:21,287 - DEBUG - Inserting ironvaliant into table
+2024-11-23 13:06:21,288 - DEBUG - Inserting koraidon into table
+2024-11-23 13:06:21,290 - DEBUG - Inserting miraidon into table
+2024-11-23 13:06:21,292 - DEBUG - Inserting walkingwake into table
+2024-11-23 13:06:21,293 - DEBUG - Inserting ironleaves into table
+2024-11-23 13:06:21,295 - DEBUG - Inserting dipplin into table
+2024-11-23 13:06:21,296 - DEBUG - Inserting poltchageist into table
+2024-11-23 13:06:21,298 - DEBUG - Inserting poltchageistartisan into table
+2024-11-23 13:06:21,298 - ERROR - unknown forme type 'artisan' for pokemon #1012
+2024-11-23 13:06:21,300 - DEBUG - Inserting sinistcha into table
+2024-11-23 13:06:21,302 - DEBUG - Inserting sinistchamasterpiece into table
+2024-11-23 13:06:21,302 - ERROR - unknown forme type 'masterpiece' for pokemon #1013
+2024-11-23 13:06:21,303 - DEBUG - Inserting okidogi into table
+2024-11-23 13:06:21,305 - DEBUG - Inserting munkidori into table
+2024-11-23 13:06:21,307 - DEBUG - Inserting fezandipiti into table
+2024-11-23 13:06:21,308 - DEBUG - Inserting ogerpon into table
+2024-11-23 13:06:21,310 - DEBUG - Inserting ogerponwellspring into table
+2024-11-23 13:06:21,310 - ERROR - unknown forme type 'wellspring' for pokemon #1017
+2024-11-23 13:06:21,312 - DEBUG - Inserting ogerponhearthflame into table
+2024-11-23 13:06:21,312 - ERROR - unknown forme type 'hearthflame' for pokemon #1017
+2024-11-23 13:06:21,313 - DEBUG - Inserting ogerponcornerstone into table
+2024-11-23 13:06:21,313 - ERROR - unknown forme type 'cornerstone' for pokemon #1017
+2024-11-23 13:06:21,315 - DEBUG - Inserting ogerpontealtera into table
+2024-11-23 13:06:21,315 - ERROR - unknown forme type 'teal-tera' for pokemon #1017
+2024-11-23 13:06:21,316 - DEBUG - Inserting ogerponwellspringtera into table
+2024-11-23 13:06:21,316 - ERROR - unknown forme type 'wellspring-tera' for pokemon #1017
+2024-11-23 13:06:21,318 - DEBUG - Inserting ogerponhearthflametera into table
+2024-11-23 13:06:21,318 - ERROR - unknown forme type 'hearthflame-tera' for pokemon #1017
+2024-11-23 13:06:21,320 - DEBUG - Inserting ogerponcornerstonetera into table
+2024-11-23 13:06:21,320 - ERROR - unknown forme type 'cornerstone-tera' for pokemon #1017
+2024-11-23 13:06:21,321 - DEBUG - Inserting archaludon into table
+2024-11-23 13:06:21,323 - DEBUG - Inserting hydrapple into table
+2024-11-23 13:06:21,325 - DEBUG - Inserting gougingfire into table
+2024-11-23 13:06:21,326 - DEBUG - Inserting ragingbolt into table
+2024-11-23 13:06:21,328 - DEBUG - Inserting ironboulder into table
+2024-11-23 13:06:21,330 - DEBUG - Inserting ironcrown into table
+2024-11-23 13:06:21,331 - DEBUG - Inserting terapagos into table
+2024-11-23 13:06:21,333 - DEBUG - Inserting terapagosterastal into table
+2024-11-23 13:06:21,333 - ERROR - unknown forme type 'terastal' for pokemon #1024
+2024-11-23 13:06:21,335 - DEBUG - Inserting terapagosstellar into table
+2024-11-23 13:06:21,335 - ERROR - unknown forme type 'stellar' for pokemon #1024
+2024-11-23 13:06:21,337 - DEBUG - Inserting pecharunt into table
+2024-11-23 13:06:21,338 - DEBUG - Inserting missingno into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping missingno
+2024-11-23 13:06:21,338 - DEBUG - Inserting syclar into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping syclar
+2024-11-23 13:06:21,338 - DEBUG - Inserting syclant into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping syclant
+2024-11-23 13:06:21,338 - DEBUG - Inserting revenankh into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping revenankh
+2024-11-23 13:06:21,338 - DEBUG - Inserting embirch into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping embirch
+2024-11-23 13:06:21,338 - DEBUG - Inserting flarelm into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping flarelm
+2024-11-23 13:06:21,338 - DEBUG - Inserting pyroak into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping pyroak
+2024-11-23 13:06:21,338 - DEBUG - Inserting breezi into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping breezi
+2024-11-23 13:06:21,338 - DEBUG - Inserting fidgit into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping fidgit
+2024-11-23 13:06:21,338 - DEBUG - Inserting rebble into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping rebble
+2024-11-23 13:06:21,338 - DEBUG - Inserting tactite into table
+2024-11-23 13:06:21,338 - DEBUG - Skipping tactite
+2024-11-23 13:06:21,339 - DEBUG - Inserting stratagem into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping stratagem
+2024-11-23 13:06:21,339 - DEBUG - Inserting privatyke into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping privatyke
+2024-11-23 13:06:21,339 - DEBUG - Inserting arghonaut into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping arghonaut
+2024-11-23 13:06:21,339 - DEBUG - Inserting kitsunoh into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping kitsunoh
+2024-11-23 13:06:21,339 - DEBUG - Inserting cyclohm into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping cyclohm
+2024-11-23 13:06:21,339 - DEBUG - Inserting colossoil into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping colossoil
+2024-11-23 13:06:21,339 - DEBUG - Inserting krilowatt into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping krilowatt
+2024-11-23 13:06:21,339 - DEBUG - Inserting voodoll into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping voodoll
+2024-11-23 13:06:21,339 - DEBUG - Inserting voodoom into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping voodoom
+2024-11-23 13:06:21,339 - DEBUG - Inserting scratchet into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping scratchet
+2024-11-23 13:06:21,339 - DEBUG - Inserting tomohawk into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping tomohawk
+2024-11-23 13:06:21,339 - DEBUG - Inserting necturine into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping necturine
+2024-11-23 13:06:21,339 - DEBUG - Inserting necturna into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping necturna
+2024-11-23 13:06:21,339 - DEBUG - Inserting mollux into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping mollux
+2024-11-23 13:06:21,339 - DEBUG - Inserting cupra into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping cupra
+2024-11-23 13:06:21,339 - DEBUG - Inserting argalis into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping argalis
+2024-11-23 13:06:21,339 - DEBUG - Inserting aurumoth into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping aurumoth
+2024-11-23 13:06:21,339 - DEBUG - Inserting brattler into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping brattler
+2024-11-23 13:06:21,339 - DEBUG - Inserting malaconda into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping malaconda
+2024-11-23 13:06:21,339 - DEBUG - Inserting cawdet into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping cawdet
+2024-11-23 13:06:21,339 - DEBUG - Inserting cawmodore into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping cawmodore
+2024-11-23 13:06:21,339 - DEBUG - Inserting volkritter into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping volkritter
+2024-11-23 13:06:21,339 - DEBUG - Inserting volkraken into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping volkraken
+2024-11-23 13:06:21,339 - DEBUG - Inserting snugglow into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping snugglow
+2024-11-23 13:06:21,339 - DEBUG - Inserting plasmanta into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping plasmanta
+2024-11-23 13:06:21,339 - DEBUG - Inserting floatoy into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping floatoy
+2024-11-23 13:06:21,339 - DEBUG - Inserting caimanoe into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping caimanoe
+2024-11-23 13:06:21,339 - DEBUG - Inserting naviathan into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping naviathan
+2024-11-23 13:06:21,339 - DEBUG - Inserting crucibelle into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping crucibelle
+2024-11-23 13:06:21,339 - DEBUG - Inserting crucibellemega into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping crucibellemega
+2024-11-23 13:06:21,339 - DEBUG - Inserting pluffle into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping pluffle
+2024-11-23 13:06:21,339 - DEBUG - Inserting kerfluffle into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping kerfluffle
+2024-11-23 13:06:21,339 - DEBUG - Inserting pajantom into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping pajantom
+2024-11-23 13:06:21,339 - DEBUG - Inserting mumbao into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping mumbao
+2024-11-23 13:06:21,339 - DEBUG - Inserting jumbao into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping jumbao
+2024-11-23 13:06:21,339 - DEBUG - Inserting fawnifer into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping fawnifer
+2024-11-23 13:06:21,339 - DEBUG - Inserting electrelk into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping electrelk
+2024-11-23 13:06:21,339 - DEBUG - Inserting caribolt into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping caribolt
+2024-11-23 13:06:21,339 - DEBUG - Inserting smogecko into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping smogecko
+2024-11-23 13:06:21,339 - DEBUG - Inserting smoguana into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping smoguana
+2024-11-23 13:06:21,339 - DEBUG - Inserting smokomodo into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping smokomodo
+2024-11-23 13:06:21,339 - DEBUG - Inserting swirlpool into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping swirlpool
+2024-11-23 13:06:21,339 - DEBUG - Inserting coribalis into table
+2024-11-23 13:06:21,339 - DEBUG - Skipping coribalis
+2024-11-23 13:06:21,340 - DEBUG - Inserting snaelstrom into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping snaelstrom
+2024-11-23 13:06:21,340 - DEBUG - Inserting justyke into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping justyke
+2024-11-23 13:06:21,340 - DEBUG - Inserting equilibra into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping equilibra
+2024-11-23 13:06:21,340 - DEBUG - Inserting solotl into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping solotl
+2024-11-23 13:06:21,340 - DEBUG - Inserting astrolotl into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping astrolotl
+2024-11-23 13:06:21,340 - DEBUG - Inserting miasmite into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping miasmite
+2024-11-23 13:06:21,340 - DEBUG - Inserting miasmaw into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping miasmaw
+2024-11-23 13:06:21,340 - DEBUG - Inserting chromera into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping chromera
+2024-11-23 13:06:21,340 - DEBUG - Inserting nohface into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping nohface
+2024-11-23 13:06:21,340 - DEBUG - Inserting monohm into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping monohm
+2024-11-23 13:06:21,340 - DEBUG - Inserting duohm into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping duohm
+2024-11-23 13:06:21,340 - DEBUG - Inserting dorsoil into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping dorsoil
+2024-11-23 13:06:21,340 - DEBUG - Inserting protowatt into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping protowatt
+2024-11-23 13:06:21,340 - DEBUG - Inserting venomicon into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping venomicon
+2024-11-23 13:06:21,340 - DEBUG - Inserting venomiconepilogue into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping venomiconepilogue
+2024-11-23 13:06:21,340 - DEBUG - Inserting saharascal into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping saharascal
+2024-11-23 13:06:21,340 - DEBUG - Inserting saharaja into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping saharaja
+2024-11-23 13:06:21,340 - DEBUG - Inserting ababo into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping ababo
+2024-11-23 13:06:21,340 - DEBUG - Inserting scattervein into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping scattervein
+2024-11-23 13:06:21,340 - DEBUG - Inserting hemogoblin into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping hemogoblin
+2024-11-23 13:06:21,340 - DEBUG - Inserting cresceidon into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping cresceidon
+2024-11-23 13:06:21,340 - DEBUG - Inserting chuggalong into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping chuggalong
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarsmeargle into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarsmeargle
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarufo into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarufo
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarufo2 into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarufo2
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarbrycenman into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarbrycenman
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarmt into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarmt
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarmt2 into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarmt2
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestartransport into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestartransport
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestargiant into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestargiant
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarhumanoid into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarhumanoid
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarmonster into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarmonster
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarf00 into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarf00
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarf002 into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarf002
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarspirit into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarspirit
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarblackdoor into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarblackdoor
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarwhitedoor into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarwhitedoor
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarblackbelt into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarblackbelt
+2024-11-23 13:06:21,340 - DEBUG - Inserting pokestarufopropu2 into table
+2024-11-23 13:06:21,340 - DEBUG - Skipping pokestarufopropu2
+2024-11-23 13:06:21,340 - DEBUG - Running test query: SELECT num, name, type1, type2 FROM pokemon WHERE gen = 3
+2024-11-23 13:06:21,340 - DEBUG - (252, 'Treecko', 'Grass', None)

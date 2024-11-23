@@ -1,67 +1,141 @@
 import json
 import sqlite3
+import logging
 
-if __name__ == "__main__":
-    data = json.load(open("pokedex.json"))
+
+def val_if_exists(data, key):
+    try:
+        return data[key]
+    except:
+        return None
+    
+
+def calc_gen(natdex_num, forme_name):
+    if forme_name is not None:
+        if "paldea" in forme_name.lower():
+            return 9
+        elif "gmax" in forme_name.lower() or "hisui" in forme_name.lower() or "galar" in forme_name.lower():
+            return 8
+        elif "alola" in forme_name.lower():
+            return 7
+        elif "mega" in forme_name.lower():
+            return 6
+        else:
+            logging.error(f"unknown forme type '{forme_name.lower()}' for pokemon #{natdex_num}")
+            return 0
+    else:
+        if natdex_num >= 906 and natdex_num <= 1025:
+            return 9
+        elif natdex_num >= 810 and natdex_num <= 905:
+            return 8
+        elif natdex_num >= 722 and natdex_num <= 809:
+            return 7
+        elif natdex_num >= 650 and natdex_num <= 721:
+            return 6
+        elif natdex_num >= 494 and natdex_num <= 649:
+            return 5
+        elif natdex_num >= 387 and natdex_num <= 493:
+            return 4
+        elif natdex_num >= 252 and natdex_num <= 386:
+            return 3
+        elif natdex_num >= 152 and natdex_num <= 251:
+            return 2
+        elif natdex_num >= 1 and natdex_num <= 151:
+            return 1
+        else:
+            logging.error(f"could not determine generation for pokemon #{natdex_num} forme={forme_name}")
+            return 0
+
+
+def create():
+    logging.debug("Creating database with table")
 
     conn = sqlite3.connect('pokedex.db')
     cur = conn.cursor()
-    cur.execute('CREATE TABLE pokemon(num, name, type1, type2, base_hp, base_atk, base_spa, base_def, base_spd, base_spe, ability1, ability2, abilityh, prevo, evo1, evo2, evo3)')
+    cur.execute("""CREATE TABLE IF NOT EXISTS 
+                pokemon(num, 
+                name, 
+                gen, 
+                base_species, 
+                forme, 
+                type1, 
+                type2, 
+                base_hp, 
+                base_atk, 
+                base_spa, 
+                base_def, 
+                base_spd, 
+                base_spe, 
+                ability1, 
+                ability2, 
+                abilityh, 
+                prevo, 
+                evo1, 
+                evo2, 
+                evo3
+                )""")
+    conn.close()
+
+
+def run_test_query(q):
+    logging.debug(f"Running test query: {q}")
+
+    conn = sqlite3.connect("pokedex.db")
+    cur = conn.cursor()
+    cur.execute(q)
+
+    logging.debug(cur.execute(f"""{q}""").fetchone())
+
+    conn.close()
+
+
+def populate():
+    logging.debug("Populating table with data from json file")
+
+    data = json.load(open("pokedex.json"))
+    conn = sqlite3.connect('pokedex.db')
+    cur = conn.cursor()
 
     for key in data.keys():
-        try:
-            is_nonstandard = data[key]['isNonstandard']
-        except:
-            is_nonstandard = None
+        logging.debug(f"Inserting {key} into table")
+        is_nonstandard = val_if_exists(data[key], 'isNonstandard')
         
         if is_nonstandard == 'Custom' or is_nonstandard == 'CAP':
-            print(f'skipping {key}')
+            logging.debug(f'Skipping {key}')
             continue
 
-        print(f'adding {key}')
-        name = key
-        num = data[name]['num']
-        type1 = data[name]['types'][0]
-        type2 = None if len(data[name]['types']) == 1 else data[name]['types'][1]
-        base_hp = data[name]['baseStats']['hp']
-        base_atk = data[name]['baseStats']['atk']
-        base_spa = data[name]['baseStats']['spa']
-        base_def = data[name]['baseStats']['def']
-        base_spd = data[name]['baseStats']['spd']
-        base_spe = data[name]['baseStats']['spe']
-        ability1 = data[name]['abilities']['0']
-        try:
-            ability2 = data[name]['abilities']['1']
-        except:
-            ability2 = None
-        try:
-            abilityh = data[name]['abilities']['H']
-        except:
-            abilityh = None
-        try:
-            prevo = data[name]['prevo']
-        except:
-            prevo = None
-        try:
-            evo1 = data[name]['evos'][0]
-        except:
-            evo1 = None
-        try:
-            evo2 = data[name]['evos'][1]
-        except:
-            evo2 = None
-        try:
-            evo3 = data[name]['evos'][2]
-        except:
-            evo3 = None
+        num = data[key]['num']
+        name = data[key]['name']
+        base_species = val_if_exists(data[key], 'baseSpecies')
+        forme = val_if_exists(data[key], 'forme')
+        gen = calc_gen(num, forme)
+        type1 = data[key]['types'][0]
+        type2 = val_if_exists(data[key]['types'], 1)
+        base_hp = data[key]['baseStats']['hp']
+        base_atk = data[key]['baseStats']['atk']
+        base_spa = data[key]['baseStats']['spa']
+        base_def = data[key]['baseStats']['def']
+        base_spd = data[key]['baseStats']['spd']
+        base_spe = data[key]['baseStats']['spe']
+        ability1 = data[key]['abilities']['0']
+        ability2 = val_if_exists(data[key]['abilities'], ['1'])
+        abilityh = val_if_exists(data[key]['abilities'], 'H')
+        prevo = val_if_exists(data[key], 'prevo')
+        evos = val_if_exists(data[key], 'evos')
+        evo1 = val_if_exists(evos, 0)
+        evo2 = val_if_exists(evos, 1)
+        evo3 = val_if_exists(evos, 2)
         
-        params = (num, name, type1, type2, base_hp, base_atk, base_spa, base_def, base_spd, base_spe, ability1, ability2, abilityh, prevo, evo1, evo2, evo3)
+        params = (num, name, gen, base_species, forme, type1, type2, base_hp, base_atk, base_spa, base_def, base_spd, base_spe, ability1, ability2, abilityh, prevo, evo1, evo2, evo3)
         
         cur.execute(f"""
             INSERT INTO pokemon VALUES
-                (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, params)
 
         conn.commit()
 
-    print(cur.execute("""SELECT * FROM pokemon WHERE ability1 = 'Chlorophyll'""").fetchall())
+    test_query = "SELECT num, name, type1, type2 FROM pokemon WHERE gen = 3"
+    run_test_query(test_query)
+
+    conn.close()

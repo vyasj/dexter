@@ -1,0 +1,2 @@
+2024-11-23 14:31:42,129 - DEBUG - Running test query: select * from pokemon where num = 700
+2024-11-23 14:31:42,130 - DEBUG - (700, 'Sylveon', 6, None, None, 'Fairy', None, 95, 65, 110, 65, 130, 60, 'Cute Charm', None, 'Pixilate', 'Eevee', None, None, None)

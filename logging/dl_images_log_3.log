@@ -1,0 +1,2 @@
+2024-11-23 13:04:12,286 - DEBUG - Running test query: SELECT num, name, type1, type2 FROM pokemon WHERE gen = 3
+2024-11-23 13:04:12,286 - DEBUG - None

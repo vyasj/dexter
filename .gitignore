@@ -1,2 +1,4 @@
 /target
 /pkmn_venv
+/logging
+/__pycache__

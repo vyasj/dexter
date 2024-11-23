@@ -1,2 +1,0 @@
-2024-11-23 14:31:22,755 - DEBUG - Running test query: select * from pokemon where name = 'Bulbasaur'
-2024-11-23 14:31:22,756 - DEBUG - (1, 'Bulbasaur', 1, None, None, 'Grass', 'Poison', 45, 49, 65, 49, 65, 45, 'Overgrow', None, 'Chlorophyll', None, 'Ivysaur', None, None)

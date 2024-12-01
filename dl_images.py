@@ -25,7 +25,7 @@ def download(batch_size):
     logging.debug(f"Running query: {query}")
     result = cur.execute(query).fetchall()
 
-    forms = ["normal", "shiny", "back", "back-shiny"]
+    forms = ["normal", "back"]
     generations = {
         1 : ["yellow", "red-blue"],
         2 : ["crystal", "gold", "silver"],

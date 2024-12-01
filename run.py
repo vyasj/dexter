@@ -4,6 +4,7 @@ import argparse
 import logging
 import os
 
+
 def setup_logging(log_number):
     logging.basicConfig(
         level=logging.DEBUG,

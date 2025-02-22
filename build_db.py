@@ -74,6 +74,7 @@ def create():
                 evo2, 
                 evo3
                 )""")
+    conn.commit()
     conn.close()
 
 
@@ -86,12 +87,12 @@ def populate():
     cur = conn.cursor()
 
     for key in data.keys():
-        logging.debug(f"Inserting {key} into table")
         is_nonstandard = val_if_exists(data[key], 'isNonstandard')
         
         if is_nonstandard == 'Custom' or is_nonstandard == 'CAP':
             logging.debug(f'Skipping {key}')
             continue
+        logging.debug(f"Inserting {key} into table")
 
         num = data[key]['num']
         name = data[key]['name']

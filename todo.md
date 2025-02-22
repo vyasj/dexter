@@ -1,3 +1,6 @@
+# General
+- Fix logging messages/logfile names
+
 # Database
 - ~~Use pokedex data from pokemonshowdown~~
 - ~~Sqlite~~
@@ -12,4 +15,4 @@
 # Neural Net
 - Implement ImageNet from original paper in Rust
 - Possible RNN component
-- Meta-model of multiple models, one for each generation
+- Meta-model of multiple models, one for each generation?

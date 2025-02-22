@@ -77,17 +77,6 @@ def create():
     conn.close()
 
 
-def run_test_query(q):
-    logging.debug(f"Running test query: {q}")
-
-    conn = sqlite3.connect("pokedex.db")
-    cur = conn.cursor()
-    cur.execute(q)
-
-    logging.debug(cur.execute(f"""{q}""").fetchone())
-
-    conn.close()
-
 
 def populate():
     logging.debug("Populating table with data from json file")
@@ -134,8 +123,5 @@ def populate():
         """, params)
 
         conn.commit()
-
-    test_query = "SELECT num, name, type1, type2 FROM pokemon WHERE gen = 3"
-    run_test_query(test_query)
 
     conn.close()

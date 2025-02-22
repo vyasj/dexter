@@ -1,5 +1,5 @@
 /target
-/pkmn_venv
+/.venv
 /logging
 /images
 /__pycache__

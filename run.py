@@ -1,8 +1,9 @@
-import build_db
-import dl_images
 import argparse
 import logging
 import os
+
+import build_db
+import dl_images
 
 
 def setup_logging(log_number):

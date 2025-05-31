@@ -116,7 +116,28 @@ def populate():
         evo2 = val_if_exists(evos, 1)
         evo3 = val_if_exists(evos, 2)
         
-        params = (num, name, gen, base_species, forme, type1, type2, base_hp, base_atk, base_spa, base_def, base_spd, base_spe, ability1, ability2, abilityh, prevo, evo1, evo2, evo3)
+        params = (
+                    num, 
+                    name, 
+                    gen, 
+                    base_species, 
+                    forme, 
+                    type1, 
+                    type2, 
+                    base_hp, 
+                    base_atk, 
+                    base_spa, 
+                    base_def,
+                    base_spd, 
+                    base_spe, 
+                    ability1, 
+                    ability2, 
+                    abilityh, 
+                    prevo, 
+                    evo1, 
+                    evo2, 
+                    evo3
+                  )
         
         cur.execute(f"""
             INSERT INTO pokemon VALUES

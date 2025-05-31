@@ -43,18 +43,18 @@ def download(batch_size):
         start = time.time()
         for g in range(6, gen-1, -1):
             for source in generations[g]:
-                    for form in forms:
-                        if not os.path.exists(f"images/{num}_{name.lower()}"):
-                            logging.debug(f"Making directory: images/{num}_{name.lower()}")
-                            os.mkdir(f"images/{num}_{name.lower()}")
+                for form in forms:
+                    if not os.path.exists(f"images/{num}_{name.lower()}"):
+                        logging.debug(f"Making directory: images/{num}_{name.lower()}")
+                        os.mkdir(f"images/{num}_{name.lower()}")
 
-                        r = requests.get(f"{base_url}/{source}/{form}/{name.lower()}.png")
-                        if r.status_code == 200:
-                            logging.debug(f"Adding images/{num}_{name.lower()}/{source}-{form}.png")
-                            with open(f"images/{num}_{name.lower()}/{source}-{form}.png", "wb") as f:
-                                f.write(r.content)
-                        else:
-                            logging.error(f"Error fetching {base_url}/{source}/{form}/{name.lower()}.png, could be an error with generation, or sprite type")
-                            continue
+                    r = requests.get(f"{base_url}/{source}/{form}/{name.lower()}.png")
+                    if r.status_code == 200:
+                        logging.debug(f"Adding images/{num}_{name.lower()}/{source}-{form}.png")
+                        with open(f"images/{num}_{name.lower()}/{source}-{form}.png", "wb") as f:
+                            f.write(r.content)
+                    else:
+                        logging.error(f"Error fetching {base_url}/{source}/{form}/{name.lower()}.png, could be an error with generation, or sprite type")
+                        continue
         end = time.time()
         logging.debug(f"Total time to fetch {name}: {end-start}s")
